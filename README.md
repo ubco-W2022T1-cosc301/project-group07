@@ -14,9 +14,7 @@ As a group, we have found a common interest in video games which makes this data
 
 ## Describe your dataset in about 150-200 words
 
-**Please remember to update this section**
-
-{Add your stuff here}
+The data in our dataset was collected from Metacritic. Metacritic is a website that collects reviews for different kinds of media. There is specifically a large number of video game reviews on it. BrunoVR (on Kaggle) has compiled the data, and stored it in a csv file, with over 10000 video game titles. It includes information about each game such as the platform, release date, developer, genre, and number of players. There is also information on the scores from both critics and users, as well as the number of critics or users that reviewed each game. We may disregard some of this information to clean up the dataset and make it easier to work with. The data was collected on November 10, 2020. The video games in the data were released between April 29, 1995 and November 10, 2020. The data was originally collected using a scraper, to create a simple content-based recommender system. BrunoVR has also created a dashboard for data exploration and the recommender system. The data was collected for both learning purposes (exploratory data analysis) and for fun.
 
 ## Team Members
 
