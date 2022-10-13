@@ -22,12 +22,12 @@ The data in our dataset was collected from Metacritic. Metacritic is a website t
 
 - Person 1: one sentence about you!
 - Person 2: one sentence about you!
-- Orvin Tritama: a 4th year Computer Science student, who enjoyes coding and gaming !!
+- Person 3: I am Orvin Tritama, a 4th year Computer Science student, who enjoyes coding and gaming !!
 
 ## Images
 
 
-<img src ="images/video-game-image.png" width="100px">
+<img src ="images/video-game-image.jgp" width="100px">
 
 ## References
 
