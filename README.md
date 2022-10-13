@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 07 - {Short snappy Title of your project}
 
 **Please remember to update this section**
 
@@ -22,7 +22,7 @@ The data in our dataset was collected from Metacritic. Metacritic is a website t
 
 - Person 1: one sentence about you!
 - Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Orvin Tritama: a 4th year Computer Science student, who enjoyes coding and gaming !!
 
 ## Images
 
