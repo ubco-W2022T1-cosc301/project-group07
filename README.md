@@ -1,4 +1,4 @@
-# Group 07 - {Short snappy Title of your project}
+# Group 07 - Video Game Data Analysis
 
 **Please remember to update this section**
 
@@ -31,10 +31,8 @@ The data in our dataset was collected from Metacritic. Metacritic is a website t
 
 ## References
 
-**Please remember to update this section**
-
 {Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
 
 - PCQ Bureau. Video game image. https://www.pcquest.com/wp-content/uploads/2021/08/6-Tools-That-Enhance-Online-Gaming3.jpg
 
-
+- Metacritic video-games data. Data source. https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data
