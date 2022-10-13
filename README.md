@@ -27,7 +27,7 @@ The data in our dataset was collected from Metacritic. Metacritic is a website t
 ## Images
 
 
-<img src ="images/video-game-image.jgp" width="100px">
+<img src ="images/video-game-image.jpg" width="100px">
 
 ## References
 
