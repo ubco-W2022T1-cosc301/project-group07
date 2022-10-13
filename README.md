@@ -21,7 +21,7 @@ The data in our dataset was collected from Metacritic. Metacritic is a website t
 **Please remember to update this section**
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Person 2: I'm Fareeha Hayat, 4th year in Computer Science, and I like astronomy and cats!
 - Person 3: I am Orvin Tritama, a 4th year Computer Science student, who enjoyes coding and gaming !!
 
 ## Images
