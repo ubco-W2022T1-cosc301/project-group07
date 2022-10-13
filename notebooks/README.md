@@ -2,8 +2,8 @@
 
 This will be the directories containing all of our member's .ipyb files (notebook files), which are the notebooks containing our codes that we did or will be using for development/analysis throughout the project
 
-- `analysis1.ipynb` : Fareeha Hayat's
-- `analysis2.ipynb` : Kate Naychuk's
+- `analysis1.ipynb` : Kate Naychuk's
+- `analysis2.ipynb` : Fareeha Hayat's
 - `analysis3.ipynb` : Orvin Tritama's
 
 - `/ungraded/` : Anything you don't want to be marked or looked at can be placed in this folder.   
