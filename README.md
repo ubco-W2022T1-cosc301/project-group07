@@ -26,11 +26,8 @@ The data in our dataset was collected from Metacritic. Metacritic is a website t
 
 ## Images
 
-**Please remember to update this section and remove the test image!**
 
-{You can use this area for any images you want to include}
-
-<img src ="images/test.png" width="100px">
+<img src ="images/video-game-image.png" width="100px">
 
 ## References
 
@@ -38,5 +35,6 @@ The data in our dataset was collected from Metacritic. Metacritic is a website t
 
 {Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
 
+- PCQ Bureau. Video game image. https://www.pcquest.com/wp-content/uploads/2021/08/6-Tools-That-Enhance-Online-Gaming3.jpg
 
 
