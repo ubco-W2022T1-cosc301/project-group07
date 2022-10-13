@@ -1,5 +1,7 @@
 # Notebooks Folder
 
+This will be the directories containing all of our member's .ipyb files (notebook files), which are the notebooks containing our codes that we did or will be using for development/analysis throughout the project
+
 - `analysis1.ipynb` : Teammate 1 should have Jupyter Notebook work stored here. Remember to change the header in this file to your names or an alias. Don't change the name of this file.
 - `analysis2.ipynb` : Teammate 2 should have Jupyter Notebook work stored here. Remember to change the header in this file to your names or an alias. Don't change the name of this file.
 - `analysis3.ipynb` : Teammate 3 should have Jupyter Notebook work stored here. Remember to change the header in this file to your names or an alias. Don't change the name of this file.
