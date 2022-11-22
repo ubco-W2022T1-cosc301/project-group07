@@ -1,0 +1,6701 @@
+Developer,Genre,Release Year,Count
+Capcom,2D,1996,0
+Capcom,2D,1997,0
+Capcom,2D,1998,0
+Capcom,2D,1999,1
+Capcom,2D,2000,5
+Capcom,2D,2001,4
+Capcom,2D,2002,3
+Capcom,2D,2003,3
+Capcom,2D,2004,1
+Capcom,2D,2005,2
+Capcom,2D,2006,4
+Capcom,2D,2007,0
+Capcom,2D,2008,0
+Capcom,2D,2009,3
+Capcom,2D,2010,4
+Capcom,2D,2011,7
+Capcom,2D,2012,7
+Capcom,2D,2013,0
+Capcom,2D,2014,2
+Capcom,2D,2015,0
+Capcom,2D,2016,3
+Capcom,2D,2017,4
+Capcom,2D,2018,5
+Capcom,2D,2019,0
+Capcom,2D,2020,2
+Capcom,3D,1996,0
+Capcom,3D,1997,0
+Capcom,3D,1998,0
+Capcom,3D,1999,0
+Capcom,3D,2000,1
+Capcom,3D,2001,1
+Capcom,3D,2002,1
+Capcom,3D,2003,0
+Capcom,3D,2004,2
+Capcom,3D,2005,0
+Capcom,3D,2006,0
+Capcom,3D,2007,0
+Capcom,3D,2008,0
+Capcom,3D,2009,3
+Capcom,3D,2010,4
+Capcom,3D,2011,3
+Capcom,3D,2012,3
+Capcom,3D,2013,0
+Capcom,3D,2014,2
+Capcom,3D,2015,0
+Capcom,3D,2016,0
+Capcom,3D,2017,0
+Capcom,3D,2018,0
+Capcom,3D,2019,0
+Capcom,3D,2020,0
+Capcom,Action,1996,0
+Capcom,Action,1997,0
+Capcom,Action,1998,0
+Capcom,Action,1999,1
+Capcom,Action,2000,7
+Capcom,Action,2001,7
+Capcom,Action,2002,5
+Capcom,Action,2003,5
+Capcom,Action,2004,3
+Capcom,Action,2005,4
+Capcom,Action,2006,5
+Capcom,Action,2007,2
+Capcom,Action,2008,6
+Capcom,Action,2009,3
+Capcom,Action,2010,9
+Capcom,Action,2011,8
+Capcom,Action,2012,9
+Capcom,Action,2013,0
+Capcom,Action,2014,2
+Capcom,Action,2015,0
+Capcom,Action,2016,5
+Capcom,Action,2017,4
+Capcom,Action,2018,5
+Capcom,Action,2019,0
+Capcom,Action,2020,2
+Capcom,Action Adventure,1996,1
+Capcom,Action Adventure,1997,0
+Capcom,Action Adventure,1998,1
+Capcom,Action Adventure,1999,0
+Capcom,Action Adventure,2000,6
+Capcom,Action Adventure,2001,4
+Capcom,Action Adventure,2002,4
+Capcom,Action Adventure,2003,6
+Capcom,Action Adventure,2004,4
+Capcom,Action Adventure,2005,8
+Capcom,Action Adventure,2006,3
+Capcom,Action Adventure,2007,2
+Capcom,Action Adventure,2008,3
+Capcom,Action Adventure,2009,5
+Capcom,Action Adventure,2010,4
+Capcom,Action Adventure,2011,6
+Capcom,Action Adventure,2012,3
+Capcom,Action Adventure,2013,5
+Capcom,Action Adventure,2014,0
+Capcom,Action Adventure,2015,18
+Capcom,Action Adventure,2016,11
+Capcom,Action Adventure,2017,13
+Capcom,Action Adventure,2018,1
+Capcom,Action Adventure,2019,11
+Capcom,Action Adventure,2020,1
+Capcom,Adventure,1996,0
+Capcom,Adventure,1997,0
+Capcom,Adventure,1998,0
+Capcom,Adventure,1999,0
+Capcom,Adventure,2000,1
+Capcom,Adventure,2001,0
+Capcom,Adventure,2002,1
+Capcom,Adventure,2003,0
+Capcom,Adventure,2004,0
+Capcom,Adventure,2005,1
+Capcom,Adventure,2006,0
+Capcom,Adventure,2007,3
+Capcom,Adventure,2008,1
+Capcom,Adventure,2009,0
+Capcom,Adventure,2010,3
+Capcom,Adventure,2011,1
+Capcom,Adventure,2012,0
+Capcom,Adventure,2013,1
+Capcom,Adventure,2014,0
+Capcom,Adventure,2015,0
+Capcom,Adventure,2016,1
+Capcom,Adventure,2017,1
+Capcom,Adventure,2018,0
+Capcom,Adventure,2019,0
+Capcom,Adventure,2020,0
+Capcom,Arcade,1996,0
+Capcom,Arcade,1997,0
+Capcom,Arcade,1998,0
+Capcom,Arcade,1999,0
+Capcom,Arcade,2000,0
+Capcom,Arcade,2001,0
+Capcom,Arcade,2002,0
+Capcom,Arcade,2003,0
+Capcom,Arcade,2004,1
+Capcom,Arcade,2005,0
+Capcom,Arcade,2006,0
+Capcom,Arcade,2007,2
+Capcom,Arcade,2008,3
+Capcom,Arcade,2009,0
+Capcom,Arcade,2010,3
+Capcom,Arcade,2011,0
+Capcom,Arcade,2012,0
+Capcom,Arcade,2013,0
+Capcom,Arcade,2014,0
+Capcom,Arcade,2015,0
+Capcom,Arcade,2016,0
+Capcom,Arcade,2017,0
+Capcom,Arcade,2018,0
+Capcom,Arcade,2019,0
+Capcom,Arcade,2020,0
+Capcom,Compilation,1996,0
+Capcom,Compilation,1997,0
+Capcom,Compilation,1998,0
+Capcom,Compilation,1999,0
+Capcom,Compilation,2000,0
+Capcom,Compilation,2001,0
+Capcom,Compilation,2002,0
+Capcom,Compilation,2003,0
+Capcom,Compilation,2004,1
+Capcom,Compilation,2005,2
+Capcom,Compilation,2006,3
+Capcom,Compilation,2007,1
+Capcom,Compilation,2008,0
+Capcom,Compilation,2009,0
+Capcom,Compilation,2010,2
+Capcom,Compilation,2011,0
+Capcom,Compilation,2012,2
+Capcom,Compilation,2013,0
+Capcom,Compilation,2014,0
+Capcom,Compilation,2015,0
+Capcom,Compilation,2016,0
+Capcom,Compilation,2017,1
+Capcom,Compilation,2018,9
+Capcom,Compilation,2019,4
+Capcom,Compilation,2020,3
+Capcom,Driving,1996,0
+Capcom,Driving,1997,0
+Capcom,Driving,1998,0
+Capcom,Driving,1999,0
+Capcom,Driving,2000,0
+Capcom,Driving,2001,0
+Capcom,Driving,2002,0
+Capcom,Driving,2003,2
+Capcom,Driving,2004,1
+Capcom,Driving,2005,0
+Capcom,Driving,2006,0
+Capcom,Driving,2007,0
+Capcom,Driving,2008,0
+Capcom,Driving,2009,0
+Capcom,Driving,2010,0
+Capcom,Driving,2011,0
+Capcom,Driving,2012,0
+Capcom,Driving,2013,0
+Capcom,Driving,2014,0
+Capcom,Driving,2015,0
+Capcom,Driving,2016,0
+Capcom,Driving,2017,0
+Capcom,Driving,2018,0
+Capcom,Driving,2019,0
+Capcom,Driving,2020,0
+Capcom,Fantasy,1996,0
+Capcom,Fantasy,1997,0
+Capcom,Fantasy,1998,0
+Capcom,Fantasy,1999,0
+Capcom,Fantasy,2000,1
+Capcom,Fantasy,2001,2
+Capcom,Fantasy,2002,4
+Capcom,Fantasy,2003,3
+Capcom,Fantasy,2004,2
+Capcom,Fantasy,2005,1
+Capcom,Fantasy,2006,2
+Capcom,Fantasy,2007,0
+Capcom,Fantasy,2008,3
+Capcom,Fantasy,2009,0
+Capcom,Fantasy,2010,0
+Capcom,Fantasy,2011,1
+Capcom,Fantasy,2012,0
+Capcom,Fantasy,2013,1
+Capcom,Fantasy,2014,0
+Capcom,Fantasy,2015,2
+Capcom,Fantasy,2016,0
+Capcom,Fantasy,2017,0
+Capcom,Fantasy,2018,0
+Capcom,Fantasy,2019,0
+Capcom,Fantasy,2020,0
+Capcom,Fighting,1996,0
+Capcom,Fighting,1997,0
+Capcom,Fighting,1998,0
+Capcom,Fighting,1999,1
+Capcom,Fighting,2000,5
+Capcom,Fighting,2001,3
+Capcom,Fighting,2002,2
+Capcom,Fighting,2003,2
+Capcom,Fighting,2004,2
+Capcom,Fighting,2005,2
+Capcom,Fighting,2006,1
+Capcom,Fighting,2007,0
+Capcom,Fighting,2008,0
+Capcom,Fighting,2009,3
+Capcom,Fighting,2010,2
+Capcom,Fighting,2011,7
+Capcom,Fighting,2012,6
+Capcom,Fighting,2013,0
+Capcom,Fighting,2014,2
+Capcom,Fighting,2015,0
+Capcom,Fighting,2016,3
+Capcom,Fighting,2017,4
+Capcom,Fighting,2018,1
+Capcom,Fighting,2019,0
+Capcom,Fighting,2020,1
+Capcom,First-Person,1996,0
+Capcom,First-Person,1997,0
+Capcom,First-Person,1998,0
+Capcom,First-Person,1999,0
+Capcom,First-Person,2000,0
+Capcom,First-Person,2001,0
+Capcom,First-Person,2002,0
+Capcom,First-Person,2003,0
+Capcom,First-Person,2004,0
+Capcom,First-Person,2005,1
+Capcom,First-Person,2006,0
+Capcom,First-Person,2007,2
+Capcom,First-Person,2008,0
+Capcom,First-Person,2009,0
+Capcom,First-Person,2010,2
+Capcom,First-Person,2011,0
+Capcom,First-Person,2012,0
+Capcom,First-Person,2013,0
+Capcom,First-Person,2014,0
+Capcom,First-Person,2015,0
+Capcom,First-Person,2016,0
+Capcom,First-Person,2017,0
+Capcom,First-Person,2018,0
+Capcom,First-Person,2019,0
+Capcom,First-Person,2020,0
+Capcom,General,1996,0
+Capcom,General,1997,0
+Capcom,General,1998,0
+Capcom,General,1999,0
+Capcom,General,2000,1
+Capcom,General,2001,2
+Capcom,General,2002,0
+Capcom,General,2003,1
+Capcom,General,2004,0
+Capcom,General,2005,0
+Capcom,General,2006,0
+Capcom,General,2007,1
+Capcom,General,2008,4
+Capcom,General,2009,0
+Capcom,General,2010,1
+Capcom,General,2011,2
+Capcom,General,2012,2
+Capcom,General,2013,1
+Capcom,General,2014,0
+Capcom,General,2015,3
+Capcom,General,2016,0
+Capcom,General,2017,3
+Capcom,General,2018,1
+Capcom,General,2019,4
+Capcom,General,2020,0
+Capcom,Miscellaneous,1996,1
+Capcom,Miscellaneous,1997,0
+Capcom,Miscellaneous,1998,0
+Capcom,Miscellaneous,1999,0
+Capcom,Miscellaneous,2000,0
+Capcom,Miscellaneous,2001,0
+Capcom,Miscellaneous,2002,0
+Capcom,Miscellaneous,2003,0
+Capcom,Miscellaneous,2004,2
+Capcom,Miscellaneous,2005,2
+Capcom,Miscellaneous,2006,3
+Capcom,Miscellaneous,2007,1
+Capcom,Miscellaneous,2008,0
+Capcom,Miscellaneous,2009,0
+Capcom,Miscellaneous,2010,2
+Capcom,Miscellaneous,2011,0
+Capcom,Miscellaneous,2012,2
+Capcom,Miscellaneous,2013,0
+Capcom,Miscellaneous,2014,0
+Capcom,Miscellaneous,2015,0
+Capcom,Miscellaneous,2016,0
+Capcom,Miscellaneous,2017,1
+Capcom,Miscellaneous,2018,9
+Capcom,Miscellaneous,2019,4
+Capcom,Miscellaneous,2020,3
+Capcom,Modern,1996,0
+Capcom,Modern,1997,0
+Capcom,Modern,1998,0
+Capcom,Modern,1999,0
+Capcom,Modern,2000,0
+Capcom,Modern,2001,0
+Capcom,Modern,2002,0
+Capcom,Modern,2003,0
+Capcom,Modern,2004,0
+Capcom,Modern,2005,1
+Capcom,Modern,2006,0
+Capcom,Modern,2007,2
+Capcom,Modern,2008,0
+Capcom,Modern,2009,0
+Capcom,Modern,2010,2
+Capcom,Modern,2011,0
+Capcom,Modern,2012,0
+Capcom,Modern,2013,0
+Capcom,Modern,2014,0
+Capcom,Modern,2015,0
+Capcom,Modern,2016,0
+Capcom,Modern,2017,0
+Capcom,Modern,2018,0
+Capcom,Modern,2019,0
+Capcom,Modern,2020,0
+Capcom,Platformer,1996,0
+Capcom,Platformer,1997,0
+Capcom,Platformer,1998,0
+Capcom,Platformer,1999,0
+Capcom,Platformer,2000,1
+Capcom,Platformer,2001,2
+Capcom,Platformer,2002,2
+Capcom,Platformer,2003,1
+Capcom,Platformer,2004,1
+Capcom,Platformer,2005,0
+Capcom,Platformer,2006,3
+Capcom,Platformer,2007,0
+Capcom,Platformer,2008,0
+Capcom,Platformer,2009,0
+Capcom,Platformer,2010,0
+Capcom,Platformer,2011,0
+Capcom,Platformer,2012,1
+Capcom,Platformer,2013,0
+Capcom,Platformer,2014,0
+Capcom,Platformer,2015,0
+Capcom,Platformer,2016,0
+Capcom,Platformer,2017,0
+Capcom,Platformer,2018,4
+Capcom,Platformer,2019,0
+Capcom,Platformer,2020,1
+Capcom,Racing,1996,0
+Capcom,Racing,1997,0
+Capcom,Racing,1998,0
+Capcom,Racing,1999,0
+Capcom,Racing,2000,0
+Capcom,Racing,2001,0
+Capcom,Racing,2002,0
+Capcom,Racing,2003,2
+Capcom,Racing,2004,1
+Capcom,Racing,2005,0
+Capcom,Racing,2006,0
+Capcom,Racing,2007,0
+Capcom,Racing,2008,0
+Capcom,Racing,2009,0
+Capcom,Racing,2010,0
+Capcom,Racing,2011,0
+Capcom,Racing,2012,0
+Capcom,Racing,2013,0
+Capcom,Racing,2014,0
+Capcom,Racing,2015,0
+Capcom,Racing,2016,0
+Capcom,Racing,2017,0
+Capcom,Racing,2018,0
+Capcom,Racing,2019,0
+Capcom,Racing,2020,0
+Capcom,Role-Playing,1996,0
+Capcom,Role-Playing,1997,0
+Capcom,Role-Playing,1998,0
+Capcom,Role-Playing,1999,0
+Capcom,Role-Playing,2000,1
+Capcom,Role-Playing,2001,2
+Capcom,Role-Playing,2002,2
+Capcom,Role-Playing,2003,2
+Capcom,Role-Playing,2004,3
+Capcom,Role-Playing,2005,3
+Capcom,Role-Playing,2006,3
+Capcom,Role-Playing,2007,4
+Capcom,Role-Playing,2008,2
+Capcom,Role-Playing,2009,3
+Capcom,Role-Playing,2010,1
+Capcom,Role-Playing,2011,0
+Capcom,Role-Playing,2012,2
+Capcom,Role-Playing,2013,3
+Capcom,Role-Playing,2014,0
+Capcom,Role-Playing,2015,1
+Capcom,Role-Playing,2016,1
+Capcom,Role-Playing,2017,3
+Capcom,Role-Playing,2018,4
+Capcom,Role-Playing,2019,3
+Capcom,Role-Playing,2020,1
+Capcom,Shooter,1996,0
+Capcom,Shooter,1997,0
+Capcom,Shooter,1998,0
+Capcom,Shooter,1999,0
+Capcom,Shooter,2000,1
+Capcom,Shooter,2001,0
+Capcom,Shooter,2002,1
+Capcom,Shooter,2003,1
+Capcom,Shooter,2004,0
+Capcom,Shooter,2005,1
+Capcom,Shooter,2006,0
+Capcom,Shooter,2007,2
+Capcom,Shooter,2008,4
+Capcom,Shooter,2009,0
+Capcom,Shooter,2010,3
+Capcom,Shooter,2011,1
+Capcom,Shooter,2012,0
+Capcom,Shooter,2013,0
+Capcom,Shooter,2014,0
+Capcom,Shooter,2015,0
+Capcom,Shooter,2016,2
+Capcom,Shooter,2017,0
+Capcom,Shooter,2018,0
+Capcom,Shooter,2019,0
+Capcom,Shooter,2020,0
+Capcom,Simulation,1996,0
+Capcom,Simulation,1997,0
+Capcom,Simulation,1998,0
+Capcom,Simulation,1999,0
+Capcom,Simulation,2000,0
+Capcom,Simulation,2001,0
+Capcom,Simulation,2002,2
+Capcom,Simulation,2003,0
+Capcom,Simulation,2004,1
+Capcom,Simulation,2005,0
+Capcom,Simulation,2006,0
+Capcom,Simulation,2007,0
+Capcom,Simulation,2008,0
+Capcom,Simulation,2009,0
+Capcom,Simulation,2010,0
+Capcom,Simulation,2011,0
+Capcom,Simulation,2012,0
+Capcom,Simulation,2013,0
+Capcom,Simulation,2014,0
+Capcom,Simulation,2015,0
+Capcom,Simulation,2016,0
+Capcom,Simulation,2017,0
+Capcom,Simulation,2018,0
+Capcom,Simulation,2019,0
+Capcom,Simulation,2020,0
+Capcom,Sports,1996,0
+Capcom,Sports,1997,0
+Capcom,Sports,1998,0
+Capcom,Sports,1999,0
+Capcom,Sports,2000,0
+Capcom,Sports,2001,0
+Capcom,Sports,2002,0
+Capcom,Sports,2003,1
+Capcom,Sports,2004,0
+Capcom,Sports,2005,0
+Capcom,Sports,2006,0
+Capcom,Sports,2007,0
+Capcom,Sports,2008,0
+Capcom,Sports,2009,0
+Capcom,Sports,2010,0
+Capcom,Sports,2011,0
+Capcom,Sports,2012,0
+Capcom,Sports,2013,0
+Capcom,Sports,2014,0
+Capcom,Sports,2015,0
+Capcom,Sports,2016,0
+Capcom,Sports,2017,0
+Capcom,Sports,2018,0
+Capcom,Sports,2019,0
+Capcom,Sports,2020,0
+Capcom,Third-Person,1996,0
+Capcom,Third-Person,1997,0
+Capcom,Third-Person,1998,0
+Capcom,Third-Person,1999,0
+Capcom,Third-Person,2000,1
+Capcom,Third-Person,2001,0
+Capcom,Third-Person,2002,1
+Capcom,Third-Person,2003,1
+Capcom,Third-Person,2004,0
+Capcom,Third-Person,2005,1
+Capcom,Third-Person,2006,0
+Capcom,Third-Person,2007,2
+Capcom,Third-Person,2008,4
+Capcom,Third-Person,2009,0
+Capcom,Third-Person,2010,3
+Capcom,Third-Person,2011,1
+Capcom,Third-Person,2012,0
+Capcom,Third-Person,2013,0
+Capcom,Third-Person,2014,0
+Capcom,Third-Person,2015,0
+Capcom,Third-Person,2016,2
+Capcom,Third-Person,2017,0
+Capcom,Third-Person,2018,0
+Capcom,Third-Person,2019,0
+Capcom,Third-Person,2020,0
+Codemasters,Action,1996,0
+Codemasters,Action,1997,0
+Codemasters,Action,1998,0
+Codemasters,Action,1999,0
+Codemasters,Action,2000,0
+Codemasters,Action,2001,0
+Codemasters,Action,2002,0
+Codemasters,Action,2003,0
+Codemasters,Action,2004,0
+Codemasters,Action,2005,0
+Codemasters,Action,2006,0
+Codemasters,Action,2007,0
+Codemasters,Action,2008,0
+Codemasters,Action,2009,3
+Codemasters,Action,2010,0
+Codemasters,Action,2011,3
+Codemasters,Action,2012,0
+Codemasters,Action,2013,0
+Codemasters,Action,2014,0
+Codemasters,Action,2015,0
+Codemasters,Action,2016,0
+Codemasters,Action,2017,0
+Codemasters,Action,2018,0
+Codemasters,Action,2019,0
+Codemasters,Action,2020,0
+Codemasters,Arcade,1996,0
+Codemasters,Arcade,1997,0
+Codemasters,Arcade,1998,0
+Codemasters,Arcade,1999,0
+Codemasters,Arcade,2000,0
+Codemasters,Arcade,2001,0
+Codemasters,Arcade,2002,0
+Codemasters,Arcade,2003,0
+Codemasters,Arcade,2004,0
+Codemasters,Arcade,2005,0
+Codemasters,Arcade,2006,0
+Codemasters,Arcade,2007,0
+Codemasters,Arcade,2008,0
+Codemasters,Arcade,2009,0
+Codemasters,Arcade,2010,0
+Codemasters,Arcade,2011,3
+Codemasters,Arcade,2012,3
+Codemasters,Arcade,2013,0
+Codemasters,Arcade,2014,2
+Codemasters,Arcade,2015,0
+Codemasters,Arcade,2016,0
+Codemasters,Arcade,2017,1
+Codemasters,Arcade,2018,2
+Codemasters,Arcade,2019,0
+Codemasters,Arcade,2020,0
+Codemasters,Automobile,1996,0
+Codemasters,Automobile,1997,0
+Codemasters,Automobile,1998,0
+Codemasters,Automobile,1999,0
+Codemasters,Automobile,2000,0
+Codemasters,Automobile,2001,1
+Codemasters,Automobile,2002,0
+Codemasters,Automobile,2003,2
+Codemasters,Automobile,2004,1
+Codemasters,Automobile,2005,0
+Codemasters,Automobile,2006,1
+Codemasters,Automobile,2007,3
+Codemasters,Automobile,2008,3
+Codemasters,Automobile,2009,5
+Codemasters,Automobile,2010,0
+Codemasters,Automobile,2011,7
+Codemasters,Automobile,2012,10
+Codemasters,Automobile,2013,5
+Codemasters,Automobile,2014,5
+Codemasters,Automobile,2015,4
+Codemasters,Automobile,2016,5
+Codemasters,Automobile,2017,6
+Codemasters,Automobile,2018,5
+Codemasters,Automobile,2019,9
+Codemasters,Automobile,2020,4
+Codemasters,Driving,1996,0
+Codemasters,Driving,1997,0
+Codemasters,Driving,1998,0
+Codemasters,Driving,1999,0
+Codemasters,Driving,2000,2
+Codemasters,Driving,2001,1
+Codemasters,Driving,2002,1
+Codemasters,Driving,2003,7
+Codemasters,Driving,2004,4
+Codemasters,Driving,2005,0
+Codemasters,Driving,2006,3
+Codemasters,Driving,2007,3
+Codemasters,Driving,2008,3
+Codemasters,Driving,2009,5
+Codemasters,Driving,2010,0
+Codemasters,Driving,2011,7
+Codemasters,Driving,2012,10
+Codemasters,Driving,2013,5
+Codemasters,Driving,2014,5
+Codemasters,Driving,2015,0
+Codemasters,Driving,2016,0
+Codemasters,Driving,2017,0
+Codemasters,Driving,2018,0
+Codemasters,Driving,2019,0
+Codemasters,Driving,2020,0
+Codemasters,First-Person,1996,0
+Codemasters,First-Person,1997,0
+Codemasters,First-Person,1998,0
+Codemasters,First-Person,1999,0
+Codemasters,First-Person,2000,0
+Codemasters,First-Person,2001,0
+Codemasters,First-Person,2002,0
+Codemasters,First-Person,2003,0
+Codemasters,First-Person,2004,0
+Codemasters,First-Person,2005,0
+Codemasters,First-Person,2006,0
+Codemasters,First-Person,2007,0
+Codemasters,First-Person,2008,0
+Codemasters,First-Person,2009,3
+Codemasters,First-Person,2010,0
+Codemasters,First-Person,2011,3
+Codemasters,First-Person,2012,0
+Codemasters,First-Person,2013,0
+Codemasters,First-Person,2014,0
+Codemasters,First-Person,2015,0
+Codemasters,First-Person,2016,0
+Codemasters,First-Person,2017,0
+Codemasters,First-Person,2018,0
+Codemasters,First-Person,2019,0
+Codemasters,First-Person,2020,0
+Codemasters,General,1996,0
+Codemasters,General,1997,0
+Codemasters,General,1998,0
+Codemasters,General,1999,0
+Codemasters,General,2000,0
+Codemasters,General,2001,0
+Codemasters,General,2002,0
+Codemasters,General,2003,0
+Codemasters,General,2004,1
+Codemasters,General,2005,0
+Codemasters,General,2006,3
+Codemasters,General,2007,0
+Codemasters,General,2008,0
+Codemasters,General,2009,0
+Codemasters,General,2010,0
+Codemasters,General,2011,0
+Codemasters,General,2012,0
+Codemasters,General,2013,0
+Codemasters,General,2014,0
+Codemasters,General,2015,0
+Codemasters,General,2016,0
+Codemasters,General,2017,1
+Codemasters,General,2018,0
+Codemasters,General,2019,0
+Codemasters,General,2020,0
+Codemasters,Modern,1996,0
+Codemasters,Modern,1997,0
+Codemasters,Modern,1998,0
+Codemasters,Modern,1999,0
+Codemasters,Modern,2000,0
+Codemasters,Modern,2001,0
+Codemasters,Modern,2002,0
+Codemasters,Modern,2003,0
+Codemasters,Modern,2004,0
+Codemasters,Modern,2005,0
+Codemasters,Modern,2006,0
+Codemasters,Modern,2007,0
+Codemasters,Modern,2008,0
+Codemasters,Modern,2009,3
+Codemasters,Modern,2010,0
+Codemasters,Modern,2011,3
+Codemasters,Modern,2012,0
+Codemasters,Modern,2013,0
+Codemasters,Modern,2014,0
+Codemasters,Modern,2015,0
+Codemasters,Modern,2016,0
+Codemasters,Modern,2017,0
+Codemasters,Modern,2018,0
+Codemasters,Modern,2019,0
+Codemasters,Modern,2020,0
+Codemasters,Racing,1996,0
+Codemasters,Racing,1997,0
+Codemasters,Racing,1998,0
+Codemasters,Racing,1999,0
+Codemasters,Racing,2000,2
+Codemasters,Racing,2001,1
+Codemasters,Racing,2002,1
+Codemasters,Racing,2003,7
+Codemasters,Racing,2004,4
+Codemasters,Racing,2005,0
+Codemasters,Racing,2006,1
+Codemasters,Racing,2007,3
+Codemasters,Racing,2008,3
+Codemasters,Racing,2009,5
+Codemasters,Racing,2010,0
+Codemasters,Racing,2011,7
+Codemasters,Racing,2012,10
+Codemasters,Racing,2013,5
+Codemasters,Racing,2014,5
+Codemasters,Racing,2015,4
+Codemasters,Racing,2016,5
+Codemasters,Racing,2017,6
+Codemasters,Racing,2018,5
+Codemasters,Racing,2019,9
+Codemasters,Racing,2020,4
+Codemasters,Shooter,1996,0
+Codemasters,Shooter,1997,0
+Codemasters,Shooter,1998,0
+Codemasters,Shooter,1999,0
+Codemasters,Shooter,2000,0
+Codemasters,Shooter,2001,0
+Codemasters,Shooter,2002,0
+Codemasters,Shooter,2003,0
+Codemasters,Shooter,2004,0
+Codemasters,Shooter,2005,0
+Codemasters,Shooter,2006,0
+Codemasters,Shooter,2007,0
+Codemasters,Shooter,2008,0
+Codemasters,Shooter,2009,3
+Codemasters,Shooter,2010,0
+Codemasters,Shooter,2011,3
+Codemasters,Shooter,2012,0
+Codemasters,Shooter,2013,0
+Codemasters,Shooter,2014,0
+Codemasters,Shooter,2015,0
+Codemasters,Shooter,2016,0
+Codemasters,Shooter,2017,0
+Codemasters,Shooter,2018,0
+Codemasters,Shooter,2019,0
+Codemasters,Shooter,2020,0
+Codemasters,Sim,1996,0
+Codemasters,Sim,1997,0
+Codemasters,Sim,1998,0
+Codemasters,Sim,1999,0
+Codemasters,Sim,2000,0
+Codemasters,Sim,2001,0
+Codemasters,Sim,2002,0
+Codemasters,Sim,2003,0
+Codemasters,Sim,2004,1
+Codemasters,Sim,2005,0
+Codemasters,Sim,2006,0
+Codemasters,Sim,2007,1
+Codemasters,Sim,2008,0
+Codemasters,Sim,2009,0
+Codemasters,Sim,2010,0
+Codemasters,Sim,2011,0
+Codemasters,Sim,2012,0
+Codemasters,Sim,2013,0
+Codemasters,Sim,2014,0
+Codemasters,Sim,2015,0
+Codemasters,Sim,2016,0
+Codemasters,Sim,2017,0
+Codemasters,Sim,2018,0
+Codemasters,Sim,2019,0
+Codemasters,Sim,2020,0
+Codemasters,Simulation,1996,0
+Codemasters,Simulation,1997,0
+Codemasters,Simulation,1998,0
+Codemasters,Simulation,1999,0
+Codemasters,Simulation,2000,0
+Codemasters,Simulation,2001,1
+Codemasters,Simulation,2002,0
+Codemasters,Simulation,2003,2
+Codemasters,Simulation,2004,1
+Codemasters,Simulation,2005,0
+Codemasters,Simulation,2006,1
+Codemasters,Simulation,2007,3
+Codemasters,Simulation,2008,3
+Codemasters,Simulation,2009,5
+Codemasters,Simulation,2010,0
+Codemasters,Simulation,2011,7
+Codemasters,Simulation,2012,7
+Codemasters,Simulation,2013,5
+Codemasters,Simulation,2014,3
+Codemasters,Simulation,2015,4
+Codemasters,Simulation,2016,5
+Codemasters,Simulation,2017,5
+Codemasters,Simulation,2018,3
+Codemasters,Simulation,2019,9
+Codemasters,Simulation,2020,4
+Codemasters,Soccer,1996,0
+Codemasters,Soccer,1997,0
+Codemasters,Soccer,1998,0
+Codemasters,Soccer,1999,0
+Codemasters,Soccer,2000,0
+Codemasters,Soccer,2001,0
+Codemasters,Soccer,2002,0
+Codemasters,Soccer,2003,0
+Codemasters,Soccer,2004,1
+Codemasters,Soccer,2005,0
+Codemasters,Soccer,2006,0
+Codemasters,Soccer,2007,1
+Codemasters,Soccer,2008,0
+Codemasters,Soccer,2009,0
+Codemasters,Soccer,2010,0
+Codemasters,Soccer,2011,0
+Codemasters,Soccer,2012,0
+Codemasters,Soccer,2013,0
+Codemasters,Soccer,2014,0
+Codemasters,Soccer,2015,0
+Codemasters,Soccer,2016,0
+Codemasters,Soccer,2017,0
+Codemasters,Soccer,2018,0
+Codemasters,Soccer,2019,0
+Codemasters,Soccer,2020,0
+Codemasters,Sports,1996,0
+Codemasters,Sports,1997,0
+Codemasters,Sports,1998,0
+Codemasters,Sports,1999,0
+Codemasters,Sports,2000,1
+Codemasters,Sports,2001,0
+Codemasters,Sports,2002,1
+Codemasters,Sports,2003,0
+Codemasters,Sports,2004,1
+Codemasters,Sports,2005,0
+Codemasters,Sports,2006,0
+Codemasters,Sports,2007,2
+Codemasters,Sports,2008,0
+Codemasters,Sports,2009,0
+Codemasters,Sports,2010,0
+Codemasters,Sports,2011,0
+Codemasters,Sports,2012,0
+Codemasters,Sports,2013,0
+Codemasters,Sports,2014,0
+Codemasters,Sports,2015,0
+Codemasters,Sports,2016,0
+Codemasters,Sports,2017,0
+Codemasters,Sports,2018,0
+Codemasters,Sports,2019,0
+Codemasters,Sports,2020,0
+Codemasters,Team,1996,0
+Codemasters,Team,1997,0
+Codemasters,Team,1998,0
+Codemasters,Team,1999,0
+Codemasters,Team,2000,0
+Codemasters,Team,2001,0
+Codemasters,Team,2002,0
+Codemasters,Team,2003,0
+Codemasters,Team,2004,0
+Codemasters,Team,2005,0
+Codemasters,Team,2006,0
+Codemasters,Team,2007,2
+Codemasters,Team,2008,0
+Codemasters,Team,2009,0
+Codemasters,Team,2010,0
+Codemasters,Team,2011,0
+Codemasters,Team,2012,0
+Codemasters,Team,2013,0
+Codemasters,Team,2014,0
+Codemasters,Team,2015,0
+Codemasters,Team,2016,0
+Codemasters,Team,2017,0
+Codemasters,Team,2018,0
+Codemasters,Team,2019,0
+Codemasters,Team,2020,0
+Codemasters,Traditional,1996,0
+Codemasters,Traditional,1997,0
+Codemasters,Traditional,1998,0
+Codemasters,Traditional,1999,0
+Codemasters,Traditional,2000,1
+Codemasters,Traditional,2001,0
+Codemasters,Traditional,2002,1
+Codemasters,Traditional,2003,0
+Codemasters,Traditional,2004,1
+Codemasters,Traditional,2005,0
+Codemasters,Traditional,2006,0
+Codemasters,Traditional,2007,1
+Codemasters,Traditional,2008,0
+Codemasters,Traditional,2009,0
+Codemasters,Traditional,2010,0
+Codemasters,Traditional,2011,0
+Codemasters,Traditional,2012,0
+Codemasters,Traditional,2013,0
+Codemasters,Traditional,2014,0
+Codemasters,Traditional,2015,0
+Codemasters,Traditional,2016,0
+Codemasters,Traditional,2017,0
+Codemasters,Traditional,2018,0
+Codemasters,Traditional,2019,0
+Codemasters,Traditional,2020,0
+EACanada,3D,1996,0
+EACanada,3D,1997,0
+EACanada,3D,1998,0
+EACanada,3D,1999,0
+EACanada,3D,2000,0
+EACanada,3D,2001,0
+EACanada,3D,2002,0
+EACanada,3D,2003,0
+EACanada,3D,2004,0
+EACanada,3D,2005,1
+EACanada,3D,2006,0
+EACanada,3D,2007,0
+EACanada,3D,2008,0
+EACanada,3D,2009,0
+EACanada,3D,2010,0
+EACanada,3D,2011,0
+EACanada,3D,2012,0
+EACanada,3D,2013,0
+EACanada,3D,2014,0
+EACanada,3D,2015,0
+EACanada,3D,2016,0
+EACanada,3D,2017,0
+EACanada,3D,2018,0
+EACanada,3D,2019,0
+EACanada,3D,2020,0
+EACanada,Action,1996,0
+EACanada,Action,1997,0
+EACanada,Action,1998,0
+EACanada,Action,1999,0
+EACanada,Action,2000,0
+EACanada,Action,2001,0
+EACanada,Action,2002,0
+EACanada,Action,2003,0
+EACanada,Action,2004,0
+EACanada,Action,2005,1
+EACanada,Action,2006,0
+EACanada,Action,2007,2
+EACanada,Action,2008,0
+EACanada,Action,2009,0
+EACanada,Action,2010,0
+EACanada,Action,2011,0
+EACanada,Action,2012,0
+EACanada,Action,2013,0
+EACanada,Action,2014,0
+EACanada,Action,2015,0
+EACanada,Action,2016,0
+EACanada,Action,2017,0
+EACanada,Action,2018,0
+EACanada,Action,2019,0
+EACanada,Action,2020,0
+EACanada,Action Adventure,1996,0
+EACanada,Action Adventure,1997,0
+EACanada,Action Adventure,1998,0
+EACanada,Action Adventure,1999,0
+EACanada,Action Adventure,2000,0
+EACanada,Action Adventure,2001,0
+EACanada,Action Adventure,2002,0
+EACanada,Action Adventure,2003,0
+EACanada,Action Adventure,2004,0
+EACanada,Action Adventure,2005,0
+EACanada,Action Adventure,2006,0
+EACanada,Action Adventure,2007,1
+EACanada,Action Adventure,2008,0
+EACanada,Action Adventure,2009,0
+EACanada,Action Adventure,2010,0
+EACanada,Action Adventure,2011,0
+EACanada,Action Adventure,2012,0
+EACanada,Action Adventure,2013,0
+EACanada,Action Adventure,2014,0
+EACanada,Action Adventure,2015,0
+EACanada,Action Adventure,2016,0
+EACanada,Action Adventure,2017,0
+EACanada,Action Adventure,2018,0
+EACanada,Action Adventure,2019,0
+EACanada,Action Adventure,2020,0
+EACanada,Arcade,1996,0
+EACanada,Arcade,1997,0
+EACanada,Arcade,1998,0
+EACanada,Arcade,1999,1
+EACanada,Arcade,2000,0
+EACanada,Arcade,2001,0
+EACanada,Arcade,2002,0
+EACanada,Arcade,2003,0
+EACanada,Arcade,2004,0
+EACanada,Arcade,2005,6
+EACanada,Arcade,2006,7
+EACanada,Arcade,2007,3
+EACanada,Arcade,2008,2
+EACanada,Arcade,2009,2
+EACanada,Arcade,2010,3
+EACanada,Arcade,2011,0
+EACanada,Arcade,2012,0
+EACanada,Arcade,2013,0
+EACanada,Arcade,2014,0
+EACanada,Arcade,2015,0
+EACanada,Arcade,2016,0
+EACanada,Arcade,2017,0
+EACanada,Arcade,2018,0
+EACanada,Arcade,2019,0
+EACanada,Arcade,2020,0
+EACanada,Automobile,1996,0
+EACanada,Automobile,1997,0
+EACanada,Automobile,1998,0
+EACanada,Automobile,1999,0
+EACanada,Automobile,2000,0
+EACanada,Automobile,2001,0
+EACanada,Automobile,2002,0
+EACanada,Automobile,2003,0
+EACanada,Automobile,2004,1
+EACanada,Automobile,2005,3
+EACanada,Automobile,2006,4
+EACanada,Automobile,2007,0
+EACanada,Automobile,2008,0
+EACanada,Automobile,2009,0
+EACanada,Automobile,2010,0
+EACanada,Automobile,2011,0
+EACanada,Automobile,2012,0
+EACanada,Automobile,2013,0
+EACanada,Automobile,2014,0
+EACanada,Automobile,2015,0
+EACanada,Automobile,2016,0
+EACanada,Automobile,2017,0
+EACanada,Automobile,2018,0
+EACanada,Automobile,2019,0
+EACanada,Automobile,2020,0
+EACanada,Basketball,1996,0
+EACanada,Basketball,1997,0
+EACanada,Basketball,1998,0
+EACanada,Basketball,1999,0
+EACanada,Basketball,2000,0
+EACanada,Basketball,2001,0
+EACanada,Basketball,2002,4
+EACanada,Basketball,2003,0
+EACanada,Basketball,2004,6
+EACanada,Basketball,2005,12
+EACanada,Basketball,2006,0
+EACanada,Basketball,2007,11
+EACanada,Basketball,2008,4
+EACanada,Basketball,2009,4
+EACanada,Basketball,2010,3
+EACanada,Basketball,2011,0
+EACanada,Basketball,2012,0
+EACanada,Basketball,2013,0
+EACanada,Basketball,2014,0
+EACanada,Basketball,2015,0
+EACanada,Basketball,2016,0
+EACanada,Basketball,2017,0
+EACanada,Basketball,2018,0
+EACanada,Basketball,2019,0
+EACanada,Basketball,2020,0
+EACanada,Driving,1996,0
+EACanada,Driving,1997,0
+EACanada,Driving,1998,0
+EACanada,Driving,1999,1
+EACanada,Driving,2000,0
+EACanada,Driving,2001,0
+EACanada,Driving,2002,0
+EACanada,Driving,2003,0
+EACanada,Driving,2004,3
+EACanada,Driving,2005,6
+EACanada,Driving,2006,7
+EACanada,Driving,2007,0
+EACanada,Driving,2008,0
+EACanada,Driving,2009,0
+EACanada,Driving,2010,0
+EACanada,Driving,2011,0
+EACanada,Driving,2012,0
+EACanada,Driving,2013,0
+EACanada,Driving,2014,0
+EACanada,Driving,2015,0
+EACanada,Driving,2016,0
+EACanada,Driving,2017,0
+EACanada,Driving,2018,0
+EACanada,Driving,2019,0
+EACanada,Driving,2020,0
+EACanada,Fantasy,1996,0
+EACanada,Fantasy,1997,0
+EACanada,Fantasy,1998,0
+EACanada,Fantasy,1999,0
+EACanada,Fantasy,2000,0
+EACanada,Fantasy,2001,0
+EACanada,Fantasy,2002,0
+EACanada,Fantasy,2003,0
+EACanada,Fantasy,2004,0
+EACanada,Fantasy,2005,0
+EACanada,Fantasy,2006,0
+EACanada,Fantasy,2007,1
+EACanada,Fantasy,2008,0
+EACanada,Fantasy,2009,0
+EACanada,Fantasy,2010,0
+EACanada,Fantasy,2011,0
+EACanada,Fantasy,2012,0
+EACanada,Fantasy,2013,0
+EACanada,Fantasy,2014,0
+EACanada,Fantasy,2015,0
+EACanada,Fantasy,2016,0
+EACanada,Fantasy,2017,0
+EACanada,Fantasy,2018,0
+EACanada,Fantasy,2019,0
+EACanada,Fantasy,2020,0
+EACanada,Fighting,1996,0
+EACanada,Fighting,1997,0
+EACanada,Fighting,1998,0
+EACanada,Fighting,1999,0
+EACanada,Fighting,2000,0
+EACanada,Fighting,2001,0
+EACanada,Fighting,2002,0
+EACanada,Fighting,2003,0
+EACanada,Fighting,2004,0
+EACanada,Fighting,2005,1
+EACanada,Fighting,2006,0
+EACanada,Fighting,2007,0
+EACanada,Fighting,2008,0
+EACanada,Fighting,2009,0
+EACanada,Fighting,2010,0
+EACanada,Fighting,2011,0
+EACanada,Fighting,2012,0
+EACanada,Fighting,2013,0
+EACanada,Fighting,2014,0
+EACanada,Fighting,2015,0
+EACanada,Fighting,2016,0
+EACanada,Fighting,2017,0
+EACanada,Fighting,2018,0
+EACanada,Fighting,2019,0
+EACanada,Fighting,2020,0
+EACanada,First-Person,1996,0
+EACanada,First-Person,1997,0
+EACanada,First-Person,1998,0
+EACanada,First-Person,1999,0
+EACanada,First-Person,2000,0
+EACanada,First-Person,2001,0
+EACanada,First-Person,2002,0
+EACanada,First-Person,2003,0
+EACanada,First-Person,2004,0
+EACanada,First-Person,2005,0
+EACanada,First-Person,2006,0
+EACanada,First-Person,2007,1
+EACanada,First-Person,2008,0
+EACanada,First-Person,2009,0
+EACanada,First-Person,2010,0
+EACanada,First-Person,2011,0
+EACanada,First-Person,2012,0
+EACanada,First-Person,2013,0
+EACanada,First-Person,2014,0
+EACanada,First-Person,2015,0
+EACanada,First-Person,2016,0
+EACanada,First-Person,2017,0
+EACanada,First-Person,2018,0
+EACanada,First-Person,2019,0
+EACanada,First-Person,2020,0
+EACanada,Football,1996,0
+EACanada,Football,1997,0
+EACanada,Football,1998,0
+EACanada,Football,1999,0
+EACanada,Football,2000,0
+EACanada,Football,2001,0
+EACanada,Football,2002,0
+EACanada,Football,2003,0
+EACanada,Football,2004,0
+EACanada,Football,2005,0
+EACanada,Football,2006,1
+EACanada,Football,2007,0
+EACanada,Football,2008,0
+EACanada,Football,2009,0
+EACanada,Football,2010,0
+EACanada,Football,2011,0
+EACanada,Football,2012,0
+EACanada,Football,2013,0
+EACanada,Football,2014,0
+EACanada,Football,2015,0
+EACanada,Football,2016,0
+EACanada,Football,2017,0
+EACanada,Football,2018,0
+EACanada,Football,2019,0
+EACanada,Football,2020,0
+EACanada,General,1996,0
+EACanada,General,1997,0
+EACanada,General,1998,0
+EACanada,General,1999,0
+EACanada,General,2000,0
+EACanada,General,2001,0
+EACanada,General,2002,0
+EACanada,General,2003,0
+EACanada,General,2004,0
+EACanada,General,2005,0
+EACanada,General,2006,0
+EACanada,General,2007,1
+EACanada,General,2008,1
+EACanada,General,2009,1
+EACanada,General,2010,3
+EACanada,General,2011,0
+EACanada,General,2012,0
+EACanada,General,2013,0
+EACanada,General,2014,0
+EACanada,General,2015,0
+EACanada,General,2016,0
+EACanada,General,2017,0
+EACanada,General,2018,0
+EACanada,General,2019,0
+EACanada,General,2020,0
+EACanada,Individual,1996,0
+EACanada,Individual,1997,0
+EACanada,Individual,1998,0
+EACanada,Individual,1999,0
+EACanada,Individual,2000,0
+EACanada,Individual,2001,0
+EACanada,Individual,2002,0
+EACanada,Individual,2003,0
+EACanada,Individual,2004,0
+EACanada,Individual,2005,1
+EACanada,Individual,2006,0
+EACanada,Individual,2007,0
+EACanada,Individual,2008,3
+EACanada,Individual,2009,3
+EACanada,Individual,2010,0
+EACanada,Individual,2011,2
+EACanada,Individual,2012,2
+EACanada,Individual,2013,0
+EACanada,Individual,2014,0
+EACanada,Individual,2015,0
+EACanada,Individual,2016,0
+EACanada,Individual,2017,0
+EACanada,Individual,2018,0
+EACanada,Individual,2019,0
+EACanada,Individual,2020,0
+EACanada,Miscellaneous,1996,0
+EACanada,Miscellaneous,1997,0
+EACanada,Miscellaneous,1998,0
+EACanada,Miscellaneous,1999,0
+EACanada,Miscellaneous,2000,0
+EACanada,Miscellaneous,2001,0
+EACanada,Miscellaneous,2002,0
+EACanada,Miscellaneous,2003,0
+EACanada,Miscellaneous,2004,0
+EACanada,Miscellaneous,2005,0
+EACanada,Miscellaneous,2006,0
+EACanada,Miscellaneous,2007,0
+EACanada,Miscellaneous,2008,0
+EACanada,Miscellaneous,2009,1
+EACanada,Miscellaneous,2010,3
+EACanada,Miscellaneous,2011,0
+EACanada,Miscellaneous,2012,0
+EACanada,Miscellaneous,2013,0
+EACanada,Miscellaneous,2014,0
+EACanada,Miscellaneous,2015,0
+EACanada,Miscellaneous,2016,0
+EACanada,Miscellaneous,2017,0
+EACanada,Miscellaneous,2018,0
+EACanada,Miscellaneous,2019,0
+EACanada,Miscellaneous,2020,0
+EACanada,Racing,1996,0
+EACanada,Racing,1997,0
+EACanada,Racing,1998,0
+EACanada,Racing,1999,1
+EACanada,Racing,2000,0
+EACanada,Racing,2001,0
+EACanada,Racing,2002,0
+EACanada,Racing,2003,0
+EACanada,Racing,2004,3
+EACanada,Racing,2005,6
+EACanada,Racing,2006,7
+EACanada,Racing,2007,0
+EACanada,Racing,2008,0
+EACanada,Racing,2009,0
+EACanada,Racing,2010,0
+EACanada,Racing,2011,0
+EACanada,Racing,2012,0
+EACanada,Racing,2013,0
+EACanada,Racing,2014,0
+EACanada,Racing,2015,0
+EACanada,Racing,2016,0
+EACanada,Racing,2017,0
+EACanada,Racing,2018,0
+EACanada,Racing,2019,0
+EACanada,Racing,2020,0
+EACanada,Shooter,1996,0
+EACanada,Shooter,1997,0
+EACanada,Shooter,1998,0
+EACanada,Shooter,1999,0
+EACanada,Shooter,2000,0
+EACanada,Shooter,2001,0
+EACanada,Shooter,2002,0
+EACanada,Shooter,2003,0
+EACanada,Shooter,2004,0
+EACanada,Shooter,2005,0
+EACanada,Shooter,2006,0
+EACanada,Shooter,2007,1
+EACanada,Shooter,2008,0
+EACanada,Shooter,2009,0
+EACanada,Shooter,2010,0
+EACanada,Shooter,2011,0
+EACanada,Shooter,2012,0
+EACanada,Shooter,2013,0
+EACanada,Shooter,2014,0
+EACanada,Shooter,2015,0
+EACanada,Shooter,2016,0
+EACanada,Shooter,2017,0
+EACanada,Shooter,2018,0
+EACanada,Shooter,2019,0
+EACanada,Shooter,2020,0
+EACanada,Sim,1996,0
+EACanada,Sim,1997,0
+EACanada,Sim,1998,0
+EACanada,Sim,1999,0
+EACanada,Sim,2000,1
+EACanada,Sim,2001,0
+EACanada,Sim,2002,8
+EACanada,Sim,2003,4
+EACanada,Sim,2004,12
+EACanada,Sim,2005,20
+EACanada,Sim,2006,10
+EACanada,Sim,2007,20
+EACanada,Sim,2008,16
+EACanada,Sim,2009,6
+EACanada,Sim,2010,1
+EACanada,Sim,2011,0
+EACanada,Sim,2012,3
+EACanada,Sim,2013,4
+EACanada,Sim,2014,2
+EACanada,Sim,2015,0
+EACanada,Sim,2016,0
+EACanada,Sim,2017,0
+EACanada,Sim,2018,0
+EACanada,Sim,2019,0
+EACanada,Sim,2020,0
+EACanada,Simulation,1996,0
+EACanada,Simulation,1997,0
+EACanada,Simulation,1998,0
+EACanada,Simulation,1999,0
+EACanada,Simulation,2000,0
+EACanada,Simulation,2001,0
+EACanada,Simulation,2002,0
+EACanada,Simulation,2003,0
+EACanada,Simulation,2004,1
+EACanada,Simulation,2005,3
+EACanada,Simulation,2006,4
+EACanada,Simulation,2007,0
+EACanada,Simulation,2008,0
+EACanada,Simulation,2009,0
+EACanada,Simulation,2010,0
+EACanada,Simulation,2011,0
+EACanada,Simulation,2012,0
+EACanada,Simulation,2013,0
+EACanada,Simulation,2014,0
+EACanada,Simulation,2015,0
+EACanada,Simulation,2016,0
+EACanada,Simulation,2017,0
+EACanada,Simulation,2018,0
+EACanada,Simulation,2019,0
+EACanada,Simulation,2020,0
+EACanada,Soccer,1996,0
+EACanada,Soccer,1997,0
+EACanada,Soccer,1998,0
+EACanada,Soccer,1999,0
+EACanada,Soccer,2000,1
+EACanada,Soccer,2001,0
+EACanada,Soccer,2002,4
+EACanada,Soccer,2003,4
+EACanada,Soccer,2004,6
+EACanada,Soccer,2005,8
+EACanada,Soccer,2006,10
+EACanada,Soccer,2007,9
+EACanada,Soccer,2008,12
+EACanada,Soccer,2009,0
+EACanada,Soccer,2010,1
+EACanada,Soccer,2011,0
+EACanada,Soccer,2012,3
+EACanada,Soccer,2013,4
+EACanada,Soccer,2014,2
+EACanada,Soccer,2015,0
+EACanada,Soccer,2016,0
+EACanada,Soccer,2017,0
+EACanada,Soccer,2018,0
+EACanada,Soccer,2019,0
+EACanada,Soccer,2020,0
+EACanada,Sports,1996,0
+EACanada,Sports,1997,0
+EACanada,Sports,1998,0
+EACanada,Sports,1999,0
+EACanada,Sports,2000,1
+EACanada,Sports,2001,1
+EACanada,Sports,2002,8
+EACanada,Sports,2003,7
+EACanada,Sports,2004,12
+EACanada,Sports,2005,30
+EACanada,Sports,2006,13
+EACanada,Sports,2007,25
+EACanada,Sports,2008,22
+EACanada,Sports,2009,12
+EACanada,Sports,2010,7
+EACanada,Sports,2011,2
+EACanada,Sports,2012,5
+EACanada,Sports,2013,4
+EACanada,Sports,2014,2
+EACanada,Sports,2015,0
+EACanada,Sports,2016,0
+EACanada,Sports,2017,0
+EACanada,Sports,2018,0
+EACanada,Sports,2019,0
+EACanada,Sports,2020,0
+EACanada,Team,1996,0
+EACanada,Team,1997,0
+EACanada,Team,1998,0
+EACanada,Team,1999,0
+EACanada,Team,2000,0
+EACanada,Team,2001,0
+EACanada,Team,2002,2
+EACanada,Team,2003,1
+EACanada,Team,2004,3
+EACanada,Team,2005,9
+EACanada,Team,2006,4
+EACanada,Team,2007,19
+EACanada,Team,2008,16
+EACanada,Team,2009,8
+EACanada,Team,2010,4
+EACanada,Team,2011,0
+EACanada,Team,2012,3
+EACanada,Team,2013,4
+EACanada,Team,2014,2
+EACanada,Team,2015,0
+EACanada,Team,2016,0
+EACanada,Team,2017,0
+EACanada,Team,2018,0
+EACanada,Team,2019,0
+EACanada,Team,2020,0
+EACanada,Traditional,1996,0
+EACanada,Traditional,1997,0
+EACanada,Traditional,1998,0
+EACanada,Traditional,1999,0
+EACanada,Traditional,2000,1
+EACanada,Traditional,2001,0
+EACanada,Traditional,2002,8
+EACanada,Traditional,2003,4
+EACanada,Traditional,2004,12
+EACanada,Traditional,2005,26
+EACanada,Traditional,2006,13
+EACanada,Traditional,2007,24
+EACanada,Traditional,2008,21
+EACanada,Traditional,2009,11
+EACanada,Traditional,2010,4
+EACanada,Traditional,2011,2
+EACanada,Traditional,2012,3
+EACanada,Traditional,2013,4
+EACanada,Traditional,2014,2
+EACanada,Traditional,2015,0
+EACanada,Traditional,2016,0
+EACanada,Traditional,2017,0
+EACanada,Traditional,2018,0
+EACanada,Traditional,2019,0
+EACanada,Traditional,2020,0
+EASports,Arcade,1996,0
+EASports,Arcade,1997,0
+EASports,Arcade,1998,0
+EASports,Arcade,1999,0
+EASports,Arcade,2000,0
+EASports,Arcade,2001,0
+EASports,Arcade,2002,1
+EASports,Arcade,2003,0
+EASports,Arcade,2004,0
+EASports,Arcade,2005,0
+EASports,Arcade,2006,0
+EASports,Arcade,2007,0
+EASports,Arcade,2008,0
+EASports,Arcade,2009,0
+EASports,Arcade,2010,0
+EASports,Arcade,2011,2
+EASports,Arcade,2012,2
+EASports,Arcade,2013,6
+EASports,Arcade,2014,2
+EASports,Arcade,2015,0
+EASports,Arcade,2016,0
+EASports,Arcade,2017,0
+EASports,Arcade,2018,0
+EASports,Arcade,2019,0
+EASports,Arcade,2020,0
+EASports,Automobile,1996,0
+EASports,Automobile,1997,0
+EASports,Automobile,1998,0
+EASports,Automobile,1999,0
+EASports,Automobile,2000,0
+EASports,Automobile,2001,1
+EASports,Automobile,2002,1
+EASports,Automobile,2003,0
+EASports,Automobile,2004,0
+EASports,Automobile,2005,0
+EASports,Automobile,2006,0
+EASports,Automobile,2007,0
+EASports,Automobile,2008,0
+EASports,Automobile,2009,0
+EASports,Automobile,2010,0
+EASports,Automobile,2011,0
+EASports,Automobile,2012,0
+EASports,Automobile,2013,0
+EASports,Automobile,2014,0
+EASports,Automobile,2015,0
+EASports,Automobile,2016,0
+EASports,Automobile,2017,0
+EASports,Automobile,2018,0
+EASports,Automobile,2019,0
+EASports,Automobile,2020,0
+EASports,Basketball,1996,0
+EASports,Basketball,1997,0
+EASports,Basketball,1998,0
+EASports,Basketball,1999,0
+EASports,Basketball,2000,1
+EASports,Basketball,2001,2
+EASports,Basketball,2002,1
+EASports,Basketball,2003,5
+EASports,Basketball,2004,0
+EASports,Basketball,2005,0
+EASports,Basketball,2006,5
+EASports,Basketball,2007,0
+EASports,Basketball,2008,1
+EASports,Basketball,2009,0
+EASports,Basketball,2010,0
+EASports,Basketball,2011,2
+EASports,Basketball,2012,0
+EASports,Basketball,2013,2
+EASports,Basketball,2014,2
+EASports,Basketball,2015,2
+EASports,Basketball,2016,0
+EASports,Basketball,2017,2
+EASports,Basketball,2018,0
+EASports,Basketball,2019,0
+EASports,Basketball,2020,0
+EASports,Driving,1996,0
+EASports,Driving,1997,0
+EASports,Driving,1998,0
+EASports,Driving,1999,0
+EASports,Driving,2000,2
+EASports,Driving,2001,5
+EASports,Driving,2002,5
+EASports,Driving,2003,0
+EASports,Driving,2004,0
+EASports,Driving,2005,2
+EASports,Driving,2006,0
+EASports,Driving,2007,0
+EASports,Driving,2008,0
+EASports,Driving,2009,0
+EASports,Driving,2010,0
+EASports,Driving,2011,0
+EASports,Driving,2012,0
+EASports,Driving,2013,0
+EASports,Driving,2014,0
+EASports,Driving,2015,0
+EASports,Driving,2016,0
+EASports,Driving,2017,0
+EASports,Driving,2018,0
+EASports,Driving,2019,0
+EASports,Driving,2020,0
+EASports,Football,1996,0
+EASports,Football,1997,0
+EASports,Football,1998,0
+EASports,Football,1999,0
+EASports,Football,2000,3
+EASports,Football,2001,6
+EASports,Football,2002,6
+EASports,Football,2003,3
+EASports,Football,2004,2
+EASports,Football,2005,5
+EASports,Football,2006,5
+EASports,Football,2007,2
+EASports,Football,2008,0
+EASports,Football,2009,0
+EASports,Football,2010,0
+EASports,Football,2011,2
+EASports,Football,2012,0
+EASports,Football,2013,4
+EASports,Football,2014,3
+EASports,Football,2015,2
+EASports,Football,2016,2
+EASports,Football,2017,1
+EASports,Football,2018,0
+EASports,Football,2019,0
+EASports,Football,2020,2
+EASports,General,1996,0
+EASports,General,1997,0
+EASports,General,1998,0
+EASports,General,1999,0
+EASports,General,2000,0
+EASports,General,2001,0
+EASports,General,2002,0
+EASports,General,2003,0
+EASports,General,2004,0
+EASports,General,2005,0
+EASports,General,2006,0
+EASports,General,2007,0
+EASports,General,2008,0
+EASports,General,2009,0
+EASports,General,2010,0
+EASports,General,2011,0
+EASports,General,2012,0
+EASports,General,2013,0
+EASports,General,2014,2
+EASports,General,2015,0
+EASports,General,2016,2
+EASports,General,2017,0
+EASports,General,2018,0
+EASports,General,2019,0
+EASports,General,2020,0
+EASports,Individual,1996,0
+EASports,Individual,1997,0
+EASports,Individual,1998,0
+EASports,Individual,1999,0
+EASports,Individual,2000,0
+EASports,Individual,2001,0
+EASports,Individual,2002,0
+EASports,Individual,2003,0
+EASports,Individual,2004,0
+EASports,Individual,2005,2
+EASports,Individual,2006,0
+EASports,Individual,2007,0
+EASports,Individual,2008,0
+EASports,Individual,2009,0
+EASports,Individual,2010,3
+EASports,Individual,2011,0
+EASports,Individual,2012,2
+EASports,Individual,2013,0
+EASports,Individual,2014,2
+EASports,Individual,2015,0
+EASports,Individual,2016,2
+EASports,Individual,2017,0
+EASports,Individual,2018,2
+EASports,Individual,2019,0
+EASports,Individual,2020,0
+EASports,Racing,1996,0
+EASports,Racing,1997,0
+EASports,Racing,1998,0
+EASports,Racing,1999,0
+EASports,Racing,2000,2
+EASports,Racing,2001,5
+EASports,Racing,2002,5
+EASports,Racing,2003,0
+EASports,Racing,2004,0
+EASports,Racing,2005,2
+EASports,Racing,2006,0
+EASports,Racing,2007,0
+EASports,Racing,2008,0
+EASports,Racing,2009,0
+EASports,Racing,2010,0
+EASports,Racing,2011,0
+EASports,Racing,2012,0
+EASports,Racing,2013,0
+EASports,Racing,2014,0
+EASports,Racing,2015,0
+EASports,Racing,2016,0
+EASports,Racing,2017,0
+EASports,Racing,2018,0
+EASports,Racing,2019,0
+EASports,Racing,2020,0
+EASports,Sim,1996,0
+EASports,Sim,1997,0
+EASports,Sim,1998,0
+EASports,Sim,1999,0
+EASports,Sim,2000,9
+EASports,Sim,2001,17
+EASports,Sim,2002,17
+EASports,Sim,2003,17
+EASports,Sim,2004,13
+EASports,Sim,2005,14
+EASports,Sim,2006,18
+EASports,Sim,2007,2
+EASports,Sim,2008,1
+EASports,Sim,2009,4
+EASports,Sim,2010,8
+EASports,Sim,2011,3
+EASports,Sim,2012,2
+EASports,Sim,2013,4
+EASports,Sim,2014,8
+EASports,Sim,2015,7
+EASports,Sim,2016,2
+EASports,Sim,2017,5
+EASports,Sim,2018,5
+EASports,Sim,2019,0
+EASports,Sim,2020,2
+EASports,Simulation,1996,0
+EASports,Simulation,1997,0
+EASports,Simulation,1998,0
+EASports,Simulation,1999,0
+EASports,Simulation,2000,0
+EASports,Simulation,2001,1
+EASports,Simulation,2002,1
+EASports,Simulation,2003,0
+EASports,Simulation,2004,0
+EASports,Simulation,2005,0
+EASports,Simulation,2006,0
+EASports,Simulation,2007,0
+EASports,Simulation,2008,0
+EASports,Simulation,2009,0
+EASports,Simulation,2010,0
+EASports,Simulation,2011,0
+EASports,Simulation,2012,0
+EASports,Simulation,2013,0
+EASports,Simulation,2014,0
+EASports,Simulation,2015,0
+EASports,Simulation,2016,0
+EASports,Simulation,2017,0
+EASports,Simulation,2018,0
+EASports,Simulation,2019,0
+EASports,Simulation,2020,0
+EASports,Soccer,1996,0
+EASports,Soccer,1997,0
+EASports,Soccer,1998,0
+EASports,Soccer,1999,0
+EASports,Soccer,2000,2
+EASports,Soccer,2001,4
+EASports,Soccer,2002,3
+EASports,Soccer,2003,0
+EASports,Soccer,2004,0
+EASports,Soccer,2005,1
+EASports,Soccer,2006,4
+EASports,Soccer,2007,0
+EASports,Soccer,2008,0
+EASports,Soccer,2009,4
+EASports,Soccer,2010,4
+EASports,Soccer,2011,1
+EASports,Soccer,2012,3
+EASports,Soccer,2013,0
+EASports,Soccer,2014,3
+EASports,Soccer,2015,3
+EASports,Soccer,2016,0
+EASports,Soccer,2017,0
+EASports,Soccer,2018,3
+EASports,Soccer,2019,0
+EASports,Soccer,2020,0
+EASports,Sports,1996,0
+EASports,Sports,1997,0
+EASports,Sports,1998,0
+EASports,Sports,1999,0
+EASports,Sports,2000,10
+EASports,Sports,2001,17
+EASports,Sports,2002,19
+EASports,Sports,2003,17
+EASports,Sports,2004,15
+EASports,Sports,2005,17
+EASports,Sports,2006,18
+EASports,Sports,2007,2
+EASports,Sports,2008,1
+EASports,Sports,2009,4
+EASports,Sports,2010,8
+EASports,Sports,2011,5
+EASports,Sports,2012,5
+EASports,Sports,2013,6
+EASports,Sports,2014,12
+EASports,Sports,2015,7
+EASports,Sports,2016,4
+EASports,Sports,2017,5
+EASports,Sports,2018,7
+EASports,Sports,2019,0
+EASports,Sports,2020,2
+EASports,Team,1996,0
+EASports,Team,1997,0
+EASports,Team,1998,0
+EASports,Team,1999,0
+EASports,Team,2000,3
+EASports,Team,2001,4
+EASports,Team,2002,3
+EASports,Team,2003,3
+EASports,Team,2004,2
+EASports,Team,2005,2
+EASports,Team,2006,10
+EASports,Team,2007,2
+EASports,Team,2008,1
+EASports,Team,2009,4
+EASports,Team,2010,5
+EASports,Team,2011,5
+EASports,Team,2012,3
+EASports,Team,2013,6
+EASports,Team,2014,10
+EASports,Team,2015,7
+EASports,Team,2016,2
+EASports,Team,2017,5
+EASports,Team,2018,5
+EASports,Team,2019,0
+EASports,Team,2020,2
+EASports,Traditional,1996,0
+EASports,Traditional,1997,0
+EASports,Traditional,1998,0
+EASports,Traditional,1999,0
+EASports,Traditional,2000,10
+EASports,Traditional,2001,17
+EASports,Traditional,2002,19
+EASports,Traditional,2003,17
+EASports,Traditional,2004,15
+EASports,Traditional,2005,17
+EASports,Traditional,2006,18
+EASports,Traditional,2007,2
+EASports,Traditional,2008,1
+EASports,Traditional,2009,4
+EASports,Traditional,2010,8
+EASports,Traditional,2011,5
+EASports,Traditional,2012,5
+EASports,Traditional,2013,6
+EASports,Traditional,2014,10
+EASports,Traditional,2015,0
+EASports,Traditional,2016,0
+EASports,Traditional,2017,0
+EASports,Traditional,2018,0
+EASports,Traditional,2019,0
+EASports,Traditional,2020,0
+EATiburon,2D,1996,0
+EATiburon,2D,1997,0
+EATiburon,2D,1998,0
+EATiburon,2D,1999,0
+EATiburon,2D,2000,0
+EATiburon,2D,2001,0
+EATiburon,2D,2002,0
+EATiburon,2D,2003,0
+EATiburon,2D,2004,0
+EATiburon,2D,2005,0
+EATiburon,2D,2006,2
+EATiburon,2D,2007,0
+EATiburon,2D,2008,0
+EATiburon,2D,2009,1
+EATiburon,2D,2010,0
+EATiburon,2D,2011,0
+EATiburon,2D,2012,0
+EATiburon,2D,2013,0
+EATiburon,2D,2014,0
+EATiburon,2D,2015,0
+EATiburon,2D,2016,0
+EATiburon,2D,2017,0
+EATiburon,2D,2018,0
+EATiburon,2D,2019,0
+EATiburon,2D,2020,0
+EATiburon,Action,1996,0
+EATiburon,Action,1997,0
+EATiburon,Action,1998,0
+EATiburon,Action,1999,0
+EATiburon,Action,2000,0
+EATiburon,Action,2001,0
+EATiburon,Action,2002,0
+EATiburon,Action,2003,0
+EATiburon,Action,2004,0
+EATiburon,Action,2005,0
+EATiburon,Action,2006,3
+EATiburon,Action,2007,0
+EATiburon,Action,2008,0
+EATiburon,Action,2009,1
+EATiburon,Action,2010,2
+EATiburon,Action,2011,0
+EATiburon,Action,2012,0
+EATiburon,Action,2013,0
+EATiburon,Action,2014,0
+EATiburon,Action,2015,0
+EATiburon,Action,2016,0
+EATiburon,Action,2017,0
+EATiburon,Action,2018,0
+EATiburon,Action,2019,0
+EATiburon,Action,2020,0
+EATiburon,Action Adventure,1996,0
+EATiburon,Action Adventure,1997,0
+EATiburon,Action Adventure,1998,0
+EATiburon,Action Adventure,1999,0
+EATiburon,Action Adventure,2000,0
+EATiburon,Action Adventure,2001,0
+EATiburon,Action Adventure,2002,0
+EATiburon,Action Adventure,2003,0
+EATiburon,Action Adventure,2004,0
+EATiburon,Action Adventure,2005,0
+EATiburon,Action Adventure,2006,2
+EATiburon,Action Adventure,2007,0
+EATiburon,Action Adventure,2008,0
+EATiburon,Action Adventure,2009,0
+EATiburon,Action Adventure,2010,0
+EATiburon,Action Adventure,2011,0
+EATiburon,Action Adventure,2012,0
+EATiburon,Action Adventure,2013,0
+EATiburon,Action Adventure,2014,0
+EATiburon,Action Adventure,2015,0
+EATiburon,Action Adventure,2016,0
+EATiburon,Action Adventure,2017,0
+EATiburon,Action Adventure,2018,0
+EATiburon,Action Adventure,2019,0
+EATiburon,Action Adventure,2020,0
+EATiburon,Arcade,1996,0
+EATiburon,Arcade,1997,0
+EATiburon,Arcade,1998,0
+EATiburon,Arcade,1999,0
+EATiburon,Arcade,2000,0
+EATiburon,Arcade,2001,0
+EATiburon,Arcade,2002,0
+EATiburon,Arcade,2003,0
+EATiburon,Arcade,2004,6
+EATiburon,Arcade,2005,1
+EATiburon,Arcade,2006,3
+EATiburon,Arcade,2007,0
+EATiburon,Arcade,2008,2
+EATiburon,Arcade,2009,2
+EATiburon,Arcade,2010,0
+EATiburon,Arcade,2011,0
+EATiburon,Arcade,2012,2
+EATiburon,Arcade,2013,0
+EATiburon,Arcade,2014,0
+EATiburon,Arcade,2015,0
+EATiburon,Arcade,2016,0
+EATiburon,Arcade,2017,0
+EATiburon,Arcade,2018,0
+EATiburon,Arcade,2019,0
+EATiburon,Arcade,2020,0
+EATiburon,Automobile,1996,0
+EATiburon,Automobile,1997,0
+EATiburon,Automobile,1998,0
+EATiburon,Automobile,1999,0
+EATiburon,Automobile,2000,0
+EATiburon,Automobile,2001,0
+EATiburon,Automobile,2002,1
+EATiburon,Automobile,2003,0
+EATiburon,Automobile,2004,0
+EATiburon,Automobile,2005,1
+EATiburon,Automobile,2006,0
+EATiburon,Automobile,2007,2
+EATiburon,Automobile,2008,0
+EATiburon,Automobile,2009,0
+EATiburon,Automobile,2010,0
+EATiburon,Automobile,2011,0
+EATiburon,Automobile,2012,0
+EATiburon,Automobile,2013,0
+EATiburon,Automobile,2014,0
+EATiburon,Automobile,2015,0
+EATiburon,Automobile,2016,0
+EATiburon,Automobile,2017,0
+EATiburon,Automobile,2018,0
+EATiburon,Automobile,2019,0
+EATiburon,Automobile,2020,0
+EATiburon,Driving,1996,0
+EATiburon,Driving,1997,0
+EATiburon,Driving,1998,0
+EATiburon,Driving,1999,0
+EATiburon,Driving,2000,0
+EATiburon,Driving,2001,1
+EATiburon,Driving,2002,1
+EATiburon,Driving,2003,1
+EATiburon,Driving,2004,2
+EATiburon,Driving,2005,1
+EATiburon,Driving,2006,2
+EATiburon,Driving,2007,3
+EATiburon,Driving,2008,0
+EATiburon,Driving,2009,0
+EATiburon,Driving,2010,0
+EATiburon,Driving,2011,0
+EATiburon,Driving,2012,0
+EATiburon,Driving,2013,0
+EATiburon,Driving,2014,0
+EATiburon,Driving,2015,0
+EATiburon,Driving,2016,0
+EATiburon,Driving,2017,0
+EATiburon,Driving,2018,0
+EATiburon,Driving,2019,0
+EATiburon,Driving,2020,0
+EATiburon,Fighting,1996,0
+EATiburon,Fighting,1997,0
+EATiburon,Fighting,1998,0
+EATiburon,Fighting,1999,0
+EATiburon,Fighting,2000,0
+EATiburon,Fighting,2001,0
+EATiburon,Fighting,2002,0
+EATiburon,Fighting,2003,0
+EATiburon,Fighting,2004,0
+EATiburon,Fighting,2005,0
+EATiburon,Fighting,2006,0
+EATiburon,Fighting,2007,0
+EATiburon,Fighting,2008,0
+EATiburon,Fighting,2009,0
+EATiburon,Fighting,2010,2
+EATiburon,Fighting,2011,0
+EATiburon,Fighting,2012,0
+EATiburon,Fighting,2013,0
+EATiburon,Fighting,2014,0
+EATiburon,Fighting,2015,0
+EATiburon,Fighting,2016,0
+EATiburon,Fighting,2017,0
+EATiburon,Fighting,2018,0
+EATiburon,Fighting,2019,0
+EATiburon,Fighting,2020,0
+EATiburon,Football,1996,0
+EATiburon,Football,1997,0
+EATiburon,Football,1998,0
+EATiburon,Football,1999,0
+EATiburon,Football,2000,0
+EATiburon,Football,2001,0
+EATiburon,Football,2002,1
+EATiburon,Football,2003,4
+EATiburon,Football,2004,10
+EATiburon,Football,2005,3
+EATiburon,Football,2006,13
+EATiburon,Football,2007,5
+EATiburon,Football,2008,10
+EATiburon,Football,2009,8
+EATiburon,Football,2010,4
+EATiburon,Football,2011,3
+EATiburon,Football,2012,7
+EATiburon,Football,2013,2
+EATiburon,Football,2014,0
+EATiburon,Football,2015,0
+EATiburon,Football,2016,0
+EATiburon,Football,2017,0
+EATiburon,Football,2018,2
+EATiburon,Football,2019,0
+EATiburon,Football,2020,0
+EATiburon,Individual,1996,0
+EATiburon,Individual,1997,0
+EATiburon,Individual,1998,0
+EATiburon,Individual,1999,0
+EATiburon,Individual,2000,0
+EATiburon,Individual,2001,0
+EATiburon,Individual,2002,0
+EATiburon,Individual,2003,0
+EATiburon,Individual,2004,0
+EATiburon,Individual,2005,0
+EATiburon,Individual,2006,0
+EATiburon,Individual,2007,0
+EATiburon,Individual,2008,3
+EATiburon,Individual,2009,4
+EATiburon,Individual,2010,2
+EATiburon,Individual,2011,0
+EATiburon,Individual,2012,0
+EATiburon,Individual,2013,2
+EATiburon,Individual,2014,0
+EATiburon,Individual,2015,2
+EATiburon,Individual,2016,0
+EATiburon,Individual,2017,0
+EATiburon,Individual,2018,0
+EATiburon,Individual,2019,0
+EATiburon,Individual,2020,0
+EATiburon,Platformer,1996,0
+EATiburon,Platformer,1997,0
+EATiburon,Platformer,1998,0
+EATiburon,Platformer,1999,0
+EATiburon,Platformer,2000,0
+EATiburon,Platformer,2001,0
+EATiburon,Platformer,2002,0
+EATiburon,Platformer,2003,0
+EATiburon,Platformer,2004,0
+EATiburon,Platformer,2005,0
+EATiburon,Platformer,2006,0
+EATiburon,Platformer,2007,0
+EATiburon,Platformer,2008,0
+EATiburon,Platformer,2009,1
+EATiburon,Platformer,2010,0
+EATiburon,Platformer,2011,0
+EATiburon,Platformer,2012,0
+EATiburon,Platformer,2013,0
+EATiburon,Platformer,2014,0
+EATiburon,Platformer,2015,0
+EATiburon,Platformer,2016,0
+EATiburon,Platformer,2017,0
+EATiburon,Platformer,2018,0
+EATiburon,Platformer,2019,0
+EATiburon,Platformer,2020,0
+EATiburon,Racing,1996,0
+EATiburon,Racing,1997,0
+EATiburon,Racing,1998,0
+EATiburon,Racing,1999,0
+EATiburon,Racing,2000,0
+EATiburon,Racing,2001,1
+EATiburon,Racing,2002,1
+EATiburon,Racing,2003,1
+EATiburon,Racing,2004,2
+EATiburon,Racing,2005,1
+EATiburon,Racing,2006,2
+EATiburon,Racing,2007,3
+EATiburon,Racing,2008,0
+EATiburon,Racing,2009,0
+EATiburon,Racing,2010,0
+EATiburon,Racing,2011,0
+EATiburon,Racing,2012,0
+EATiburon,Racing,2013,0
+EATiburon,Racing,2014,0
+EATiburon,Racing,2015,0
+EATiburon,Racing,2016,0
+EATiburon,Racing,2017,0
+EATiburon,Racing,2018,0
+EATiburon,Racing,2019,0
+EATiburon,Racing,2020,0
+EATiburon,Sim,1996,0
+EATiburon,Sim,1997,0
+EATiburon,Sim,1998,0
+EATiburon,Sim,1999,0
+EATiburon,Sim,2000,0
+EATiburon,Sim,2001,0
+EATiburon,Sim,2002,1
+EATiburon,Sim,2003,4
+EATiburon,Sim,2004,4
+EATiburon,Sim,2005,2
+EATiburon,Sim,2006,8
+EATiburon,Sim,2007,5
+EATiburon,Sim,2008,11
+EATiburon,Sim,2009,10
+EATiburon,Sim,2010,4
+EATiburon,Sim,2011,3
+EATiburon,Sim,2012,5
+EATiburon,Sim,2013,4
+EATiburon,Sim,2014,0
+EATiburon,Sim,2015,2
+EATiburon,Sim,2016,0
+EATiburon,Sim,2017,0
+EATiburon,Sim,2018,2
+EATiburon,Sim,2019,0
+EATiburon,Sim,2020,0
+EATiburon,Simulation,1996,0
+EATiburon,Simulation,1997,0
+EATiburon,Simulation,1998,0
+EATiburon,Simulation,1999,0
+EATiburon,Simulation,2000,0
+EATiburon,Simulation,2001,0
+EATiburon,Simulation,2002,1
+EATiburon,Simulation,2003,0
+EATiburon,Simulation,2004,0
+EATiburon,Simulation,2005,1
+EATiburon,Simulation,2006,0
+EATiburon,Simulation,2007,2
+EATiburon,Simulation,2008,0
+EATiburon,Simulation,2009,0
+EATiburon,Simulation,2010,0
+EATiburon,Simulation,2011,0
+EATiburon,Simulation,2012,0
+EATiburon,Simulation,2013,0
+EATiburon,Simulation,2014,0
+EATiburon,Simulation,2015,0
+EATiburon,Simulation,2016,0
+EATiburon,Simulation,2017,0
+EATiburon,Simulation,2018,0
+EATiburon,Simulation,2019,0
+EATiburon,Simulation,2020,0
+EATiburon,Sports,1996,0
+EATiburon,Sports,1997,0
+EATiburon,Sports,1998,0
+EATiburon,Sports,1999,0
+EATiburon,Sports,2000,0
+EATiburon,Sports,2001,0
+EATiburon,Sports,2002,1
+EATiburon,Sports,2003,4
+EATiburon,Sports,2004,10
+EATiburon,Sports,2005,3
+EATiburon,Sports,2006,13
+EATiburon,Sports,2007,5
+EATiburon,Sports,2008,13
+EATiburon,Sports,2009,12
+EATiburon,Sports,2010,6
+EATiburon,Sports,2011,3
+EATiburon,Sports,2012,7
+EATiburon,Sports,2013,4
+EATiburon,Sports,2014,0
+EATiburon,Sports,2015,2
+EATiburon,Sports,2016,0
+EATiburon,Sports,2017,0
+EATiburon,Sports,2018,2
+EATiburon,Sports,2019,0
+EATiburon,Sports,2020,0
+EATiburon,Team,1996,0
+EATiburon,Team,1997,0
+EATiburon,Team,1998,0
+EATiburon,Team,1999,0
+EATiburon,Team,2000,0
+EATiburon,Team,2001,0
+EATiburon,Team,2002,0
+EATiburon,Team,2003,1
+EATiburon,Team,2004,0
+EATiburon,Team,2005,3
+EATiburon,Team,2006,6
+EATiburon,Team,2007,4
+EATiburon,Team,2008,10
+EATiburon,Team,2009,8
+EATiburon,Team,2010,4
+EATiburon,Team,2011,3
+EATiburon,Team,2012,7
+EATiburon,Team,2013,2
+EATiburon,Team,2014,0
+EATiburon,Team,2015,0
+EATiburon,Team,2016,0
+EATiburon,Team,2017,0
+EATiburon,Team,2018,2
+EATiburon,Team,2019,0
+EATiburon,Team,2020,0
+EATiburon,Traditional,1996,0
+EATiburon,Traditional,1997,0
+EATiburon,Traditional,1998,0
+EATiburon,Traditional,1999,0
+EATiburon,Traditional,2000,0
+EATiburon,Traditional,2001,0
+EATiburon,Traditional,2002,1
+EATiburon,Traditional,2003,4
+EATiburon,Traditional,2004,10
+EATiburon,Traditional,2005,3
+EATiburon,Traditional,2006,13
+EATiburon,Traditional,2007,5
+EATiburon,Traditional,2008,13
+EATiburon,Traditional,2009,12
+EATiburon,Traditional,2010,4
+EATiburon,Traditional,2011,3
+EATiburon,Traditional,2012,7
+EATiburon,Traditional,2013,4
+EATiburon,Traditional,2014,0
+EATiburon,Traditional,2015,2
+EATiburon,Traditional,2016,0
+EATiburon,Traditional,2017,0
+EATiburon,Traditional,2018,0
+EATiburon,Traditional,2019,0
+EATiburon,Traditional,2020,0
+Electronic Arts,3D,1996,0
+Electronic Arts,3D,1997,0
+Electronic Arts,3D,1998,0
+Electronic Arts,3D,1999,0
+Electronic Arts,3D,2000,0
+Electronic Arts,3D,2001,0
+Electronic Arts,3D,2002,0
+Electronic Arts,3D,2003,0
+Electronic Arts,3D,2004,0
+Electronic Arts,3D,2005,0
+Electronic Arts,3D,2006,0
+Electronic Arts,3D,2007,1
+Electronic Arts,3D,2008,0
+Electronic Arts,3D,2009,0
+Electronic Arts,3D,2010,0
+Electronic Arts,3D,2011,0
+Electronic Arts,3D,2012,0
+Electronic Arts,3D,2013,0
+Electronic Arts,3D,2014,0
+Electronic Arts,3D,2015,0
+Electronic Arts,3D,2016,0
+Electronic Arts,3D,2017,0
+Electronic Arts,3D,2018,0
+Electronic Arts,3D,2019,0
+Electronic Arts,3D,2020,0
+Electronic Arts,Action,1996,0
+Electronic Arts,Action,1997,0
+Electronic Arts,Action,1998,0
+Electronic Arts,Action,1999,0
+Electronic Arts,Action,2000,1
+Electronic Arts,Action,2001,0
+Electronic Arts,Action,2002,2
+Electronic Arts,Action,2003,0
+Electronic Arts,Action,2004,0
+Electronic Arts,Action,2005,0
+Electronic Arts,Action,2006,0
+Electronic Arts,Action,2007,5
+Electronic Arts,Action,2008,0
+Electronic Arts,Action,2009,1
+Electronic Arts,Action,2010,1
+Electronic Arts,Action,2011,0
+Electronic Arts,Action,2012,0
+Electronic Arts,Action,2013,0
+Electronic Arts,Action,2014,0
+Electronic Arts,Action,2015,0
+Electronic Arts,Action,2016,0
+Electronic Arts,Action,2017,0
+Electronic Arts,Action,2018,0
+Electronic Arts,Action,2019,0
+Electronic Arts,Action,2020,0
+Electronic Arts,Action Adventure,1996,0
+Electronic Arts,Action Adventure,1997,0
+Electronic Arts,Action Adventure,1998,0
+Electronic Arts,Action Adventure,1999,0
+Electronic Arts,Action Adventure,2000,0
+Electronic Arts,Action Adventure,2001,0
+Electronic Arts,Action Adventure,2002,1
+Electronic Arts,Action Adventure,2003,0
+Electronic Arts,Action Adventure,2004,0
+Electronic Arts,Action Adventure,2005,7
+Electronic Arts,Action Adventure,2006,3
+Electronic Arts,Action Adventure,2007,0
+Electronic Arts,Action Adventure,2008,0
+Electronic Arts,Action Adventure,2009,0
+Electronic Arts,Action Adventure,2010,0
+Electronic Arts,Action Adventure,2011,0
+Electronic Arts,Action Adventure,2012,0
+Electronic Arts,Action Adventure,2013,0
+Electronic Arts,Action Adventure,2014,0
+Electronic Arts,Action Adventure,2015,0
+Electronic Arts,Action Adventure,2016,0
+Electronic Arts,Action Adventure,2017,0
+Electronic Arts,Action Adventure,2018,0
+Electronic Arts,Action Adventure,2019,0
+Electronic Arts,Action Adventure,2020,0
+Electronic Arts,Arcade,1996,0
+Electronic Arts,Arcade,1997,0
+Electronic Arts,Arcade,1998,0
+Electronic Arts,Arcade,1999,0
+Electronic Arts,Arcade,2000,0
+Electronic Arts,Arcade,2001,1
+Electronic Arts,Arcade,2002,0
+Electronic Arts,Arcade,2003,3
+Electronic Arts,Arcade,2004,0
+Electronic Arts,Arcade,2005,0
+Electronic Arts,Arcade,2006,0
+Electronic Arts,Arcade,2007,3
+Electronic Arts,Arcade,2008,0
+Electronic Arts,Arcade,2009,1
+Electronic Arts,Arcade,2010,1
+Electronic Arts,Arcade,2011,0
+Electronic Arts,Arcade,2012,0
+Electronic Arts,Arcade,2013,0
+Electronic Arts,Arcade,2014,0
+Electronic Arts,Arcade,2015,0
+Electronic Arts,Arcade,2016,0
+Electronic Arts,Arcade,2017,1
+Electronic Arts,Arcade,2018,0
+Electronic Arts,Arcade,2019,0
+Electronic Arts,Arcade,2020,0
+Electronic Arts,Automobile,1996,0
+Electronic Arts,Automobile,1997,0
+Electronic Arts,Automobile,1998,0
+Electronic Arts,Automobile,1999,0
+Electronic Arts,Automobile,2000,0
+Electronic Arts,Automobile,2001,0
+Electronic Arts,Automobile,2002,0
+Electronic Arts,Automobile,2003,1
+Electronic Arts,Automobile,2004,0
+Electronic Arts,Automobile,2005,0
+Electronic Arts,Automobile,2006,0
+Electronic Arts,Automobile,2007,0
+Electronic Arts,Automobile,2008,0
+Electronic Arts,Automobile,2009,0
+Electronic Arts,Automobile,2010,0
+Electronic Arts,Automobile,2011,0
+Electronic Arts,Automobile,2012,0
+Electronic Arts,Automobile,2013,0
+Electronic Arts,Automobile,2014,0
+Electronic Arts,Automobile,2015,0
+Electronic Arts,Automobile,2016,0
+Electronic Arts,Automobile,2017,1
+Electronic Arts,Automobile,2018,0
+Electronic Arts,Automobile,2019,0
+Electronic Arts,Automobile,2020,0
+Electronic Arts,Basketball,1996,0
+Electronic Arts,Basketball,1997,0
+Electronic Arts,Basketball,1998,0
+Electronic Arts,Basketball,1999,0
+Electronic Arts,Basketball,2000,0
+Electronic Arts,Basketball,2001,2
+Electronic Arts,Basketball,2002,0
+Electronic Arts,Basketball,2003,3
+Electronic Arts,Basketball,2004,0
+Electronic Arts,Basketball,2005,0
+Electronic Arts,Basketball,2006,0
+Electronic Arts,Basketball,2007,0
+Electronic Arts,Basketball,2008,0
+Electronic Arts,Basketball,2009,0
+Electronic Arts,Basketball,2010,0
+Electronic Arts,Basketball,2011,0
+Electronic Arts,Basketball,2012,0
+Electronic Arts,Basketball,2013,0
+Electronic Arts,Basketball,2014,0
+Electronic Arts,Basketball,2015,0
+Electronic Arts,Basketball,2016,0
+Electronic Arts,Basketball,2017,0
+Electronic Arts,Basketball,2018,0
+Electronic Arts,Basketball,2019,0
+Electronic Arts,Basketball,2020,0
+Electronic Arts,Driving,1996,0
+Electronic Arts,Driving,1997,0
+Electronic Arts,Driving,1998,0
+Electronic Arts,Driving,1999,0
+Electronic Arts,Driving,2000,0
+Electronic Arts,Driving,2001,1
+Electronic Arts,Driving,2002,2
+Electronic Arts,Driving,2003,4
+Electronic Arts,Driving,2004,0
+Electronic Arts,Driving,2005,0
+Electronic Arts,Driving,2006,0
+Electronic Arts,Driving,2007,0
+Electronic Arts,Driving,2008,0
+Electronic Arts,Driving,2009,1
+Electronic Arts,Driving,2010,0
+Electronic Arts,Driving,2011,0
+Electronic Arts,Driving,2012,0
+Electronic Arts,Driving,2013,0
+Electronic Arts,Driving,2014,0
+Electronic Arts,Driving,2015,0
+Electronic Arts,Driving,2016,0
+Electronic Arts,Driving,2017,0
+Electronic Arts,Driving,2018,0
+Electronic Arts,Driving,2019,0
+Electronic Arts,Driving,2020,0
+Electronic Arts,Fantasy,1996,0
+Electronic Arts,Fantasy,1997,0
+Electronic Arts,Fantasy,1998,0
+Electronic Arts,Fantasy,1999,0
+Electronic Arts,Fantasy,2000,0
+Electronic Arts,Fantasy,2001,1
+Electronic Arts,Fantasy,2002,1
+Electronic Arts,Fantasy,2003,0
+Electronic Arts,Fantasy,2004,0
+Electronic Arts,Fantasy,2005,5
+Electronic Arts,Fantasy,2006,0
+Electronic Arts,Fantasy,2007,0
+Electronic Arts,Fantasy,2008,0
+Electronic Arts,Fantasy,2009,0
+Electronic Arts,Fantasy,2010,1
+Electronic Arts,Fantasy,2011,0
+Electronic Arts,Fantasy,2012,0
+Electronic Arts,Fantasy,2013,0
+Electronic Arts,Fantasy,2014,0
+Electronic Arts,Fantasy,2015,0
+Electronic Arts,Fantasy,2016,0
+Electronic Arts,Fantasy,2017,0
+Electronic Arts,Fantasy,2018,0
+Electronic Arts,Fantasy,2019,0
+Electronic Arts,Fantasy,2020,0
+Electronic Arts,First-Person,1996,0
+Electronic Arts,First-Person,1997,0
+Electronic Arts,First-Person,1998,0
+Electronic Arts,First-Person,1999,0
+Electronic Arts,First-Person,2000,0
+Electronic Arts,First-Person,2001,0
+Electronic Arts,First-Person,2002,2
+Electronic Arts,First-Person,2003,0
+Electronic Arts,First-Person,2004,0
+Electronic Arts,First-Person,2005,0
+Electronic Arts,First-Person,2006,0
+Electronic Arts,First-Person,2007,4
+Electronic Arts,First-Person,2008,0
+Electronic Arts,First-Person,2009,0
+Electronic Arts,First-Person,2010,0
+Electronic Arts,First-Person,2011,0
+Electronic Arts,First-Person,2012,0
+Electronic Arts,First-Person,2013,0
+Electronic Arts,First-Person,2014,0
+Electronic Arts,First-Person,2015,0
+Electronic Arts,First-Person,2016,0
+Electronic Arts,First-Person,2017,0
+Electronic Arts,First-Person,2018,0
+Electronic Arts,First-Person,2019,0
+Electronic Arts,First-Person,2020,0
+Electronic Arts,Football,1996,0
+Electronic Arts,Football,1997,0
+Electronic Arts,Football,1998,0
+Electronic Arts,Football,1999,0
+Electronic Arts,Football,2000,0
+Electronic Arts,Football,2001,0
+Electronic Arts,Football,2002,0
+Electronic Arts,Football,2003,0
+Electronic Arts,Football,2004,0
+Electronic Arts,Football,2005,0
+Electronic Arts,Football,2006,0
+Electronic Arts,Football,2007,0
+Electronic Arts,Football,2008,0
+Electronic Arts,Football,2009,0
+Electronic Arts,Football,2010,0
+Electronic Arts,Football,2011,0
+Electronic Arts,Football,2012,0
+Electronic Arts,Football,2013,0
+Electronic Arts,Football,2014,0
+Electronic Arts,Football,2015,0
+Electronic Arts,Football,2016,0
+Electronic Arts,Football,2017,1
+Electronic Arts,Football,2018,0
+Electronic Arts,Football,2019,0
+Electronic Arts,Football,2020,0
+Electronic Arts,General,1996,0
+Electronic Arts,General,1997,0
+Electronic Arts,General,1998,0
+Electronic Arts,General,1999,0
+Electronic Arts,General,2000,0
+Electronic Arts,General,2001,0
+Electronic Arts,General,2002,0
+Electronic Arts,General,2003,0
+Electronic Arts,General,2004,0
+Electronic Arts,General,2005,2
+Electronic Arts,General,2006,1
+Electronic Arts,General,2007,0
+Electronic Arts,General,2008,2
+Electronic Arts,General,2009,2
+Electronic Arts,General,2010,0
+Electronic Arts,General,2011,0
+Electronic Arts,General,2012,0
+Electronic Arts,General,2013,0
+Electronic Arts,General,2014,0
+Electronic Arts,General,2015,0
+Electronic Arts,General,2016,0
+Electronic Arts,General,2017,0
+Electronic Arts,General,2018,0
+Electronic Arts,General,2019,0
+Electronic Arts,General,2020,0
+Electronic Arts,Individual,1996,0
+Electronic Arts,Individual,1997,0
+Electronic Arts,Individual,1998,0
+Electronic Arts,Individual,1999,0
+Electronic Arts,Individual,2000,0
+Electronic Arts,Individual,2001,0
+Electronic Arts,Individual,2002,0
+Electronic Arts,Individual,2003,1
+Electronic Arts,Individual,2004,0
+Electronic Arts,Individual,2005,0
+Electronic Arts,Individual,2006,0
+Electronic Arts,Individual,2007,0
+Electronic Arts,Individual,2008,1
+Electronic Arts,Individual,2009,0
+Electronic Arts,Individual,2010,0
+Electronic Arts,Individual,2011,3
+Electronic Arts,Individual,2012,2
+Electronic Arts,Individual,2013,0
+Electronic Arts,Individual,2014,0
+Electronic Arts,Individual,2015,0
+Electronic Arts,Individual,2016,0
+Electronic Arts,Individual,2017,0
+Electronic Arts,Individual,2018,0
+Electronic Arts,Individual,2019,0
+Electronic Arts,Individual,2020,1
+Electronic Arts,Miscellaneous,1996,0
+Electronic Arts,Miscellaneous,1997,0
+Electronic Arts,Miscellaneous,1998,0
+Electronic Arts,Miscellaneous,1999,0
+Electronic Arts,Miscellaneous,2000,0
+Electronic Arts,Miscellaneous,2001,0
+Electronic Arts,Miscellaneous,2002,0
+Electronic Arts,Miscellaneous,2003,0
+Electronic Arts,Miscellaneous,2004,0
+Electronic Arts,Miscellaneous,2005,0
+Electronic Arts,Miscellaneous,2006,0
+Electronic Arts,Miscellaneous,2007,0
+Electronic Arts,Miscellaneous,2008,2
+Electronic Arts,Miscellaneous,2009,12
+Electronic Arts,Miscellaneous,2010,4
+Electronic Arts,Miscellaneous,2011,0
+Electronic Arts,Miscellaneous,2012,0
+Electronic Arts,Miscellaneous,2013,0
+Electronic Arts,Miscellaneous,2014,0
+Electronic Arts,Miscellaneous,2015,0
+Electronic Arts,Miscellaneous,2016,0
+Electronic Arts,Miscellaneous,2017,0
+Electronic Arts,Miscellaneous,2018,0
+Electronic Arts,Miscellaneous,2019,0
+Electronic Arts,Miscellaneous,2020,0
+Electronic Arts,Modern,1996,0
+Electronic Arts,Modern,1997,0
+Electronic Arts,Modern,1998,0
+Electronic Arts,Modern,1999,0
+Electronic Arts,Modern,2000,0
+Electronic Arts,Modern,2001,0
+Electronic Arts,Modern,2002,2
+Electronic Arts,Modern,2003,0
+Electronic Arts,Modern,2004,0
+Electronic Arts,Modern,2005,2
+Electronic Arts,Modern,2006,0
+Electronic Arts,Modern,2007,0
+Electronic Arts,Modern,2008,0
+Electronic Arts,Modern,2009,0
+Electronic Arts,Modern,2010,0
+Electronic Arts,Modern,2011,0
+Electronic Arts,Modern,2012,0
+Electronic Arts,Modern,2013,0
+Electronic Arts,Modern,2014,0
+Electronic Arts,Modern,2015,0
+Electronic Arts,Modern,2016,0
+Electronic Arts,Modern,2017,0
+Electronic Arts,Modern,2018,0
+Electronic Arts,Modern,2019,0
+Electronic Arts,Modern,2020,0
+Electronic Arts,Platformer,1996,0
+Electronic Arts,Platformer,1997,0
+Electronic Arts,Platformer,1998,0
+Electronic Arts,Platformer,1999,0
+Electronic Arts,Platformer,2000,0
+Electronic Arts,Platformer,2001,0
+Electronic Arts,Platformer,2002,0
+Electronic Arts,Platformer,2003,0
+Electronic Arts,Platformer,2004,0
+Electronic Arts,Platformer,2005,0
+Electronic Arts,Platformer,2006,0
+Electronic Arts,Platformer,2007,1
+Electronic Arts,Platformer,2008,0
+Electronic Arts,Platformer,2009,0
+Electronic Arts,Platformer,2010,0
+Electronic Arts,Platformer,2011,0
+Electronic Arts,Platformer,2012,0
+Electronic Arts,Platformer,2013,0
+Electronic Arts,Platformer,2014,0
+Electronic Arts,Platformer,2015,0
+Electronic Arts,Platformer,2016,0
+Electronic Arts,Platformer,2017,0
+Electronic Arts,Platformer,2018,0
+Electronic Arts,Platformer,2019,0
+Electronic Arts,Platformer,2020,0
+Electronic Arts,Racing,1996,0
+Electronic Arts,Racing,1997,0
+Electronic Arts,Racing,1998,0
+Electronic Arts,Racing,1999,0
+Electronic Arts,Racing,2000,0
+Electronic Arts,Racing,2001,1
+Electronic Arts,Racing,2002,2
+Electronic Arts,Racing,2003,4
+Electronic Arts,Racing,2004,0
+Electronic Arts,Racing,2005,0
+Electronic Arts,Racing,2006,0
+Electronic Arts,Racing,2007,0
+Electronic Arts,Racing,2008,0
+Electronic Arts,Racing,2009,1
+Electronic Arts,Racing,2010,0
+Electronic Arts,Racing,2011,0
+Electronic Arts,Racing,2012,0
+Electronic Arts,Racing,2013,0
+Electronic Arts,Racing,2014,0
+Electronic Arts,Racing,2015,0
+Electronic Arts,Racing,2016,0
+Electronic Arts,Racing,2017,1
+Electronic Arts,Racing,2018,0
+Electronic Arts,Racing,2019,0
+Electronic Arts,Racing,2020,0
+Electronic Arts,Role-Playing,1996,0
+Electronic Arts,Role-Playing,1997,0
+Electronic Arts,Role-Playing,1998,0
+Electronic Arts,Role-Playing,1999,0
+Electronic Arts,Role-Playing,2000,0
+Electronic Arts,Role-Playing,2001,1
+Electronic Arts,Role-Playing,2002,0
+Electronic Arts,Role-Playing,2003,0
+Electronic Arts,Role-Playing,2004,0
+Electronic Arts,Role-Playing,2005,0
+Electronic Arts,Role-Playing,2006,0
+Electronic Arts,Role-Playing,2007,0
+Electronic Arts,Role-Playing,2008,0
+Electronic Arts,Role-Playing,2009,0
+Electronic Arts,Role-Playing,2010,0
+Electronic Arts,Role-Playing,2011,0
+Electronic Arts,Role-Playing,2012,0
+Electronic Arts,Role-Playing,2013,0
+Electronic Arts,Role-Playing,2014,0
+Electronic Arts,Role-Playing,2015,0
+Electronic Arts,Role-Playing,2016,0
+Electronic Arts,Role-Playing,2017,0
+Electronic Arts,Role-Playing,2018,0
+Electronic Arts,Role-Playing,2019,0
+Electronic Arts,Role-Playing,2020,0
+Electronic Arts,Shooter,1996,0
+Electronic Arts,Shooter,1997,0
+Electronic Arts,Shooter,1998,0
+Electronic Arts,Shooter,1999,0
+Electronic Arts,Shooter,2000,1
+Electronic Arts,Shooter,2001,0
+Electronic Arts,Shooter,2002,2
+Electronic Arts,Shooter,2003,0
+Electronic Arts,Shooter,2004,0
+Electronic Arts,Shooter,2005,0
+Electronic Arts,Shooter,2006,0
+Electronic Arts,Shooter,2007,4
+Electronic Arts,Shooter,2008,0
+Electronic Arts,Shooter,2009,0
+Electronic Arts,Shooter,2010,1
+Electronic Arts,Shooter,2011,0
+Electronic Arts,Shooter,2012,0
+Electronic Arts,Shooter,2013,0
+Electronic Arts,Shooter,2014,0
+Electronic Arts,Shooter,2015,0
+Electronic Arts,Shooter,2016,0
+Electronic Arts,Shooter,2017,0
+Electronic Arts,Shooter,2018,0
+Electronic Arts,Shooter,2019,0
+Electronic Arts,Shooter,2020,0
+Electronic Arts,Sim,1996,0
+Electronic Arts,Sim,1997,0
+Electronic Arts,Sim,1998,0
+Electronic Arts,Sim,1999,0
+Electronic Arts,Sim,2000,0
+Electronic Arts,Sim,2001,2
+Electronic Arts,Sim,2002,0
+Electronic Arts,Sim,2003,0
+Electronic Arts,Sim,2004,0
+Electronic Arts,Sim,2005,0
+Electronic Arts,Sim,2006,0
+Electronic Arts,Sim,2007,0
+Electronic Arts,Sim,2008,0
+Electronic Arts,Sim,2009,0
+Electronic Arts,Sim,2010,5
+Electronic Arts,Sim,2011,9
+Electronic Arts,Sim,2012,10
+Electronic Arts,Sim,2013,2
+Electronic Arts,Sim,2014,0
+Electronic Arts,Sim,2015,0
+Electronic Arts,Sim,2016,0
+Electronic Arts,Sim,2017,1
+Electronic Arts,Sim,2018,0
+Electronic Arts,Sim,2019,5
+Electronic Arts,Sim,2020,4
+Electronic Arts,Simulation,1996,0
+Electronic Arts,Simulation,1997,0
+Electronic Arts,Simulation,1998,0
+Electronic Arts,Simulation,1999,0
+Electronic Arts,Simulation,2000,0
+Electronic Arts,Simulation,2001,0
+Electronic Arts,Simulation,2002,0
+Electronic Arts,Simulation,2003,1
+Electronic Arts,Simulation,2004,0
+Electronic Arts,Simulation,2005,0
+Electronic Arts,Simulation,2006,0
+Electronic Arts,Simulation,2007,0
+Electronic Arts,Simulation,2008,1
+Electronic Arts,Simulation,2009,3
+Electronic Arts,Simulation,2010,1
+Electronic Arts,Simulation,2011,0
+Electronic Arts,Simulation,2012,0
+Electronic Arts,Simulation,2013,0
+Electronic Arts,Simulation,2014,0
+Electronic Arts,Simulation,2015,0
+Electronic Arts,Simulation,2016,0
+Electronic Arts,Simulation,2017,0
+Electronic Arts,Simulation,2018,1
+Electronic Arts,Simulation,2019,0
+Electronic Arts,Simulation,2020,0
+Electronic Arts,Soccer,1996,0
+Electronic Arts,Soccer,1997,0
+Electronic Arts,Soccer,1998,0
+Electronic Arts,Soccer,1999,0
+Electronic Arts,Soccer,2000,0
+Electronic Arts,Soccer,2001,0
+Electronic Arts,Soccer,2002,0
+Electronic Arts,Soccer,2003,0
+Electronic Arts,Soccer,2004,0
+Electronic Arts,Soccer,2005,0
+Electronic Arts,Soccer,2006,0
+Electronic Arts,Soccer,2007,0
+Electronic Arts,Soccer,2008,0
+Electronic Arts,Soccer,2009,0
+Electronic Arts,Soccer,2010,4
+Electronic Arts,Soccer,2011,4
+Electronic Arts,Soccer,2012,6
+Electronic Arts,Soccer,2013,0
+Electronic Arts,Soccer,2014,0
+Electronic Arts,Soccer,2015,0
+Electronic Arts,Soccer,2016,0
+Electronic Arts,Soccer,2017,0
+Electronic Arts,Soccer,2018,0
+Electronic Arts,Soccer,2019,3
+Electronic Arts,Soccer,2020,3
+Electronic Arts,Sports,1996,0
+Electronic Arts,Sports,1997,0
+Electronic Arts,Sports,1998,0
+Electronic Arts,Sports,1999,0
+Electronic Arts,Sports,2000,0
+Electronic Arts,Sports,2001,2
+Electronic Arts,Sports,2002,2
+Electronic Arts,Sports,2003,6
+Electronic Arts,Sports,2004,0
+Electronic Arts,Sports,2005,0
+Electronic Arts,Sports,2006,0
+Electronic Arts,Sports,2007,0
+Electronic Arts,Sports,2008,1
+Electronic Arts,Sports,2009,1
+Electronic Arts,Sports,2010,6
+Electronic Arts,Sports,2011,9
+Electronic Arts,Sports,2012,10
+Electronic Arts,Sports,2013,2
+Electronic Arts,Sports,2014,0
+Electronic Arts,Sports,2015,0
+Electronic Arts,Sports,2016,0
+Electronic Arts,Sports,2017,1
+Electronic Arts,Sports,2018,0
+Electronic Arts,Sports,2019,5
+Electronic Arts,Sports,2020,5
+Electronic Arts,Team,1996,0
+Electronic Arts,Team,1997,0
+Electronic Arts,Team,1998,0
+Electronic Arts,Team,1999,0
+Electronic Arts,Team,2000,0
+Electronic Arts,Team,2001,0
+Electronic Arts,Team,2002,0
+Electronic Arts,Team,2003,1
+Electronic Arts,Team,2004,0
+Electronic Arts,Team,2005,0
+Electronic Arts,Team,2006,0
+Electronic Arts,Team,2007,0
+Electronic Arts,Team,2008,0
+Electronic Arts,Team,2009,0
+Electronic Arts,Team,2010,6
+Electronic Arts,Team,2011,6
+Electronic Arts,Team,2012,8
+Electronic Arts,Team,2013,2
+Electronic Arts,Team,2014,0
+Electronic Arts,Team,2015,0
+Electronic Arts,Team,2016,0
+Electronic Arts,Team,2017,1
+Electronic Arts,Team,2018,0
+Electronic Arts,Team,2019,5
+Electronic Arts,Team,2020,4
+Electronic Arts,Third-Person,1996,0
+Electronic Arts,Third-Person,1997,0
+Electronic Arts,Third-Person,1998,0
+Electronic Arts,Third-Person,1999,0
+Electronic Arts,Third-Person,2000,1
+Electronic Arts,Third-Person,2001,0
+Electronic Arts,Third-Person,2002,0
+Electronic Arts,Third-Person,2003,0
+Electronic Arts,Third-Person,2004,0
+Electronic Arts,Third-Person,2005,0
+Electronic Arts,Third-Person,2006,0
+Electronic Arts,Third-Person,2007,0
+Electronic Arts,Third-Person,2008,0
+Electronic Arts,Third-Person,2009,0
+Electronic Arts,Third-Person,2010,1
+Electronic Arts,Third-Person,2011,0
+Electronic Arts,Third-Person,2012,0
+Electronic Arts,Third-Person,2013,0
+Electronic Arts,Third-Person,2014,0
+Electronic Arts,Third-Person,2015,0
+Electronic Arts,Third-Person,2016,0
+Electronic Arts,Third-Person,2017,0
+Electronic Arts,Third-Person,2018,0
+Electronic Arts,Third-Person,2019,0
+Electronic Arts,Third-Person,2020,0
+Electronic Arts,Traditional,1996,0
+Electronic Arts,Traditional,1997,0
+Electronic Arts,Traditional,1998,0
+Electronic Arts,Traditional,1999,0
+Electronic Arts,Traditional,2000,0
+Electronic Arts,Traditional,2001,2
+Electronic Arts,Traditional,2002,2
+Electronic Arts,Traditional,2003,3
+Electronic Arts,Traditional,2004,0
+Electronic Arts,Traditional,2005,0
+Electronic Arts,Traditional,2006,0
+Electronic Arts,Traditional,2007,0
+Electronic Arts,Traditional,2008,0
+Electronic Arts,Traditional,2009,0
+Electronic Arts,Traditional,2010,6
+Electronic Arts,Traditional,2011,9
+Electronic Arts,Traditional,2012,10
+Electronic Arts,Traditional,2013,2
+Electronic Arts,Traditional,2014,0
+Electronic Arts,Traditional,2015,0
+Electronic Arts,Traditional,2016,0
+Electronic Arts,Traditional,2017,0
+Electronic Arts,Traditional,2018,0
+Electronic Arts,Traditional,2019,0
+Electronic Arts,Traditional,2020,0
+Konami,2D,1996,0
+Konami,2D,1997,1
+Konami,2D,1998,0
+Konami,2D,1999,0
+Konami,2D,2000,0
+Konami,2D,2001,1
+Konami,2D,2002,0
+Konami,2D,2003,1
+Konami,2D,2004,1
+Konami,2D,2005,2
+Konami,2D,2006,1
+Konami,2D,2007,2
+Konami,2D,2008,1
+Konami,2D,2009,1
+Konami,2D,2010,2
+Konami,2D,2011,0
+Konami,2D,2012,0
+Konami,2D,2013,0
+Konami,2D,2014,0
+Konami,2D,2015,0
+Konami,2D,2016,0
+Konami,2D,2017,0
+Konami,2D,2018,0
+Konami,2D,2019,0
+Konami,2D,2020,0
+Konami,3D,1996,0
+Konami,3D,1997,0
+Konami,3D,1998,0
+Konami,3D,1999,0
+Konami,3D,2000,0
+Konami,3D,2001,0
+Konami,3D,2002,0
+Konami,3D,2003,2
+Konami,3D,2004,0
+Konami,3D,2005,3
+Konami,3D,2006,0
+Konami,3D,2007,1
+Konami,3D,2008,0
+Konami,3D,2009,1
+Konami,3D,2010,0
+Konami,3D,2011,0
+Konami,3D,2012,0
+Konami,3D,2013,0
+Konami,3D,2014,0
+Konami,3D,2015,0
+Konami,3D,2016,0
+Konami,3D,2017,0
+Konami,3D,2018,0
+Konami,3D,2019,0
+Konami,3D,2020,0
+Konami,Action,1996,0
+Konami,Action,1997,1
+Konami,Action,1998,0
+Konami,Action,1999,0
+Konami,Action,2000,1
+Konami,Action,2001,1
+Konami,Action,2002,1
+Konami,Action,2003,5
+Konami,Action,2004,6
+Konami,Action,2005,6
+Konami,Action,2006,4
+Konami,Action,2007,6
+Konami,Action,2008,2
+Konami,Action,2009,1
+Konami,Action,2010,5
+Konami,Action,2011,3
+Konami,Action,2012,0
+Konami,Action,2013,0
+Konami,Action,2014,2
+Konami,Action,2015,0
+Konami,Action,2016,0
+Konami,Action,2017,1
+Konami,Action,2018,2
+Konami,Action,2019,3
+Konami,Action,2020,1
+Konami,Action Adventure,1996,0
+Konami,Action Adventure,1997,0
+Konami,Action Adventure,1998,0
+Konami,Action Adventure,1999,0
+Konami,Action Adventure,2000,0
+Konami,Action Adventure,2001,0
+Konami,Action Adventure,2002,0
+Konami,Action Adventure,2003,0
+Konami,Action Adventure,2004,1
+Konami,Action Adventure,2005,2
+Konami,Action Adventure,2006,0
+Konami,Action Adventure,2007,0
+Konami,Action Adventure,2008,0
+Konami,Action Adventure,2009,0
+Konami,Action Adventure,2010,1
+Konami,Action Adventure,2011,1
+Konami,Action Adventure,2012,2
+Konami,Action Adventure,2013,0
+Konami,Action Adventure,2014,0
+Konami,Action Adventure,2015,0
+Konami,Action Adventure,2016,0
+Konami,Action Adventure,2017,0
+Konami,Action Adventure,2018,3
+Konami,Action Adventure,2019,0
+Konami,Action Adventure,2020,0
+Konami,Adventure,1996,0
+Konami,Adventure,1997,0
+Konami,Adventure,1998,0
+Konami,Adventure,1999,0
+Konami,Adventure,2000,0
+Konami,Adventure,2001,1
+Konami,Adventure,2002,0
+Konami,Adventure,2003,0
+Konami,Adventure,2004,0
+Konami,Adventure,2005,1
+Konami,Adventure,2006,0
+Konami,Adventure,2007,0
+Konami,Adventure,2008,0
+Konami,Adventure,2009,1
+Konami,Adventure,2010,0
+Konami,Adventure,2011,0
+Konami,Adventure,2012,0
+Konami,Adventure,2013,0
+Konami,Adventure,2014,0
+Konami,Adventure,2015,0
+Konami,Adventure,2016,0
+Konami,Adventure,2017,0
+Konami,Adventure,2018,0
+Konami,Adventure,2019,0
+Konami,Adventure,2020,0
+Konami,Arcade,1996,0
+Konami,Arcade,1997,0
+Konami,Arcade,1998,0
+Konami,Arcade,1999,0
+Konami,Arcade,2000,0
+Konami,Arcade,2001,0
+Konami,Arcade,2002,0
+Konami,Arcade,2003,0
+Konami,Arcade,2004,0
+Konami,Arcade,2005,1
+Konami,Arcade,2006,0
+Konami,Arcade,2007,2
+Konami,Arcade,2008,3
+Konami,Arcade,2009,1
+Konami,Arcade,2010,1
+Konami,Arcade,2011,0
+Konami,Arcade,2012,0
+Konami,Arcade,2013,0
+Konami,Arcade,2014,0
+Konami,Arcade,2015,0
+Konami,Arcade,2016,0
+Konami,Arcade,2017,1
+Konami,Arcade,2018,2
+Konami,Arcade,2019,0
+Konami,Arcade,2020,0
+Konami,Automobile,1996,0
+Konami,Automobile,1997,0
+Konami,Automobile,1998,0
+Konami,Automobile,1999,0
+Konami,Automobile,2000,0
+Konami,Automobile,2001,0
+Konami,Automobile,2002,0
+Konami,Automobile,2003,0
+Konami,Automobile,2004,0
+Konami,Automobile,2005,0
+Konami,Automobile,2006,0
+Konami,Automobile,2007,0
+Konami,Automobile,2008,0
+Konami,Automobile,2009,1
+Konami,Automobile,2010,1
+Konami,Automobile,2011,0
+Konami,Automobile,2012,0
+Konami,Automobile,2013,0
+Konami,Automobile,2014,0
+Konami,Automobile,2015,0
+Konami,Automobile,2016,0
+Konami,Automobile,2017,0
+Konami,Automobile,2018,0
+Konami,Automobile,2019,0
+Konami,Automobile,2020,0
+Konami,Basketball,1996,0
+Konami,Basketball,1997,0
+Konami,Basketball,1998,0
+Konami,Basketball,1999,0
+Konami,Basketball,2000,0
+Konami,Basketball,2001,1
+Konami,Basketball,2002,2
+Konami,Basketball,2003,0
+Konami,Basketball,2004,0
+Konami,Basketball,2005,0
+Konami,Basketball,2006,0
+Konami,Basketball,2007,0
+Konami,Basketball,2008,0
+Konami,Basketball,2009,0
+Konami,Basketball,2010,0
+Konami,Basketball,2011,0
+Konami,Basketball,2012,0
+Konami,Basketball,2013,0
+Konami,Basketball,2014,0
+Konami,Basketball,2015,0
+Konami,Basketball,2016,0
+Konami,Basketball,2017,0
+Konami,Basketball,2018,0
+Konami,Basketball,2019,0
+Konami,Basketball,2020,0
+Konami,Compilation,1996,0
+Konami,Compilation,1997,0
+Konami,Compilation,1998,0
+Konami,Compilation,1999,0
+Konami,Compilation,2000,0
+Konami,Compilation,2001,0
+Konami,Compilation,2002,0
+Konami,Compilation,2003,0
+Konami,Compilation,2004,0
+Konami,Compilation,2005,0
+Konami,Compilation,2006,0
+Konami,Compilation,2007,1
+Konami,Compilation,2008,0
+Konami,Compilation,2009,0
+Konami,Compilation,2010,0
+Konami,Compilation,2011,0
+Konami,Compilation,2012,1
+Konami,Compilation,2013,0
+Konami,Compilation,2014,0
+Konami,Compilation,2015,0
+Konami,Compilation,2016,0
+Konami,Compilation,2017,0
+Konami,Compilation,2018,1
+Konami,Compilation,2019,3
+Konami,Compilation,2020,0
+Konami,Driving,1996,0
+Konami,Driving,1997,0
+Konami,Driving,1998,0
+Konami,Driving,1999,0
+Konami,Driving,2000,0
+Konami,Driving,2001,0
+Konami,Driving,2002,1
+Konami,Driving,2003,1
+Konami,Driving,2004,0
+Konami,Driving,2005,1
+Konami,Driving,2006,0
+Konami,Driving,2007,0
+Konami,Driving,2008,0
+Konami,Driving,2009,1
+Konami,Driving,2010,1
+Konami,Driving,2011,0
+Konami,Driving,2012,0
+Konami,Driving,2013,0
+Konami,Driving,2014,0
+Konami,Driving,2015,0
+Konami,Driving,2016,0
+Konami,Driving,2017,0
+Konami,Driving,2018,0
+Konami,Driving,2019,0
+Konami,Driving,2020,0
+Konami,Fantasy,1996,0
+Konami,Fantasy,1997,0
+Konami,Fantasy,1998,0
+Konami,Fantasy,1999,0
+Konami,Fantasy,2000,0
+Konami,Fantasy,2001,1
+Konami,Fantasy,2002,0
+Konami,Fantasy,2003,1
+Konami,Fantasy,2004,0
+Konami,Fantasy,2005,3
+Konami,Fantasy,2006,0
+Konami,Fantasy,2007,0
+Konami,Fantasy,2008,0
+Konami,Fantasy,2009,1
+Konami,Fantasy,2010,1
+Konami,Fantasy,2011,1
+Konami,Fantasy,2012,1
+Konami,Fantasy,2013,0
+Konami,Fantasy,2014,0
+Konami,Fantasy,2015,0
+Konami,Fantasy,2016,0
+Konami,Fantasy,2017,0
+Konami,Fantasy,2018,0
+Konami,Fantasy,2019,0
+Konami,Fantasy,2020,0
+Konami,Fighting,1996,0
+Konami,Fighting,1997,0
+Konami,Fighting,1998,0
+Konami,Fighting,1999,0
+Konami,Fighting,2000,0
+Konami,Fighting,2001,0
+Konami,Fighting,2002,0
+Konami,Fighting,2003,0
+Konami,Fighting,2004,0
+Konami,Fighting,2005,1
+Konami,Fighting,2006,1
+Konami,Fighting,2007,0
+Konami,Fighting,2008,0
+Konami,Fighting,2009,0
+Konami,Fighting,2010,0
+Konami,Fighting,2011,0
+Konami,Fighting,2012,0
+Konami,Fighting,2013,0
+Konami,Fighting,2014,0
+Konami,Fighting,2015,0
+Konami,Fighting,2016,0
+Konami,Fighting,2017,0
+Konami,Fighting,2018,0
+Konami,Fighting,2019,0
+Konami,Fighting,2020,0
+Konami,First-Person,1996,0
+Konami,First-Person,1997,0
+Konami,First-Person,1998,0
+Konami,First-Person,1999,0
+Konami,First-Person,2000,0
+Konami,First-Person,2001,0
+Konami,First-Person,2002,0
+Konami,First-Person,2003,0
+Konami,First-Person,2004,0
+Konami,First-Person,2005,1
+Konami,First-Person,2006,0
+Konami,First-Person,2007,0
+Konami,First-Person,2008,0
+Konami,First-Person,2009,0
+Konami,First-Person,2010,0
+Konami,First-Person,2011,0
+Konami,First-Person,2012,0
+Konami,First-Person,2013,0
+Konami,First-Person,2014,0
+Konami,First-Person,2015,0
+Konami,First-Person,2016,0
+Konami,First-Person,2017,0
+Konami,First-Person,2018,0
+Konami,First-Person,2019,0
+Konami,First-Person,2020,0
+Konami,Football,1996,0
+Konami,Football,1997,0
+Konami,Football,1998,0
+Konami,Football,1999,0
+Konami,Football,2000,0
+Konami,Football,2001,1
+Konami,Football,2002,0
+Konami,Football,2003,0
+Konami,Football,2004,0
+Konami,Football,2005,0
+Konami,Football,2006,0
+Konami,Football,2007,0
+Konami,Football,2008,0
+Konami,Football,2009,2
+Konami,Football,2010,0
+Konami,Football,2011,3
+Konami,Football,2012,1
+Konami,Football,2013,0
+Konami,Football,2014,0
+Konami,Football,2015,0
+Konami,Football,2016,0
+Konami,Football,2017,0
+Konami,Football,2018,0
+Konami,Football,2019,0
+Konami,Football,2020,0
+Konami,General,1996,0
+Konami,General,1997,0
+Konami,General,1998,0
+Konami,General,1999,0
+Konami,General,2000,0
+Konami,General,2001,0
+Konami,General,2002,0
+Konami,General,2003,0
+Konami,General,2004,1
+Konami,General,2005,0
+Konami,General,2006,3
+Konami,General,2007,0
+Konami,General,2008,0
+Konami,General,2009,0
+Konami,General,2010,3
+Konami,General,2011,3
+Konami,General,2012,1
+Konami,General,2013,0
+Konami,General,2014,2
+Konami,General,2015,0
+Konami,General,2016,0
+Konami,General,2017,0
+Konami,General,2018,3
+Konami,General,2019,0
+Konami,General,2020,0
+Konami,Individual,1996,0
+Konami,Individual,1997,0
+Konami,Individual,1998,0
+Konami,Individual,1999,0
+Konami,Individual,2000,0
+Konami,Individual,2001,0
+Konami,Individual,2002,0
+Konami,Individual,2003,0
+Konami,Individual,2004,0
+Konami,Individual,2005,0
+Konami,Individual,2006,1
+Konami,Individual,2007,0
+Konami,Individual,2008,0
+Konami,Individual,2009,0
+Konami,Individual,2010,1
+Konami,Individual,2011,0
+Konami,Individual,2012,0
+Konami,Individual,2013,0
+Konami,Individual,2014,0
+Konami,Individual,2015,0
+Konami,Individual,2016,0
+Konami,Individual,2017,0
+Konami,Individual,2018,0
+Konami,Individual,2019,0
+Konami,Individual,2020,0
+Konami,Miscellaneous,1996,0
+Konami,Miscellaneous,1997,0
+Konami,Miscellaneous,1998,0
+Konami,Miscellaneous,1999,0
+Konami,Miscellaneous,2000,0
+Konami,Miscellaneous,2001,2
+Konami,Miscellaneous,2002,1
+Konami,Miscellaneous,2003,3
+Konami,Miscellaneous,2004,1
+Konami,Miscellaneous,2005,3
+Konami,Miscellaneous,2006,4
+Konami,Miscellaneous,2007,8
+Konami,Miscellaneous,2008,2
+Konami,Miscellaneous,2009,1
+Konami,Miscellaneous,2010,1
+Konami,Miscellaneous,2011,0
+Konami,Miscellaneous,2012,1
+Konami,Miscellaneous,2013,0
+Konami,Miscellaneous,2014,1
+Konami,Miscellaneous,2015,0
+Konami,Miscellaneous,2016,0
+Konami,Miscellaneous,2017,0
+Konami,Miscellaneous,2018,1
+Konami,Miscellaneous,2019,3
+Konami,Miscellaneous,2020,0
+Konami,Modern,1996,0
+Konami,Modern,1997,0
+Konami,Modern,1998,0
+Konami,Modern,1999,0
+Konami,Modern,2000,0
+Konami,Modern,2001,0
+Konami,Modern,2002,0
+Konami,Modern,2003,0
+Konami,Modern,2004,0
+Konami,Modern,2005,1
+Konami,Modern,2006,0
+Konami,Modern,2007,0
+Konami,Modern,2008,0
+Konami,Modern,2009,0
+Konami,Modern,2010,0
+Konami,Modern,2011,0
+Konami,Modern,2012,0
+Konami,Modern,2013,0
+Konami,Modern,2014,0
+Konami,Modern,2015,0
+Konami,Modern,2016,0
+Konami,Modern,2017,0
+Konami,Modern,2018,0
+Konami,Modern,2019,0
+Konami,Modern,2020,0
+Konami,Platformer,1996,0
+Konami,Platformer,1997,1
+Konami,Platformer,1998,0
+Konami,Platformer,1999,0
+Konami,Platformer,2000,0
+Konami,Platformer,2001,1
+Konami,Platformer,2002,0
+Konami,Platformer,2003,1
+Konami,Platformer,2004,1
+Konami,Platformer,2005,1
+Konami,Platformer,2006,1
+Konami,Platformer,2007,3
+Konami,Platformer,2008,1
+Konami,Platformer,2009,1
+Konami,Platformer,2010,0
+Konami,Platformer,2011,0
+Konami,Platformer,2012,0
+Konami,Platformer,2013,0
+Konami,Platformer,2014,0
+Konami,Platformer,2015,0
+Konami,Platformer,2016,0
+Konami,Platformer,2017,0
+Konami,Platformer,2018,0
+Konami,Platformer,2019,0
+Konami,Platformer,2020,0
+Konami,Racing,1996,0
+Konami,Racing,1997,0
+Konami,Racing,1998,0
+Konami,Racing,1999,0
+Konami,Racing,2000,0
+Konami,Racing,2001,0
+Konami,Racing,2002,1
+Konami,Racing,2003,1
+Konami,Racing,2004,0
+Konami,Racing,2005,1
+Konami,Racing,2006,0
+Konami,Racing,2007,0
+Konami,Racing,2008,0
+Konami,Racing,2009,1
+Konami,Racing,2010,1
+Konami,Racing,2011,0
+Konami,Racing,2012,0
+Konami,Racing,2013,0
+Konami,Racing,2014,0
+Konami,Racing,2015,0
+Konami,Racing,2016,0
+Konami,Racing,2017,0
+Konami,Racing,2018,0
+Konami,Racing,2019,0
+Konami,Racing,2020,0
+Konami,Role-Playing,1996,0
+Konami,Role-Playing,1997,0
+Konami,Role-Playing,1998,0
+Konami,Role-Playing,1999,1
+Konami,Role-Playing,2000,0
+Konami,Role-Playing,2001,0
+Konami,Role-Playing,2002,0
+Konami,Role-Playing,2003,1
+Konami,Role-Playing,2004,0
+Konami,Role-Playing,2005,1
+Konami,Role-Playing,2006,3
+Konami,Role-Playing,2007,0
+Konami,Role-Playing,2008,1
+Konami,Role-Playing,2009,1
+Konami,Role-Playing,2010,0
+Konami,Role-Playing,2011,0
+Konami,Role-Playing,2012,0
+Konami,Role-Playing,2013,0
+Konami,Role-Playing,2014,0
+Konami,Role-Playing,2015,0
+Konami,Role-Playing,2016,0
+Konami,Role-Playing,2017,0
+Konami,Role-Playing,2018,0
+Konami,Role-Playing,2019,0
+Konami,Role-Playing,2020,0
+Konami,Shooter,1996,0
+Konami,Shooter,1997,0
+Konami,Shooter,1998,0
+Konami,Shooter,1999,0
+Konami,Shooter,2000,1
+Konami,Shooter,2001,0
+Konami,Shooter,2002,1
+Konami,Shooter,2003,0
+Konami,Shooter,2004,1
+Konami,Shooter,2005,1
+Konami,Shooter,2006,0
+Konami,Shooter,2007,1
+Konami,Shooter,2008,0
+Konami,Shooter,2009,0
+Konami,Shooter,2010,0
+Konami,Shooter,2011,2
+Konami,Shooter,2012,0
+Konami,Shooter,2013,0
+Konami,Shooter,2014,0
+Konami,Shooter,2015,0
+Konami,Shooter,2016,0
+Konami,Shooter,2017,0
+Konami,Shooter,2018,0
+Konami,Shooter,2019,3
+Konami,Shooter,2020,0
+Konami,Sim,1996,0
+Konami,Sim,1997,0
+Konami,Sim,1998,0
+Konami,Sim,1999,0
+Konami,Sim,2000,0
+Konami,Sim,2001,3
+Konami,Sim,2002,2
+Konami,Sim,2003,0
+Konami,Sim,2004,0
+Konami,Sim,2005,0
+Konami,Sim,2006,0
+Konami,Sim,2007,1
+Konami,Sim,2008,9
+Konami,Sim,2009,6
+Konami,Sim,2010,5
+Konami,Sim,2011,5
+Konami,Sim,2012,4
+Konami,Sim,2013,3
+Konami,Sim,2014,3
+Konami,Sim,2015,3
+Konami,Sim,2016,4
+Konami,Sim,2017,3
+Konami,Sim,2018,3
+Konami,Sim,2019,2
+Konami,Sim,2020,1
+Konami,Soccer,1996,0
+Konami,Soccer,1997,0
+Konami,Soccer,1998,0
+Konami,Soccer,1999,0
+Konami,Soccer,2000,0
+Konami,Soccer,2001,1
+Konami,Soccer,2002,0
+Konami,Soccer,2003,0
+Konami,Soccer,2004,0
+Konami,Soccer,2005,0
+Konami,Soccer,2006,0
+Konami,Soccer,2007,1
+Konami,Soccer,2008,9
+Konami,Soccer,2009,6
+Konami,Soccer,2010,5
+Konami,Soccer,2011,5
+Konami,Soccer,2012,4
+Konami,Soccer,2013,3
+Konami,Soccer,2014,3
+Konami,Soccer,2015,3
+Konami,Soccer,2016,4
+Konami,Soccer,2017,3
+Konami,Soccer,2018,3
+Konami,Soccer,2019,2
+Konami,Soccer,2020,1
+Konami,Sports,1996,0
+Konami,Sports,1997,0
+Konami,Sports,1998,0
+Konami,Sports,1999,0
+Konami,Sports,2000,1
+Konami,Sports,2001,3
+Konami,Sports,2002,9
+Konami,Sports,2003,3
+Konami,Sports,2004,0
+Konami,Sports,2005,0
+Konami,Sports,2006,1
+Konami,Sports,2007,3
+Konami,Sports,2008,12
+Konami,Sports,2009,6
+Konami,Sports,2010,6
+Konami,Sports,2011,5
+Konami,Sports,2012,4
+Konami,Sports,2013,3
+Konami,Sports,2014,3
+Konami,Sports,2015,3
+Konami,Sports,2016,4
+Konami,Sports,2017,3
+Konami,Sports,2018,3
+Konami,Sports,2019,2
+Konami,Sports,2020,1
+Konami,Team,1996,0
+Konami,Team,1997,0
+Konami,Team,1998,0
+Konami,Team,1999,0
+Konami,Team,2000,0
+Konami,Team,2001,0
+Konami,Team,2002,0
+Konami,Team,2003,0
+Konami,Team,2004,0
+Konami,Team,2005,0
+Konami,Team,2006,0
+Konami,Team,2007,1
+Konami,Team,2008,10
+Konami,Team,2009,6
+Konami,Team,2010,5
+Konami,Team,2011,4
+Konami,Team,2012,4
+Konami,Team,2013,3
+Konami,Team,2014,3
+Konami,Team,2015,3
+Konami,Team,2016,4
+Konami,Team,2017,3
+Konami,Team,2018,3
+Konami,Team,2019,2
+Konami,Team,2020,1
+Konami,Third-Person,1996,0
+Konami,Third-Person,1997,0
+Konami,Third-Person,1998,0
+Konami,Third-Person,1999,0
+Konami,Third-Person,2000,0
+Konami,Third-Person,2001,1
+Konami,Third-Person,2002,0
+Konami,Third-Person,2003,0
+Konami,Third-Person,2004,0
+Konami,Third-Person,2005,0
+Konami,Third-Person,2006,0
+Konami,Third-Person,2007,0
+Konami,Third-Person,2008,0
+Konami,Third-Person,2009,1
+Konami,Third-Person,2010,0
+Konami,Third-Person,2011,0
+Konami,Third-Person,2012,0
+Konami,Third-Person,2013,0
+Konami,Third-Person,2014,0
+Konami,Third-Person,2015,0
+Konami,Third-Person,2016,0
+Konami,Third-Person,2017,0
+Konami,Third-Person,2018,0
+Konami,Third-Person,2019,0
+Konami,Third-Person,2020,0
+Konami,Traditional,1996,0
+Konami,Traditional,1997,0
+Konami,Traditional,1998,0
+Konami,Traditional,1999,0
+Konami,Traditional,2000,0
+Konami,Traditional,2001,3
+Konami,Traditional,2002,3
+Konami,Traditional,2003,1
+Konami,Traditional,2004,0
+Konami,Traditional,2005,0
+Konami,Traditional,2006,0
+Konami,Traditional,2007,3
+Konami,Traditional,2008,12
+Konami,Traditional,2009,6
+Konami,Traditional,2010,5
+Konami,Traditional,2011,5
+Konami,Traditional,2012,4
+Konami,Traditional,2013,3
+Konami,Traditional,2014,3
+Konami,Traditional,2015,0
+Konami,Traditional,2016,0
+Konami,Traditional,2017,0
+Konami,Traditional,2018,0
+Konami,Traditional,2019,0
+Konami,Traditional,2020,0
+Nintendo,2D,1996,0
+Nintendo,2D,1997,0
+Nintendo,2D,1998,1
+Nintendo,2D,1999,0
+Nintendo,2D,2000,0
+Nintendo,2D,2001,2
+Nintendo,2D,2002,2
+Nintendo,2D,2003,1
+Nintendo,2D,2004,5
+Nintendo,2D,2005,2
+Nintendo,2D,2006,1
+Nintendo,2D,2007,0
+Nintendo,2D,2008,0
+Nintendo,2D,2009,3
+Nintendo,2D,2010,1
+Nintendo,2D,2011,0
+Nintendo,2D,2012,2
+Nintendo,2D,2013,1
+Nintendo,2D,2014,0
+Nintendo,2D,2015,1
+Nintendo,2D,2016,1
+Nintendo,2D,2017,0
+Nintendo,2D,2018,0
+Nintendo,2D,2019,2
+Nintendo,2D,2020,1
+Nintendo,3D,1996,1
+Nintendo,3D,1997,0
+Nintendo,3D,1998,0
+Nintendo,3D,1999,0
+Nintendo,3D,2000,0
+Nintendo,3D,2001,0
+Nintendo,3D,2002,1
+Nintendo,3D,2003,0
+Nintendo,3D,2004,1
+Nintendo,3D,2005,0
+Nintendo,3D,2006,0
+Nintendo,3D,2007,1
+Nintendo,3D,2008,0
+Nintendo,3D,2009,0
+Nintendo,3D,2010,0
+Nintendo,3D,2011,1
+Nintendo,3D,2012,0
+Nintendo,3D,2013,2
+Nintendo,3D,2014,0
+Nintendo,3D,2015,0
+Nintendo,3D,2016,0
+Nintendo,3D,2017,2
+Nintendo,3D,2018,0
+Nintendo,3D,2019,0
+Nintendo,3D,2020,0
+Nintendo,Action,1996,1
+Nintendo,Action,1997,1
+Nintendo,Action,1998,1
+Nintendo,Action,1999,0
+Nintendo,Action,2000,0
+Nintendo,Action,2001,2
+Nintendo,Action,2002,3
+Nintendo,Action,2003,1
+Nintendo,Action,2004,6
+Nintendo,Action,2005,2
+Nintendo,Action,2006,1
+Nintendo,Action,2007,2
+Nintendo,Action,2008,1
+Nintendo,Action,2009,5
+Nintendo,Action,2010,1
+Nintendo,Action,2011,2
+Nintendo,Action,2012,3
+Nintendo,Action,2013,3
+Nintendo,Action,2014,0
+Nintendo,Action,2015,2
+Nintendo,Action,2016,2
+Nintendo,Action,2017,4
+Nintendo,Action,2018,1
+Nintendo,Action,2019,3
+Nintendo,Action,2020,1
+Nintendo,Action Adventure,1996,0
+Nintendo,Action Adventure,1997,0
+Nintendo,Action Adventure,1998,1
+Nintendo,Action Adventure,1999,0
+Nintendo,Action Adventure,2000,1
+Nintendo,Action Adventure,2001,1
+Nintendo,Action Adventure,2002,1
+Nintendo,Action Adventure,2003,3
+Nintendo,Action Adventure,2004,2
+Nintendo,Action Adventure,2005,0
+Nintendo,Action Adventure,2006,2
+Nintendo,Action Adventure,2007,1
+Nintendo,Action Adventure,2008,0
+Nintendo,Action Adventure,2009,1
+Nintendo,Action Adventure,2010,0
+Nintendo,Action Adventure,2011,1
+Nintendo,Action Adventure,2012,0
+Nintendo,Action Adventure,2013,1
+Nintendo,Action Adventure,2014,0
+Nintendo,Action Adventure,2015,1
+Nintendo,Action Adventure,2016,0
+Nintendo,Action Adventure,2017,4
+Nintendo,Action Adventure,2018,0
+Nintendo,Action Adventure,2019,0
+Nintendo,Action Adventure,2020,0
+Nintendo,Arcade,1996,0
+Nintendo,Arcade,1997,0
+Nintendo,Arcade,1998,0
+Nintendo,Arcade,1999,0
+Nintendo,Arcade,2000,1
+Nintendo,Arcade,2001,0
+Nintendo,Arcade,2002,0
+Nintendo,Arcade,2003,0
+Nintendo,Arcade,2004,1
+Nintendo,Arcade,2005,1
+Nintendo,Arcade,2006,0
+Nintendo,Arcade,2007,0
+Nintendo,Arcade,2008,1
+Nintendo,Arcade,2009,1
+Nintendo,Arcade,2010,0
+Nintendo,Arcade,2011,0
+Nintendo,Arcade,2012,0
+Nintendo,Arcade,2013,0
+Nintendo,Arcade,2014,2
+Nintendo,Arcade,2015,2
+Nintendo,Arcade,2016,0
+Nintendo,Arcade,2017,2
+Nintendo,Arcade,2018,1
+Nintendo,Arcade,2019,0
+Nintendo,Arcade,2020,0
+Nintendo,Automobile,1996,0
+Nintendo,Automobile,1997,0
+Nintendo,Automobile,1998,0
+Nintendo,Automobile,1999,0
+Nintendo,Automobile,2000,0
+Nintendo,Automobile,2001,0
+Nintendo,Automobile,2002,0
+Nintendo,Automobile,2003,0
+Nintendo,Automobile,2004,0
+Nintendo,Automobile,2005,1
+Nintendo,Automobile,2006,0
+Nintendo,Automobile,2007,0
+Nintendo,Automobile,2008,1
+Nintendo,Automobile,2009,0
+Nintendo,Automobile,2010,0
+Nintendo,Automobile,2011,0
+Nintendo,Automobile,2012,0
+Nintendo,Automobile,2013,0
+Nintendo,Automobile,2014,2
+Nintendo,Automobile,2015,1
+Nintendo,Automobile,2016,0
+Nintendo,Automobile,2017,1
+Nintendo,Automobile,2018,0
+Nintendo,Automobile,2019,0
+Nintendo,Automobile,2020,0
+Nintendo,Compilation,1996,0
+Nintendo,Compilation,1997,0
+Nintendo,Compilation,1998,0
+Nintendo,Compilation,1999,0
+Nintendo,Compilation,2000,0
+Nintendo,Compilation,2001,0
+Nintendo,Compilation,2002,1
+Nintendo,Compilation,2003,0
+Nintendo,Compilation,2004,0
+Nintendo,Compilation,2005,0
+Nintendo,Compilation,2006,0
+Nintendo,Compilation,2007,0
+Nintendo,Compilation,2008,0
+Nintendo,Compilation,2009,0
+Nintendo,Compilation,2010,1
+Nintendo,Compilation,2011,0
+Nintendo,Compilation,2012,0
+Nintendo,Compilation,2013,0
+Nintendo,Compilation,2014,0
+Nintendo,Compilation,2015,0
+Nintendo,Compilation,2016,0
+Nintendo,Compilation,2017,0
+Nintendo,Compilation,2018,0
+Nintendo,Compilation,2019,0
+Nintendo,Compilation,2020,1
+Nintendo,Driving,1996,1
+Nintendo,Driving,1997,1
+Nintendo,Driving,1998,1
+Nintendo,Driving,1999,0
+Nintendo,Driving,2000,1
+Nintendo,Driving,2001,1
+Nintendo,Driving,2002,0
+Nintendo,Driving,2003,1
+Nintendo,Driving,2004,1
+Nintendo,Driving,2005,1
+Nintendo,Driving,2006,0
+Nintendo,Driving,2007,0
+Nintendo,Driving,2008,1
+Nintendo,Driving,2009,0
+Nintendo,Driving,2010,0
+Nintendo,Driving,2011,0
+Nintendo,Driving,2012,0
+Nintendo,Driving,2013,0
+Nintendo,Driving,2014,2
+Nintendo,Driving,2015,1
+Nintendo,Driving,2016,0
+Nintendo,Driving,2017,0
+Nintendo,Driving,2018,0
+Nintendo,Driving,2019,0
+Nintendo,Driving,2020,0
+Nintendo,Fantasy,1996,0
+Nintendo,Fantasy,1997,0
+Nintendo,Fantasy,1998,1
+Nintendo,Fantasy,1999,0
+Nintendo,Fantasy,2000,1
+Nintendo,Fantasy,2001,2
+Nintendo,Fantasy,2002,0
+Nintendo,Fantasy,2003,3
+Nintendo,Fantasy,2004,2
+Nintendo,Fantasy,2005,0
+Nintendo,Fantasy,2006,2
+Nintendo,Fantasy,2007,1
+Nintendo,Fantasy,2008,0
+Nintendo,Fantasy,2009,2
+Nintendo,Fantasy,2010,0
+Nintendo,Fantasy,2011,1
+Nintendo,Fantasy,2012,0
+Nintendo,Fantasy,2013,1
+Nintendo,Fantasy,2014,0
+Nintendo,Fantasy,2015,1
+Nintendo,Fantasy,2016,0
+Nintendo,Fantasy,2017,1
+Nintendo,Fantasy,2018,0
+Nintendo,Fantasy,2019,0
+Nintendo,Fantasy,2020,0
+Nintendo,Fighting,1996,0
+Nintendo,Fighting,1997,0
+Nintendo,Fighting,1998,0
+Nintendo,Fighting,1999,0
+Nintendo,Fighting,2000,0
+Nintendo,Fighting,2001,0
+Nintendo,Fighting,2002,0
+Nintendo,Fighting,2003,0
+Nintendo,Fighting,2004,0
+Nintendo,Fighting,2005,0
+Nintendo,Fighting,2006,0
+Nintendo,Fighting,2007,0
+Nintendo,Fighting,2008,0
+Nintendo,Fighting,2009,0
+Nintendo,Fighting,2010,0
+Nintendo,Fighting,2011,0
+Nintendo,Fighting,2012,0
+Nintendo,Fighting,2013,0
+Nintendo,Fighting,2014,0
+Nintendo,Fighting,2015,0
+Nintendo,Fighting,2016,0
+Nintendo,Fighting,2017,1
+Nintendo,Fighting,2018,0
+Nintendo,Fighting,2019,0
+Nintendo,Fighting,2020,0
+Nintendo,General,1996,0
+Nintendo,General,1997,0
+Nintendo,General,1998,0
+Nintendo,General,1999,0
+Nintendo,General,2000,0
+Nintendo,General,2001,0
+Nintendo,General,2002,1
+Nintendo,General,2003,2
+Nintendo,General,2004,2
+Nintendo,General,2005,1
+Nintendo,General,2006,2
+Nintendo,General,2007,0
+Nintendo,General,2008,4
+Nintendo,General,2009,5
+Nintendo,General,2010,0
+Nintendo,General,2011,1
+Nintendo,General,2012,0
+Nintendo,General,2013,4
+Nintendo,General,2014,1
+Nintendo,General,2015,0
+Nintendo,General,2016,0
+Nintendo,General,2017,1
+Nintendo,General,2018,0
+Nintendo,General,2019,1
+Nintendo,General,2020,0
+Nintendo,Individual,1996,0
+Nintendo,Individual,1997,0
+Nintendo,Individual,1998,0
+Nintendo,Individual,1999,0
+Nintendo,Individual,2000,0
+Nintendo,Individual,2001,0
+Nintendo,Individual,2002,0
+Nintendo,Individual,2003,0
+Nintendo,Individual,2004,0
+Nintendo,Individual,2005,0
+Nintendo,Individual,2006,1
+Nintendo,Individual,2007,0
+Nintendo,Individual,2008,0
+Nintendo,Individual,2009,1
+Nintendo,Individual,2010,0
+Nintendo,Individual,2011,0
+Nintendo,Individual,2012,0
+Nintendo,Individual,2013,0
+Nintendo,Individual,2014,0
+Nintendo,Individual,2015,0
+Nintendo,Individual,2016,0
+Nintendo,Individual,2017,1
+Nintendo,Individual,2018,0
+Nintendo,Individual,2019,0
+Nintendo,Individual,2020,0
+Nintendo,Miscellaneous,1996,0
+Nintendo,Miscellaneous,1997,0
+Nintendo,Miscellaneous,1998,0
+Nintendo,Miscellaneous,1999,0
+Nintendo,Miscellaneous,2000,1
+Nintendo,Miscellaneous,2001,0
+Nintendo,Miscellaneous,2002,3
+Nintendo,Miscellaneous,2003,2
+Nintendo,Miscellaneous,2004,3
+Nintendo,Miscellaneous,2005,5
+Nintendo,Miscellaneous,2006,4
+Nintendo,Miscellaneous,2007,3
+Nintendo,Miscellaneous,2008,6
+Nintendo,Miscellaneous,2009,4
+Nintendo,Miscellaneous,2010,1
+Nintendo,Miscellaneous,2011,3
+Nintendo,Miscellaneous,2012,2
+Nintendo,Miscellaneous,2013,3
+Nintendo,Miscellaneous,2014,1
+Nintendo,Miscellaneous,2015,0
+Nintendo,Miscellaneous,2016,0
+Nintendo,Miscellaneous,2017,1
+Nintendo,Miscellaneous,2018,4
+Nintendo,Miscellaneous,2019,1
+Nintendo,Miscellaneous,2020,2
+Nintendo,Platformer,1996,1
+Nintendo,Platformer,1997,0
+Nintendo,Platformer,1998,1
+Nintendo,Platformer,1999,0
+Nintendo,Platformer,2000,0
+Nintendo,Platformer,2001,2
+Nintendo,Platformer,2002,3
+Nintendo,Platformer,2003,1
+Nintendo,Platformer,2004,6
+Nintendo,Platformer,2005,2
+Nintendo,Platformer,2006,1
+Nintendo,Platformer,2007,1
+Nintendo,Platformer,2008,0
+Nintendo,Platformer,2009,3
+Nintendo,Platformer,2010,0
+Nintendo,Platformer,2011,1
+Nintendo,Platformer,2012,2
+Nintendo,Platformer,2013,3
+Nintendo,Platformer,2014,0
+Nintendo,Platformer,2015,1
+Nintendo,Platformer,2016,1
+Nintendo,Platformer,2017,1
+Nintendo,Platformer,2018,0
+Nintendo,Platformer,2019,2
+Nintendo,Platformer,2020,1
+Nintendo,Racing,1996,1
+Nintendo,Racing,1997,1
+Nintendo,Racing,1998,1
+Nintendo,Racing,1999,0
+Nintendo,Racing,2000,1
+Nintendo,Racing,2001,1
+Nintendo,Racing,2002,0
+Nintendo,Racing,2003,1
+Nintendo,Racing,2004,1
+Nintendo,Racing,2005,1
+Nintendo,Racing,2006,0
+Nintendo,Racing,2007,0
+Nintendo,Racing,2008,1
+Nintendo,Racing,2009,0
+Nintendo,Racing,2010,0
+Nintendo,Racing,2011,0
+Nintendo,Racing,2012,0
+Nintendo,Racing,2013,0
+Nintendo,Racing,2014,2
+Nintendo,Racing,2015,1
+Nintendo,Racing,2016,0
+Nintendo,Racing,2017,1
+Nintendo,Racing,2018,0
+Nintendo,Racing,2019,0
+Nintendo,Racing,2020,0
+Nintendo,Role-Playing,1996,0
+Nintendo,Role-Playing,1997,0
+Nintendo,Role-Playing,1998,0
+Nintendo,Role-Playing,1999,0
+Nintendo,Role-Playing,2000,0
+Nintendo,Role-Playing,2001,0
+Nintendo,Role-Playing,2002,0
+Nintendo,Role-Playing,2003,0
+Nintendo,Role-Playing,2004,2
+Nintendo,Role-Playing,2005,0
+Nintendo,Role-Playing,2006,0
+Nintendo,Role-Playing,2007,0
+Nintendo,Role-Playing,2008,0
+Nintendo,Role-Playing,2009,0
+Nintendo,Role-Playing,2010,0
+Nintendo,Role-Playing,2011,0
+Nintendo,Role-Playing,2012,0
+Nintendo,Role-Playing,2013,1
+Nintendo,Role-Playing,2014,0
+Nintendo,Role-Playing,2015,0
+Nintendo,Role-Playing,2016,0
+Nintendo,Role-Playing,2017,0
+Nintendo,Role-Playing,2018,0
+Nintendo,Role-Playing,2019,0
+Nintendo,Role-Playing,2020,0
+Nintendo,Shooter,1996,0
+Nintendo,Shooter,1997,1
+Nintendo,Shooter,1998,0
+Nintendo,Shooter,1999,0
+Nintendo,Shooter,2000,0
+Nintendo,Shooter,2001,0
+Nintendo,Shooter,2002,0
+Nintendo,Shooter,2003,0
+Nintendo,Shooter,2004,0
+Nintendo,Shooter,2005,0
+Nintendo,Shooter,2006,0
+Nintendo,Shooter,2007,1
+Nintendo,Shooter,2008,0
+Nintendo,Shooter,2009,0
+Nintendo,Shooter,2010,0
+Nintendo,Shooter,2011,1
+Nintendo,Shooter,2012,0
+Nintendo,Shooter,2013,0
+Nintendo,Shooter,2014,0
+Nintendo,Shooter,2015,1
+Nintendo,Shooter,2016,0
+Nintendo,Shooter,2017,1
+Nintendo,Shooter,2018,1
+Nintendo,Shooter,2019,0
+Nintendo,Shooter,2020,0
+Nintendo,Simulation,1996,0
+Nintendo,Simulation,1997,0
+Nintendo,Simulation,1998,0
+Nintendo,Simulation,1999,0
+Nintendo,Simulation,2000,0
+Nintendo,Simulation,2001,0
+Nintendo,Simulation,2002,0
+Nintendo,Simulation,2003,0
+Nintendo,Simulation,2004,0
+Nintendo,Simulation,2005,4
+Nintendo,Simulation,2006,1
+Nintendo,Simulation,2007,0
+Nintendo,Simulation,2008,1
+Nintendo,Simulation,2009,0
+Nintendo,Simulation,2010,0
+Nintendo,Simulation,2011,3
+Nintendo,Simulation,2012,0
+Nintendo,Simulation,2013,1
+Nintendo,Simulation,2014,2
+Nintendo,Simulation,2015,1
+Nintendo,Simulation,2016,0
+Nintendo,Simulation,2017,1
+Nintendo,Simulation,2018,0
+Nintendo,Simulation,2019,0
+Nintendo,Simulation,2020,1
+Nintendo,Sports,1996,0
+Nintendo,Sports,1997,0
+Nintendo,Sports,1998,0
+Nintendo,Sports,1999,0
+Nintendo,Sports,2000,0
+Nintendo,Sports,2001,0
+Nintendo,Sports,2002,0
+Nintendo,Sports,2003,1
+Nintendo,Sports,2004,0
+Nintendo,Sports,2005,0
+Nintendo,Sports,2006,1
+Nintendo,Sports,2007,0
+Nintendo,Sports,2008,1
+Nintendo,Sports,2009,2
+Nintendo,Sports,2010,0
+Nintendo,Sports,2011,0
+Nintendo,Sports,2012,0
+Nintendo,Sports,2013,2
+Nintendo,Sports,2014,0
+Nintendo,Sports,2015,0
+Nintendo,Sports,2016,0
+Nintendo,Sports,2017,1
+Nintendo,Sports,2018,0
+Nintendo,Sports,2019,0
+Nintendo,Sports,2020,0
+Nintendo,Third-Person,1996,0
+Nintendo,Third-Person,1997,0
+Nintendo,Third-Person,1998,0
+Nintendo,Third-Person,1999,0
+Nintendo,Third-Person,2000,0
+Nintendo,Third-Person,2001,0
+Nintendo,Third-Person,2002,0
+Nintendo,Third-Person,2003,0
+Nintendo,Third-Person,2004,0
+Nintendo,Third-Person,2005,0
+Nintendo,Third-Person,2006,0
+Nintendo,Third-Person,2007,0
+Nintendo,Third-Person,2008,0
+Nintendo,Third-Person,2009,0
+Nintendo,Third-Person,2010,0
+Nintendo,Third-Person,2011,0
+Nintendo,Third-Person,2012,0
+Nintendo,Third-Person,2013,0
+Nintendo,Third-Person,2014,0
+Nintendo,Third-Person,2015,1
+Nintendo,Third-Person,2016,0
+Nintendo,Third-Person,2017,1
+Nintendo,Third-Person,2018,1
+Nintendo,Third-Person,2019,0
+Nintendo,Third-Person,2020,0
+Rebellion,Action,1996,0
+Rebellion,Action,1997,0
+Rebellion,Action,1998,0
+Rebellion,Action,1999,0
+Rebellion,Action,2000,1
+Rebellion,Action,2001,1
+Rebellion,Action,2002,0
+Rebellion,Action,2003,0
+Rebellion,Action,2004,0
+Rebellion,Action,2005,9
+Rebellion,Action,2006,6
+Rebellion,Action,2007,1
+Rebellion,Action,2008,0
+Rebellion,Action,2009,7
+Rebellion,Action,2010,3
+Rebellion,Action,2011,0
+Rebellion,Action,2012,3
+Rebellion,Action,2013,2
+Rebellion,Action,2014,3
+Rebellion,Action,2015,4
+Rebellion,Action,2016,1
+Rebellion,Action,2017,4
+Rebellion,Action,2018,5
+Rebellion,Action,2019,5
+Rebellion,Action,2020,4
+Rebellion,Action Adventure,1996,0
+Rebellion,Action Adventure,1997,0
+Rebellion,Action Adventure,1998,0
+Rebellion,Action Adventure,1999,0
+Rebellion,Action Adventure,2000,1
+Rebellion,Action Adventure,2001,0
+Rebellion,Action Adventure,2002,0
+Rebellion,Action Adventure,2003,0
+Rebellion,Action Adventure,2004,0
+Rebellion,Action Adventure,2005,0
+Rebellion,Action Adventure,2006,1
+Rebellion,Action Adventure,2007,1
+Rebellion,Action Adventure,2008,0
+Rebellion,Action Adventure,2009,0
+Rebellion,Action Adventure,2010,0
+Rebellion,Action Adventure,2011,0
+Rebellion,Action Adventure,2012,2
+Rebellion,Action Adventure,2013,0
+Rebellion,Action Adventure,2014,0
+Rebellion,Action Adventure,2015,0
+Rebellion,Action Adventure,2016,0
+Rebellion,Action Adventure,2017,0
+Rebellion,Action Adventure,2018,0
+Rebellion,Action Adventure,2019,0
+Rebellion,Action Adventure,2020,0
+Rebellion,Arcade,1996,0
+Rebellion,Arcade,1997,0
+Rebellion,Arcade,1998,0
+Rebellion,Arcade,1999,0
+Rebellion,Arcade,2000,0
+Rebellion,Arcade,2001,0
+Rebellion,Arcade,2002,0
+Rebellion,Arcade,2003,0
+Rebellion,Arcade,2004,0
+Rebellion,Arcade,2005,2
+Rebellion,Arcade,2006,2
+Rebellion,Arcade,2007,1
+Rebellion,Arcade,2008,0
+Rebellion,Arcade,2009,7
+Rebellion,Arcade,2010,3
+Rebellion,Arcade,2011,0
+Rebellion,Arcade,2012,0
+Rebellion,Arcade,2013,0
+Rebellion,Arcade,2014,0
+Rebellion,Arcade,2015,3
+Rebellion,Arcade,2016,1
+Rebellion,Arcade,2017,1
+Rebellion,Arcade,2018,4
+Rebellion,Arcade,2019,0
+Rebellion,Arcade,2020,4
+Rebellion,First-Person,1996,0
+Rebellion,First-Person,1997,0
+Rebellion,First-Person,1998,0
+Rebellion,First-Person,1999,0
+Rebellion,First-Person,2000,0
+Rebellion,First-Person,2001,0
+Rebellion,First-Person,2002,0
+Rebellion,First-Person,2003,0
+Rebellion,First-Person,2004,0
+Rebellion,First-Person,2005,5
+Rebellion,First-Person,2006,1
+Rebellion,First-Person,2007,0
+Rebellion,First-Person,2008,0
+Rebellion,First-Person,2009,6
+Rebellion,First-Person,2010,3
+Rebellion,First-Person,2011,0
+Rebellion,First-Person,2012,0
+Rebellion,First-Person,2013,0
+Rebellion,First-Person,2014,0
+Rebellion,First-Person,2015,0
+Rebellion,First-Person,2016,0
+Rebellion,First-Person,2017,3
+Rebellion,First-Person,2018,0
+Rebellion,First-Person,2019,0
+Rebellion,First-Person,2020,3
+Rebellion,General,1996,0
+Rebellion,General,1997,0
+Rebellion,General,1998,0
+Rebellion,General,1999,0
+Rebellion,General,2000,1
+Rebellion,General,2001,0
+Rebellion,General,2002,0
+Rebellion,General,2003,0
+Rebellion,General,2004,0
+Rebellion,General,2005,0
+Rebellion,General,2006,1
+Rebellion,General,2007,1
+Rebellion,General,2008,0
+Rebellion,General,2009,0
+Rebellion,General,2010,2
+Rebellion,General,2011,0
+Rebellion,General,2012,2
+Rebellion,General,2013,1
+Rebellion,General,2014,0
+Rebellion,General,2015,0
+Rebellion,General,2016,0
+Rebellion,General,2017,0
+Rebellion,General,2018,1
+Rebellion,General,2019,0
+Rebellion,General,2020,0
+Rebellion,Individual,1996,0
+Rebellion,Individual,1997,0
+Rebellion,Individual,1998,0
+Rebellion,Individual,1999,0
+Rebellion,Individual,2000,0
+Rebellion,Individual,2001,0
+Rebellion,Individual,2002,0
+Rebellion,Individual,2003,0
+Rebellion,Individual,2004,0
+Rebellion,Individual,2005,0
+Rebellion,Individual,2006,0
+Rebellion,Individual,2007,0
+Rebellion,Individual,2008,0
+Rebellion,Individual,2009,1
+Rebellion,Individual,2010,0
+Rebellion,Individual,2011,0
+Rebellion,Individual,2012,0
+Rebellion,Individual,2013,0
+Rebellion,Individual,2014,0
+Rebellion,Individual,2015,0
+Rebellion,Individual,2016,0
+Rebellion,Individual,2017,0
+Rebellion,Individual,2018,0
+Rebellion,Individual,2019,0
+Rebellion,Individual,2020,0
+Rebellion,Modern,1996,0
+Rebellion,Modern,1997,0
+Rebellion,Modern,1998,0
+Rebellion,Modern,1999,0
+Rebellion,Modern,2000,0
+Rebellion,Modern,2001,0
+Rebellion,Modern,2002,0
+Rebellion,Modern,2003,0
+Rebellion,Modern,2004,0
+Rebellion,Modern,2005,2
+Rebellion,Modern,2006,3
+Rebellion,Modern,2007,0
+Rebellion,Modern,2008,0
+Rebellion,Modern,2009,3
+Rebellion,Modern,2010,0
+Rebellion,Modern,2011,0
+Rebellion,Modern,2012,0
+Rebellion,Modern,2013,0
+Rebellion,Modern,2014,0
+Rebellion,Modern,2015,0
+Rebellion,Modern,2016,0
+Rebellion,Modern,2017,0
+Rebellion,Modern,2018,0
+Rebellion,Modern,2019,0
+Rebellion,Modern,2020,0
+Rebellion,Shooter,1996,0
+Rebellion,Shooter,1997,0
+Rebellion,Shooter,1998,0
+Rebellion,Shooter,1999,0
+Rebellion,Shooter,2000,0
+Rebellion,Shooter,2001,1
+Rebellion,Shooter,2002,0
+Rebellion,Shooter,2003,0
+Rebellion,Shooter,2004,0
+Rebellion,Shooter,2005,9
+Rebellion,Shooter,2006,6
+Rebellion,Shooter,2007,1
+Rebellion,Shooter,2008,0
+Rebellion,Shooter,2009,7
+Rebellion,Shooter,2010,3
+Rebellion,Shooter,2011,0
+Rebellion,Shooter,2012,3
+Rebellion,Shooter,2013,2
+Rebellion,Shooter,2014,3
+Rebellion,Shooter,2015,4
+Rebellion,Shooter,2016,0
+Rebellion,Shooter,2017,4
+Rebellion,Shooter,2018,3
+Rebellion,Shooter,2019,5
+Rebellion,Shooter,2020,4
+Rebellion,Simulation,1996,0
+Rebellion,Simulation,1997,0
+Rebellion,Simulation,1998,0
+Rebellion,Simulation,1999,0
+Rebellion,Simulation,2000,0
+Rebellion,Simulation,2001,0
+Rebellion,Simulation,2002,0
+Rebellion,Simulation,2003,0
+Rebellion,Simulation,2004,0
+Rebellion,Simulation,2005,0
+Rebellion,Simulation,2006,0
+Rebellion,Simulation,2007,0
+Rebellion,Simulation,2008,0
+Rebellion,Simulation,2009,0
+Rebellion,Simulation,2010,0
+Rebellion,Simulation,2011,0
+Rebellion,Simulation,2012,0
+Rebellion,Simulation,2013,0
+Rebellion,Simulation,2014,0
+Rebellion,Simulation,2015,0
+Rebellion,Simulation,2016,1
+Rebellion,Simulation,2017,0
+Rebellion,Simulation,2018,1
+Rebellion,Simulation,2019,0
+Rebellion,Simulation,2020,0
+Rebellion,Sports,1996,0
+Rebellion,Sports,1997,0
+Rebellion,Sports,1998,0
+Rebellion,Sports,1999,0
+Rebellion,Sports,2000,0
+Rebellion,Sports,2001,0
+Rebellion,Sports,2002,0
+Rebellion,Sports,2003,0
+Rebellion,Sports,2004,0
+Rebellion,Sports,2005,0
+Rebellion,Sports,2006,0
+Rebellion,Sports,2007,0
+Rebellion,Sports,2008,0
+Rebellion,Sports,2009,1
+Rebellion,Sports,2010,0
+Rebellion,Sports,2011,0
+Rebellion,Sports,2012,0
+Rebellion,Sports,2013,0
+Rebellion,Sports,2014,0
+Rebellion,Sports,2015,0
+Rebellion,Sports,2016,0
+Rebellion,Sports,2017,0
+Rebellion,Sports,2018,0
+Rebellion,Sports,2019,0
+Rebellion,Sports,2020,0
+Rebellion,Third-Person,1996,0
+Rebellion,Third-Person,1997,0
+Rebellion,Third-Person,1998,0
+Rebellion,Third-Person,1999,0
+Rebellion,Third-Person,2000,0
+Rebellion,Third-Person,2001,0
+Rebellion,Third-Person,2002,0
+Rebellion,Third-Person,2003,0
+Rebellion,Third-Person,2004,0
+Rebellion,Third-Person,2005,4
+Rebellion,Third-Person,2006,5
+Rebellion,Third-Person,2007,1
+Rebellion,Third-Person,2008,0
+Rebellion,Third-Person,2009,4
+Rebellion,Third-Person,2010,0
+Rebellion,Third-Person,2011,0
+Rebellion,Third-Person,2012,3
+Rebellion,Third-Person,2013,2
+Rebellion,Third-Person,2014,3
+Rebellion,Third-Person,2015,4
+Rebellion,Third-Person,2016,0
+Rebellion,Third-Person,2017,1
+Rebellion,Third-Person,2018,3
+Rebellion,Third-Person,2019,5
+Rebellion,Third-Person,2020,1
+Square Enix,3D,1996,0
+Square Enix,3D,1997,0
+Square Enix,3D,1998,0
+Square Enix,3D,1999,0
+Square Enix,3D,2000,0
+Square Enix,3D,2001,0
+Square Enix,3D,2002,0
+Square Enix,3D,2003,0
+Square Enix,3D,2004,0
+Square Enix,3D,2005,0
+Square Enix,3D,2006,0
+Square Enix,3D,2007,0
+Square Enix,3D,2008,0
+Square Enix,3D,2009,1
+Square Enix,3D,2010,0
+Square Enix,3D,2011,1
+Square Enix,3D,2012,0
+Square Enix,3D,2013,0
+Square Enix,3D,2014,0
+Square Enix,3D,2015,0
+Square Enix,3D,2016,0
+Square Enix,3D,2017,1
+Square Enix,3D,2018,0
+Square Enix,3D,2019,0
+Square Enix,3D,2020,0
+Square Enix,Action,1996,0
+Square Enix,Action,1997,0
+Square Enix,Action,1998,0
+Square Enix,Action,1999,0
+Square Enix,Action,2000,0
+Square Enix,Action,2001,0
+Square Enix,Action,2002,0
+Square Enix,Action,2003,0
+Square Enix,Action,2004,0
+Square Enix,Action,2005,0
+Square Enix,Action,2006,0
+Square Enix,Action,2007,0
+Square Enix,Action,2008,0
+Square Enix,Action,2009,1
+Square Enix,Action,2010,2
+Square Enix,Action,2011,1
+Square Enix,Action,2012,0
+Square Enix,Action,2013,0
+Square Enix,Action,2014,1
+Square Enix,Action,2015,0
+Square Enix,Action,2016,0
+Square Enix,Action,2017,1
+Square Enix,Action,2018,0
+Square Enix,Action,2019,0
+Square Enix,Action,2020,0
+Square Enix,Action Adventure,1996,0
+Square Enix,Action Adventure,1997,0
+Square Enix,Action Adventure,1998,0
+Square Enix,Action Adventure,1999,0
+Square Enix,Action Adventure,2000,0
+Square Enix,Action Adventure,2001,0
+Square Enix,Action Adventure,2002,0
+Square Enix,Action Adventure,2003,0
+Square Enix,Action Adventure,2004,0
+Square Enix,Action Adventure,2005,0
+Square Enix,Action Adventure,2006,1
+Square Enix,Action Adventure,2007,1
+Square Enix,Action Adventure,2008,0
+Square Enix,Action Adventure,2009,0
+Square Enix,Action Adventure,2010,0
+Square Enix,Action Adventure,2011,0
+Square Enix,Action Adventure,2012,0
+Square Enix,Action Adventure,2013,0
+Square Enix,Action Adventure,2014,0
+Square Enix,Action Adventure,2015,0
+Square Enix,Action Adventure,2016,1
+Square Enix,Action Adventure,2017,0
+Square Enix,Action Adventure,2018,1
+Square Enix,Action Adventure,2019,3
+Square Enix,Action Adventure,2020,0
+Square Enix,Arcade,1996,0
+Square Enix,Arcade,1997,0
+Square Enix,Arcade,1998,0
+Square Enix,Arcade,1999,0
+Square Enix,Arcade,2000,0
+Square Enix,Arcade,2001,0
+Square Enix,Arcade,2002,0
+Square Enix,Arcade,2003,0
+Square Enix,Arcade,2004,0
+Square Enix,Arcade,2005,0
+Square Enix,Arcade,2006,1
+Square Enix,Arcade,2007,0
+Square Enix,Arcade,2008,0
+Square Enix,Arcade,2009,0
+Square Enix,Arcade,2010,0
+Square Enix,Arcade,2011,0
+Square Enix,Arcade,2012,0
+Square Enix,Arcade,2013,0
+Square Enix,Arcade,2014,1
+Square Enix,Arcade,2015,0
+Square Enix,Arcade,2016,0
+Square Enix,Arcade,2017,0
+Square Enix,Arcade,2018,0
+Square Enix,Arcade,2019,0
+Square Enix,Arcade,2020,0
+Square Enix,Basketball,1996,0
+Square Enix,Basketball,1997,0
+Square Enix,Basketball,1998,0
+Square Enix,Basketball,1999,0
+Square Enix,Basketball,2000,0
+Square Enix,Basketball,2001,0
+Square Enix,Basketball,2002,0
+Square Enix,Basketball,2003,0
+Square Enix,Basketball,2004,0
+Square Enix,Basketball,2005,0
+Square Enix,Basketball,2006,1
+Square Enix,Basketball,2007,0
+Square Enix,Basketball,2008,0
+Square Enix,Basketball,2009,0
+Square Enix,Basketball,2010,0
+Square Enix,Basketball,2011,0
+Square Enix,Basketball,2012,0
+Square Enix,Basketball,2013,0
+Square Enix,Basketball,2014,0
+Square Enix,Basketball,2015,0
+Square Enix,Basketball,2016,0
+Square Enix,Basketball,2017,0
+Square Enix,Basketball,2018,0
+Square Enix,Basketball,2019,0
+Square Enix,Basketball,2020,0
+Square Enix,Compilation,1996,0
+Square Enix,Compilation,1997,0
+Square Enix,Compilation,1998,0
+Square Enix,Compilation,1999,0
+Square Enix,Compilation,2000,0
+Square Enix,Compilation,2001,0
+Square Enix,Compilation,2002,0
+Square Enix,Compilation,2003,0
+Square Enix,Compilation,2004,0
+Square Enix,Compilation,2005,0
+Square Enix,Compilation,2006,0
+Square Enix,Compilation,2007,0
+Square Enix,Compilation,2008,0
+Square Enix,Compilation,2009,0
+Square Enix,Compilation,2010,0
+Square Enix,Compilation,2011,0
+Square Enix,Compilation,2012,0
+Square Enix,Compilation,2013,1
+Square Enix,Compilation,2014,1
+Square Enix,Compilation,2015,0
+Square Enix,Compilation,2016,1
+Square Enix,Compilation,2017,2
+Square Enix,Compilation,2018,0
+Square Enix,Compilation,2019,1
+Square Enix,Compilation,2020,0
+Square Enix,Fantasy,1996,0
+Square Enix,Fantasy,1997,0
+Square Enix,Fantasy,1998,0
+Square Enix,Fantasy,1999,0
+Square Enix,Fantasy,2000,0
+Square Enix,Fantasy,2001,0
+Square Enix,Fantasy,2002,0
+Square Enix,Fantasy,2003,2
+Square Enix,Fantasy,2004,3
+Square Enix,Fantasy,2005,0
+Square Enix,Fantasy,2006,3
+Square Enix,Fantasy,2007,1
+Square Enix,Fantasy,2008,1
+Square Enix,Fantasy,2009,1
+Square Enix,Fantasy,2010,1
+Square Enix,Fantasy,2011,1
+Square Enix,Fantasy,2012,0
+Square Enix,Fantasy,2013,2
+Square Enix,Fantasy,2014,1
+Square Enix,Fantasy,2015,2
+Square Enix,Fantasy,2016,0
+Square Enix,Fantasy,2017,0
+Square Enix,Fantasy,2018,0
+Square Enix,Fantasy,2019,2
+Square Enix,Fantasy,2020,0
+Square Enix,Fighting,1996,0
+Square Enix,Fighting,1997,0
+Square Enix,Fighting,1998,0
+Square Enix,Fighting,1999,0
+Square Enix,Fighting,2000,0
+Square Enix,Fighting,2001,0
+Square Enix,Fighting,2002,0
+Square Enix,Fighting,2003,0
+Square Enix,Fighting,2004,0
+Square Enix,Fighting,2005,0
+Square Enix,Fighting,2006,0
+Square Enix,Fighting,2007,0
+Square Enix,Fighting,2008,0
+Square Enix,Fighting,2009,1
+Square Enix,Fighting,2010,0
+Square Enix,Fighting,2011,1
+Square Enix,Fighting,2012,0
+Square Enix,Fighting,2013,0
+Square Enix,Fighting,2014,0
+Square Enix,Fighting,2015,0
+Square Enix,Fighting,2016,0
+Square Enix,Fighting,2017,1
+Square Enix,Fighting,2018,0
+Square Enix,Fighting,2019,0
+Square Enix,Fighting,2020,0
+Square Enix,First-Person,1996,0
+Square Enix,First-Person,1997,0
+Square Enix,First-Person,1998,0
+Square Enix,First-Person,1999,0
+Square Enix,First-Person,2000,0
+Square Enix,First-Person,2001,0
+Square Enix,First-Person,2002,0
+Square Enix,First-Person,2003,0
+Square Enix,First-Person,2004,0
+Square Enix,First-Person,2005,0
+Square Enix,First-Person,2006,0
+Square Enix,First-Person,2007,0
+Square Enix,First-Person,2008,0
+Square Enix,First-Person,2009,0
+Square Enix,First-Person,2010,0
+Square Enix,First-Person,2011,0
+Square Enix,First-Person,2012,0
+Square Enix,First-Person,2013,0
+Square Enix,First-Person,2014,1
+Square Enix,First-Person,2015,0
+Square Enix,First-Person,2016,0
+Square Enix,First-Person,2017,0
+Square Enix,First-Person,2018,0
+Square Enix,First-Person,2019,0
+Square Enix,First-Person,2020,0
+Square Enix,General,1996,0
+Square Enix,General,1997,0
+Square Enix,General,1998,0
+Square Enix,General,1999,0
+Square Enix,General,2000,0
+Square Enix,General,2001,0
+Square Enix,General,2002,0
+Square Enix,General,2003,0
+Square Enix,General,2004,0
+Square Enix,General,2005,0
+Square Enix,General,2006,0
+Square Enix,General,2007,0
+Square Enix,General,2008,0
+Square Enix,General,2009,4
+Square Enix,General,2010,0
+Square Enix,General,2011,1
+Square Enix,General,2012,0
+Square Enix,General,2013,0
+Square Enix,General,2014,2
+Square Enix,General,2015,1
+Square Enix,General,2016,1
+Square Enix,General,2017,0
+Square Enix,General,2018,0
+Square Enix,General,2019,2
+Square Enix,General,2020,0
+Square Enix,Individual,1996,0
+Square Enix,Individual,1997,0
+Square Enix,Individual,1998,0
+Square Enix,Individual,1999,0
+Square Enix,Individual,2000,0
+Square Enix,Individual,2001,0
+Square Enix,Individual,2002,0
+Square Enix,Individual,2003,0
+Square Enix,Individual,2004,0
+Square Enix,Individual,2005,0
+Square Enix,Individual,2006,0
+Square Enix,Individual,2007,0
+Square Enix,Individual,2008,0
+Square Enix,Individual,2009,0
+Square Enix,Individual,2010,0
+Square Enix,Individual,2011,0
+Square Enix,Individual,2012,0
+Square Enix,Individual,2013,0
+Square Enix,Individual,2014,0
+Square Enix,Individual,2015,0
+Square Enix,Individual,2016,0
+Square Enix,Individual,2017,1
+Square Enix,Individual,2018,0
+Square Enix,Individual,2019,0
+Square Enix,Individual,2020,0
+Square Enix,Miscellaneous,1996,0
+Square Enix,Miscellaneous,1997,0
+Square Enix,Miscellaneous,1998,0
+Square Enix,Miscellaneous,1999,0
+Square Enix,Miscellaneous,2000,0
+Square Enix,Miscellaneous,2001,0
+Square Enix,Miscellaneous,2002,0
+Square Enix,Miscellaneous,2003,0
+Square Enix,Miscellaneous,2004,0
+Square Enix,Miscellaneous,2005,0
+Square Enix,Miscellaneous,2006,0
+Square Enix,Miscellaneous,2007,0
+Square Enix,Miscellaneous,2008,0
+Square Enix,Miscellaneous,2009,1
+Square Enix,Miscellaneous,2010,2
+Square Enix,Miscellaneous,2011,0
+Square Enix,Miscellaneous,2012,0
+Square Enix,Miscellaneous,2013,1
+Square Enix,Miscellaneous,2014,1
+Square Enix,Miscellaneous,2015,0
+Square Enix,Miscellaneous,2016,1
+Square Enix,Miscellaneous,2017,3
+Square Enix,Miscellaneous,2018,0
+Square Enix,Miscellaneous,2019,1
+Square Enix,Miscellaneous,2020,0
+Square Enix,Role-Playing,1996,0
+Square Enix,Role-Playing,1997,0
+Square Enix,Role-Playing,1998,0
+Square Enix,Role-Playing,1999,0
+Square Enix,Role-Playing,2000,0
+Square Enix,Role-Playing,2001,0
+Square Enix,Role-Playing,2002,0
+Square Enix,Role-Playing,2003,1
+Square Enix,Role-Playing,2004,4
+Square Enix,Role-Playing,2005,2
+Square Enix,Role-Playing,2006,4
+Square Enix,Role-Playing,2007,0
+Square Enix,Role-Playing,2008,3
+Square Enix,Role-Playing,2009,4
+Square Enix,Role-Playing,2010,5
+Square Enix,Role-Playing,2011,0
+Square Enix,Role-Playing,2012,3
+Square Enix,Role-Playing,2013,2
+Square Enix,Role-Playing,2014,4
+Square Enix,Role-Playing,2015,4
+Square Enix,Role-Playing,2016,4
+Square Enix,Role-Playing,2017,7
+Square Enix,Role-Playing,2018,9
+Square Enix,Role-Playing,2019,20
+Square Enix,Role-Playing,2020,4
+Square Enix,Shooter,1996,0
+Square Enix,Shooter,1997,0
+Square Enix,Shooter,1998,0
+Square Enix,Shooter,1999,0
+Square Enix,Shooter,2000,0
+Square Enix,Shooter,2001,0
+Square Enix,Shooter,2002,0
+Square Enix,Shooter,2003,0
+Square Enix,Shooter,2004,0
+Square Enix,Shooter,2005,0
+Square Enix,Shooter,2006,0
+Square Enix,Shooter,2007,0
+Square Enix,Shooter,2008,0
+Square Enix,Shooter,2009,0
+Square Enix,Shooter,2010,0
+Square Enix,Shooter,2011,0
+Square Enix,Shooter,2012,0
+Square Enix,Shooter,2013,0
+Square Enix,Shooter,2014,1
+Square Enix,Shooter,2015,0
+Square Enix,Shooter,2016,0
+Square Enix,Shooter,2017,0
+Square Enix,Shooter,2018,0
+Square Enix,Shooter,2019,0
+Square Enix,Shooter,2020,0
+Square Enix,Simulation,1996,0
+Square Enix,Simulation,1997,0
+Square Enix,Simulation,1998,0
+Square Enix,Simulation,1999,0
+Square Enix,Simulation,2000,0
+Square Enix,Simulation,2001,0
+Square Enix,Simulation,2002,0
+Square Enix,Simulation,2003,0
+Square Enix,Simulation,2004,0
+Square Enix,Simulation,2005,0
+Square Enix,Simulation,2006,0
+Square Enix,Simulation,2007,0
+Square Enix,Simulation,2008,0
+Square Enix,Simulation,2009,1
+Square Enix,Simulation,2010,0
+Square Enix,Simulation,2011,0
+Square Enix,Simulation,2012,0
+Square Enix,Simulation,2013,0
+Square Enix,Simulation,2014,0
+Square Enix,Simulation,2015,0
+Square Enix,Simulation,2016,0
+Square Enix,Simulation,2017,0
+Square Enix,Simulation,2018,0
+Square Enix,Simulation,2019,0
+Square Enix,Simulation,2020,0
+Square Enix,Sports,1996,0
+Square Enix,Sports,1997,0
+Square Enix,Sports,1998,0
+Square Enix,Sports,1999,0
+Square Enix,Sports,2000,0
+Square Enix,Sports,2001,0
+Square Enix,Sports,2002,0
+Square Enix,Sports,2003,0
+Square Enix,Sports,2004,0
+Square Enix,Sports,2005,0
+Square Enix,Sports,2006,1
+Square Enix,Sports,2007,0
+Square Enix,Sports,2008,0
+Square Enix,Sports,2009,0
+Square Enix,Sports,2010,0
+Square Enix,Sports,2011,1
+Square Enix,Sports,2012,0
+Square Enix,Sports,2013,0
+Square Enix,Sports,2014,0
+Square Enix,Sports,2015,0
+Square Enix,Sports,2016,0
+Square Enix,Sports,2017,1
+Square Enix,Sports,2018,0
+Square Enix,Sports,2019,0
+Square Enix,Sports,2020,0
+Square Enix,Team,1996,0
+Square Enix,Team,1997,0
+Square Enix,Team,1998,0
+Square Enix,Team,1999,0
+Square Enix,Team,2000,0
+Square Enix,Team,2001,0
+Square Enix,Team,2002,0
+Square Enix,Team,2003,0
+Square Enix,Team,2004,0
+Square Enix,Team,2005,0
+Square Enix,Team,2006,1
+Square Enix,Team,2007,0
+Square Enix,Team,2008,0
+Square Enix,Team,2009,0
+Square Enix,Team,2010,0
+Square Enix,Team,2011,0
+Square Enix,Team,2012,0
+Square Enix,Team,2013,0
+Square Enix,Team,2014,0
+Square Enix,Team,2015,0
+Square Enix,Team,2016,0
+Square Enix,Team,2017,0
+Square Enix,Team,2018,0
+Square Enix,Team,2019,0
+Square Enix,Team,2020,0
+Square Enix,Traditional,1996,0
+Square Enix,Traditional,1997,0
+Square Enix,Traditional,1998,0
+Square Enix,Traditional,1999,0
+Square Enix,Traditional,2000,0
+Square Enix,Traditional,2001,0
+Square Enix,Traditional,2002,0
+Square Enix,Traditional,2003,0
+Square Enix,Traditional,2004,0
+Square Enix,Traditional,2005,0
+Square Enix,Traditional,2006,1
+Square Enix,Traditional,2007,0
+Square Enix,Traditional,2008,0
+Square Enix,Traditional,2009,0
+Square Enix,Traditional,2010,0
+Square Enix,Traditional,2011,0
+Square Enix,Traditional,2012,0
+Square Enix,Traditional,2013,0
+Square Enix,Traditional,2014,0
+Square Enix,Traditional,2015,0
+Square Enix,Traditional,2016,0
+Square Enix,Traditional,2017,0
+Square Enix,Traditional,2018,0
+Square Enix,Traditional,2019,0
+Square Enix,Traditional,2020,0
+Telltale Games,3D,1996,0
+Telltale Games,3D,1997,0
+Telltale Games,3D,1998,0
+Telltale Games,3D,1999,0
+Telltale Games,3D,2000,0
+Telltale Games,3D,2001,0
+Telltale Games,3D,2002,0
+Telltale Games,3D,2003,0
+Telltale Games,3D,2004,0
+Telltale Games,3D,2005,1
+Telltale Games,3D,2006,4
+Telltale Games,3D,2007,5
+Telltale Games,3D,2008,5
+Telltale Games,3D,2009,9
+Telltale Games,3D,2010,9
+Telltale Games,3D,2011,5
+Telltale Games,3D,2012,0
+Telltale Games,3D,2013,0
+Telltale Games,3D,2014,0
+Telltale Games,3D,2015,0
+Telltale Games,3D,2016,3
+Telltale Games,3D,2017,14
+Telltale Games,3D,2018,0
+Telltale Games,3D,2019,0
+Telltale Games,3D,2020,0
+Telltale Games,Action,1996,0
+Telltale Games,Action,1997,0
+Telltale Games,Action,1998,0
+Telltale Games,Action,1999,0
+Telltale Games,Action,2000,0
+Telltale Games,Action,2001,0
+Telltale Games,Action,2002,0
+Telltale Games,Action,2003,0
+Telltale Games,Action,2004,0
+Telltale Games,Action,2005,0
+Telltale Games,Action,2006,0
+Telltale Games,Action,2007,0
+Telltale Games,Action,2008,0
+Telltale Games,Action,2009,1
+Telltale Games,Action,2010,0
+Telltale Games,Action,2011,0
+Telltale Games,Action,2012,2
+Telltale Games,Action,2013,6
+Telltale Games,Action,2014,15
+Telltale Games,Action,2015,17
+Telltale Games,Action,2016,8
+Telltale Games,Action,2017,14
+Telltale Games,Action,2018,0
+Telltale Games,Action,2019,0
+Telltale Games,Action,2020,0
+Telltale Games,Action Adventure,1996,0
+Telltale Games,Action Adventure,1997,0
+Telltale Games,Action Adventure,1998,0
+Telltale Games,Action Adventure,1999,0
+Telltale Games,Action Adventure,2000,0
+Telltale Games,Action Adventure,2001,0
+Telltale Games,Action Adventure,2002,0
+Telltale Games,Action Adventure,2003,0
+Telltale Games,Action Adventure,2004,0
+Telltale Games,Action Adventure,2005,0
+Telltale Games,Action Adventure,2006,0
+Telltale Games,Action Adventure,2007,0
+Telltale Games,Action Adventure,2008,0
+Telltale Games,Action Adventure,2009,0
+Telltale Games,Action Adventure,2010,1
+Telltale Games,Action Adventure,2011,5
+Telltale Games,Action Adventure,2012,0
+Telltale Games,Action Adventure,2013,4
+Telltale Games,Action Adventure,2014,10
+Telltale Games,Action Adventure,2015,12
+Telltale Games,Action Adventure,2016,1
+Telltale Games,Action Adventure,2017,0
+Telltale Games,Action Adventure,2018,0
+Telltale Games,Action Adventure,2019,0
+Telltale Games,Action Adventure,2020,0
+Telltale Games,Adventure,1996,0
+Telltale Games,Adventure,1997,0
+Telltale Games,Adventure,1998,0
+Telltale Games,Adventure,1999,0
+Telltale Games,Adventure,2000,0
+Telltale Games,Adventure,2001,0
+Telltale Games,Adventure,2002,0
+Telltale Games,Adventure,2003,0
+Telltale Games,Adventure,2004,0
+Telltale Games,Adventure,2005,1
+Telltale Games,Adventure,2006,4
+Telltale Games,Adventure,2007,7
+Telltale Games,Adventure,2008,16
+Telltale Games,Adventure,2009,16
+Telltale Games,Adventure,2010,10
+Telltale Games,Adventure,2011,8
+Telltale Games,Adventure,2012,17
+Telltale Games,Adventure,2013,11
+Telltale Games,Adventure,2014,28
+Telltale Games,Adventure,2015,39
+Telltale Games,Adventure,2016,28
+Telltale Games,Adventure,2017,34
+Telltale Games,Adventure,2018,10
+Telltale Games,Adventure,2019,0
+Telltale Games,Adventure,2020,0
+Telltale Games,Compilation,1996,0
+Telltale Games,Compilation,1997,0
+Telltale Games,Compilation,1998,0
+Telltale Games,Compilation,1999,0
+Telltale Games,Compilation,2000,0
+Telltale Games,Compilation,2001,0
+Telltale Games,Compilation,2002,0
+Telltale Games,Compilation,2003,0
+Telltale Games,Compilation,2004,0
+Telltale Games,Compilation,2005,0
+Telltale Games,Compilation,2006,0
+Telltale Games,Compilation,2007,0
+Telltale Games,Compilation,2008,11
+Telltale Games,Compilation,2009,9
+Telltale Games,Compilation,2010,7
+Telltale Games,Compilation,2011,0
+Telltale Games,Compilation,2012,16
+Telltale Games,Compilation,2013,4
+Telltale Games,Compilation,2014,0
+Telltale Games,Compilation,2015,0
+Telltale Games,Compilation,2016,0
+Telltale Games,Compilation,2017,0
+Telltale Games,Compilation,2018,0
+Telltale Games,Compilation,2019,0
+Telltale Games,Compilation,2020,0
+Telltale Games,Fantasy,1996,0
+Telltale Games,Fantasy,1997,0
+Telltale Games,Fantasy,1998,0
+Telltale Games,Fantasy,1999,0
+Telltale Games,Fantasy,2000,0
+Telltale Games,Fantasy,2001,0
+Telltale Games,Fantasy,2002,0
+Telltale Games,Fantasy,2003,0
+Telltale Games,Fantasy,2004,0
+Telltale Games,Fantasy,2005,1
+Telltale Games,Fantasy,2006,1
+Telltale Games,Fantasy,2007,0
+Telltale Games,Fantasy,2008,0
+Telltale Games,Fantasy,2009,7
+Telltale Games,Fantasy,2010,1
+Telltale Games,Fantasy,2011,0
+Telltale Games,Fantasy,2012,0
+Telltale Games,Fantasy,2013,4
+Telltale Games,Fantasy,2014,10
+Telltale Games,Fantasy,2015,0
+Telltale Games,Fantasy,2016,0
+Telltale Games,Fantasy,2017,0
+Telltale Games,Fantasy,2018,0
+Telltale Games,Fantasy,2019,0
+Telltale Games,Fantasy,2020,0
+Telltale Games,First-Person,1996,0
+Telltale Games,First-Person,1997,0
+Telltale Games,First-Person,1998,0
+Telltale Games,First-Person,1999,0
+Telltale Games,First-Person,2000,0
+Telltale Games,First-Person,2001,0
+Telltale Games,First-Person,2002,0
+Telltale Games,First-Person,2003,0
+Telltale Games,First-Person,2004,0
+Telltale Games,First-Person,2005,0
+Telltale Games,First-Person,2006,1
+Telltale Games,First-Person,2007,0
+Telltale Games,First-Person,2008,0
+Telltale Games,First-Person,2009,0
+Telltale Games,First-Person,2010,0
+Telltale Games,First-Person,2011,0
+Telltale Games,First-Person,2012,0
+Telltale Games,First-Person,2013,0
+Telltale Games,First-Person,2014,0
+Telltale Games,First-Person,2015,0
+Telltale Games,First-Person,2016,0
+Telltale Games,First-Person,2017,0
+Telltale Games,First-Person,2018,0
+Telltale Games,First-Person,2019,0
+Telltale Games,First-Person,2020,0
+Telltale Games,General,1996,0
+Telltale Games,General,1997,0
+Telltale Games,General,1998,0
+Telltale Games,General,1999,0
+Telltale Games,General,2000,0
+Telltale Games,General,2001,0
+Telltale Games,General,2002,0
+Telltale Games,General,2003,0
+Telltale Games,General,2004,0
+Telltale Games,General,2005,0
+Telltale Games,General,2006,2
+Telltale Games,General,2007,7
+Telltale Games,General,2008,16
+Telltale Games,General,2009,17
+Telltale Games,General,2010,10
+Telltale Games,General,2011,5
+Telltale Games,General,2012,15
+Telltale Games,General,2013,10
+Telltale Games,General,2014,28
+Telltale Games,General,2015,36
+Telltale Games,General,2016,8
+Telltale Games,General,2017,14
+Telltale Games,General,2018,0
+Telltale Games,General,2019,0
+Telltale Games,General,2020,0
+Telltale Games,Miscellaneous,1996,0
+Telltale Games,Miscellaneous,1997,0
+Telltale Games,Miscellaneous,1998,0
+Telltale Games,Miscellaneous,1999,0
+Telltale Games,Miscellaneous,2000,0
+Telltale Games,Miscellaneous,2001,0
+Telltale Games,Miscellaneous,2002,0
+Telltale Games,Miscellaneous,2003,0
+Telltale Games,Miscellaneous,2004,0
+Telltale Games,Miscellaneous,2005,0
+Telltale Games,Miscellaneous,2006,0
+Telltale Games,Miscellaneous,2007,0
+Telltale Games,Miscellaneous,2008,11
+Telltale Games,Miscellaneous,2009,9
+Telltale Games,Miscellaneous,2010,9
+Telltale Games,Miscellaneous,2011,2
+Telltale Games,Miscellaneous,2012,17
+Telltale Games,Miscellaneous,2013,6
+Telltale Games,Miscellaneous,2014,3
+Telltale Games,Miscellaneous,2015,0
+Telltale Games,Miscellaneous,2016,0
+Telltale Games,Miscellaneous,2017,0
+Telltale Games,Miscellaneous,2018,0
+Telltale Games,Miscellaneous,2019,0
+Telltale Games,Miscellaneous,2020,0
+Telltale Games,Modern,1996,0
+Telltale Games,Modern,1997,0
+Telltale Games,Modern,1998,0
+Telltale Games,Modern,1999,0
+Telltale Games,Modern,2000,0
+Telltale Games,Modern,2001,0
+Telltale Games,Modern,2002,0
+Telltale Games,Modern,2003,0
+Telltale Games,Modern,2004,0
+Telltale Games,Modern,2005,0
+Telltale Games,Modern,2006,1
+Telltale Games,Modern,2007,0
+Telltale Games,Modern,2008,0
+Telltale Games,Modern,2009,0
+Telltale Games,Modern,2010,0
+Telltale Games,Modern,2011,0
+Telltale Games,Modern,2012,0
+Telltale Games,Modern,2013,0
+Telltale Games,Modern,2014,0
+Telltale Games,Modern,2015,0
+Telltale Games,Modern,2016,0
+Telltale Games,Modern,2017,0
+Telltale Games,Modern,2018,0
+Telltale Games,Modern,2019,0
+Telltale Games,Modern,2020,0
+Telltale Games,Point-and-Click,1996,0
+Telltale Games,Point-and-Click,1997,0
+Telltale Games,Point-and-Click,1998,0
+Telltale Games,Point-and-Click,1999,0
+Telltale Games,Point-and-Click,2000,0
+Telltale Games,Point-and-Click,2001,0
+Telltale Games,Point-and-Click,2002,0
+Telltale Games,Point-and-Click,2003,0
+Telltale Games,Point-and-Click,2004,0
+Telltale Games,Point-and-Click,2005,0
+Telltale Games,Point-and-Click,2006,2
+Telltale Games,Point-and-Click,2007,7
+Telltale Games,Point-and-Click,2008,6
+Telltale Games,Point-and-Click,2009,2
+Telltale Games,Point-and-Click,2010,0
+Telltale Games,Point-and-Click,2011,3
+Telltale Games,Point-and-Click,2012,16
+Telltale Games,Point-and-Click,2013,11
+Telltale Games,Point-and-Click,2014,25
+Telltale Games,Point-and-Click,2015,29
+Telltale Games,Point-and-Click,2016,25
+Telltale Games,Point-and-Click,2017,20
+Telltale Games,Point-and-Click,2018,10
+Telltale Games,Point-and-Click,2019,0
+Telltale Games,Point-and-Click,2020,0
+Telltale Games,Third-Person,1996,0
+Telltale Games,Third-Person,1997,0
+Telltale Games,Third-Person,1998,0
+Telltale Games,Third-Person,1999,0
+Telltale Games,Third-Person,2000,0
+Telltale Games,Third-Person,2001,0
+Telltale Games,Third-Person,2002,0
+Telltale Games,Third-Person,2003,0
+Telltale Games,Third-Person,2004,0
+Telltale Games,Third-Person,2005,1
+Telltale Games,Third-Person,2006,3
+Telltale Games,Third-Person,2007,5
+Telltale Games,Third-Person,2008,5
+Telltale Games,Third-Person,2009,9
+Telltale Games,Third-Person,2010,9
+Telltale Games,Third-Person,2011,5
+Telltale Games,Third-Person,2012,0
+Telltale Games,Third-Person,2013,0
+Telltale Games,Third-Person,2014,0
+Telltale Games,Third-Person,2015,0
+Telltale Games,Third-Person,2016,3
+Telltale Games,Third-Person,2017,14
+Telltale Games,Third-Person,2018,0
+Telltale Games,Third-Person,2019,0
+Telltale Games,Third-Person,2020,0
+Ubisoft,2D,1996,0
+Ubisoft,2D,1997,0
+Ubisoft,2D,1998,0
+Ubisoft,2D,1999,0
+Ubisoft,2D,2000,0
+Ubisoft,2D,2001,0
+Ubisoft,2D,2002,0
+Ubisoft,2D,2003,1
+Ubisoft,2D,2004,0
+Ubisoft,2D,2005,0
+Ubisoft,2D,2006,0
+Ubisoft,2D,2007,0
+Ubisoft,2D,2008,0
+Ubisoft,2D,2009,0
+Ubisoft,2D,2010,1
+Ubisoft,2D,2011,1
+Ubisoft,2D,2012,0
+Ubisoft,2D,2013,1
+Ubisoft,2D,2014,0
+Ubisoft,2D,2015,0
+Ubisoft,2D,2016,0
+Ubisoft,2D,2017,0
+Ubisoft,2D,2018,0
+Ubisoft,2D,2019,0
+Ubisoft,2D,2020,0
+Ubisoft,3D,1996,0
+Ubisoft,3D,1997,0
+Ubisoft,3D,1998,0
+Ubisoft,3D,1999,0
+Ubisoft,3D,2000,0
+Ubisoft,3D,2001,1
+Ubisoft,3D,2002,1
+Ubisoft,3D,2003,3
+Ubisoft,3D,2004,0
+Ubisoft,3D,2005,0
+Ubisoft,3D,2006,1
+Ubisoft,3D,2007,0
+Ubisoft,3D,2008,0
+Ubisoft,3D,2009,0
+Ubisoft,3D,2010,1
+Ubisoft,3D,2011,1
+Ubisoft,3D,2012,2
+Ubisoft,3D,2013,0
+Ubisoft,3D,2014,0
+Ubisoft,3D,2015,0
+Ubisoft,3D,2016,0
+Ubisoft,3D,2017,0
+Ubisoft,3D,2018,0
+Ubisoft,3D,2019,0
+Ubisoft,3D,2020,0
+Ubisoft,Action,1996,0
+Ubisoft,Action,1997,0
+Ubisoft,Action,1998,0
+Ubisoft,Action,1999,0
+Ubisoft,Action,2000,0
+Ubisoft,Action,2001,1
+Ubisoft,Action,2002,3
+Ubisoft,Action,2003,6
+Ubisoft,Action,2004,0
+Ubisoft,Action,2005,0
+Ubisoft,Action,2006,2
+Ubisoft,Action,2007,0
+Ubisoft,Action,2008,1
+Ubisoft,Action,2009,1
+Ubisoft,Action,2010,8
+Ubisoft,Action,2011,8
+Ubisoft,Action,2012,5
+Ubisoft,Action,2013,6
+Ubisoft,Action,2014,3
+Ubisoft,Action,2015,3
+Ubisoft,Action,2016,0
+Ubisoft,Action,2017,0
+Ubisoft,Action,2018,0
+Ubisoft,Action,2019,0
+Ubisoft,Action,2020,0
+Ubisoft,Action Adventure,1996,0
+Ubisoft,Action Adventure,1997,0
+Ubisoft,Action Adventure,1998,0
+Ubisoft,Action Adventure,1999,0
+Ubisoft,Action Adventure,2000,0
+Ubisoft,Action Adventure,2001,2
+Ubisoft,Action Adventure,2002,1
+Ubisoft,Action Adventure,2003,4
+Ubisoft,Action Adventure,2004,4
+Ubisoft,Action Adventure,2005,6
+Ubisoft,Action Adventure,2006,0
+Ubisoft,Action Adventure,2007,2
+Ubisoft,Action Adventure,2008,1
+Ubisoft,Action Adventure,2009,0
+Ubisoft,Action Adventure,2010,0
+Ubisoft,Action Adventure,2011,5
+Ubisoft,Action Adventure,2012,4
+Ubisoft,Action Adventure,2013,4
+Ubisoft,Action Adventure,2014,1
+Ubisoft,Action Adventure,2015,1
+Ubisoft,Action Adventure,2016,0
+Ubisoft,Action Adventure,2017,0
+Ubisoft,Action Adventure,2018,6
+Ubisoft,Action Adventure,2019,3
+Ubisoft,Action Adventure,2020,3
+Ubisoft,Adventure,1996,0
+Ubisoft,Adventure,1997,0
+Ubisoft,Adventure,1998,0
+Ubisoft,Adventure,1999,0
+Ubisoft,Adventure,2000,0
+Ubisoft,Adventure,2001,1
+Ubisoft,Adventure,2002,0
+Ubisoft,Adventure,2003,0
+Ubisoft,Adventure,2004,1
+Ubisoft,Adventure,2005,0
+Ubisoft,Adventure,2006,0
+Ubisoft,Adventure,2007,0
+Ubisoft,Adventure,2008,0
+Ubisoft,Adventure,2009,0
+Ubisoft,Adventure,2010,1
+Ubisoft,Adventure,2011,2
+Ubisoft,Adventure,2012,0
+Ubisoft,Adventure,2013,0
+Ubisoft,Adventure,2014,0
+Ubisoft,Adventure,2015,0
+Ubisoft,Adventure,2016,0
+Ubisoft,Adventure,2017,0
+Ubisoft,Adventure,2018,0
+Ubisoft,Adventure,2019,0
+Ubisoft,Adventure,2020,0
+Ubisoft,Arcade,1996,0
+Ubisoft,Arcade,1997,0
+Ubisoft,Arcade,1998,0
+Ubisoft,Arcade,1999,0
+Ubisoft,Arcade,2000,0
+Ubisoft,Arcade,2001,0
+Ubisoft,Arcade,2002,0
+Ubisoft,Arcade,2003,0
+Ubisoft,Arcade,2004,0
+Ubisoft,Arcade,2005,0
+Ubisoft,Arcade,2006,0
+Ubisoft,Arcade,2007,0
+Ubisoft,Arcade,2008,0
+Ubisoft,Arcade,2009,0
+Ubisoft,Arcade,2010,1
+Ubisoft,Arcade,2011,2
+Ubisoft,Arcade,2012,1
+Ubisoft,Arcade,2013,0
+Ubisoft,Arcade,2014,0
+Ubisoft,Arcade,2015,0
+Ubisoft,Arcade,2016,0
+Ubisoft,Arcade,2017,0
+Ubisoft,Arcade,2018,0
+Ubisoft,Arcade,2019,0
+Ubisoft,Arcade,2020,0
+Ubisoft,Automobile,1996,0
+Ubisoft,Automobile,1997,0
+Ubisoft,Automobile,1998,0
+Ubisoft,Automobile,1999,0
+Ubisoft,Automobile,2000,0
+Ubisoft,Automobile,2001,0
+Ubisoft,Automobile,2002,0
+Ubisoft,Automobile,2003,0
+Ubisoft,Automobile,2004,0
+Ubisoft,Automobile,2005,0
+Ubisoft,Automobile,2006,1
+Ubisoft,Automobile,2007,0
+Ubisoft,Automobile,2008,0
+Ubisoft,Automobile,2009,0
+Ubisoft,Automobile,2010,0
+Ubisoft,Automobile,2011,1
+Ubisoft,Automobile,2012,1
+Ubisoft,Automobile,2013,0
+Ubisoft,Automobile,2014,0
+Ubisoft,Automobile,2015,0
+Ubisoft,Automobile,2016,0
+Ubisoft,Automobile,2017,0
+Ubisoft,Automobile,2018,0
+Ubisoft,Automobile,2019,0
+Ubisoft,Automobile,2020,0
+Ubisoft,Compilation,1996,0
+Ubisoft,Compilation,1997,0
+Ubisoft,Compilation,1998,0
+Ubisoft,Compilation,1999,0
+Ubisoft,Compilation,2000,0
+Ubisoft,Compilation,2001,0
+Ubisoft,Compilation,2002,0
+Ubisoft,Compilation,2003,0
+Ubisoft,Compilation,2004,0
+Ubisoft,Compilation,2005,0
+Ubisoft,Compilation,2006,0
+Ubisoft,Compilation,2007,0
+Ubisoft,Compilation,2008,0
+Ubisoft,Compilation,2009,0
+Ubisoft,Compilation,2010,0
+Ubisoft,Compilation,2011,2
+Ubisoft,Compilation,2012,0
+Ubisoft,Compilation,2013,0
+Ubisoft,Compilation,2014,0
+Ubisoft,Compilation,2015,0
+Ubisoft,Compilation,2016,0
+Ubisoft,Compilation,2017,0
+Ubisoft,Compilation,2018,0
+Ubisoft,Compilation,2019,1
+Ubisoft,Compilation,2020,0
+Ubisoft,Driving,1996,0
+Ubisoft,Driving,1997,0
+Ubisoft,Driving,1998,0
+Ubisoft,Driving,1999,0
+Ubisoft,Driving,2000,0
+Ubisoft,Driving,2001,0
+Ubisoft,Driving,2002,4
+Ubisoft,Driving,2003,2
+Ubisoft,Driving,2004,0
+Ubisoft,Driving,2005,1
+Ubisoft,Driving,2006,2
+Ubisoft,Driving,2007,0
+Ubisoft,Driving,2008,0
+Ubisoft,Driving,2009,0
+Ubisoft,Driving,2010,0
+Ubisoft,Driving,2011,1
+Ubisoft,Driving,2012,1
+Ubisoft,Driving,2013,0
+Ubisoft,Driving,2014,0
+Ubisoft,Driving,2015,0
+Ubisoft,Driving,2016,0
+Ubisoft,Driving,2017,0
+Ubisoft,Driving,2018,0
+Ubisoft,Driving,2019,0
+Ubisoft,Driving,2020,0
+Ubisoft,Fantasy,1996,0
+Ubisoft,Fantasy,1997,0
+Ubisoft,Fantasy,1998,0
+Ubisoft,Fantasy,1999,0
+Ubisoft,Fantasy,2000,0
+Ubisoft,Fantasy,2001,2
+Ubisoft,Fantasy,2002,1
+Ubisoft,Fantasy,2003,4
+Ubisoft,Fantasy,2004,1
+Ubisoft,Fantasy,2005,3
+Ubisoft,Fantasy,2006,0
+Ubisoft,Fantasy,2007,2
+Ubisoft,Fantasy,2008,1
+Ubisoft,Fantasy,2009,0
+Ubisoft,Fantasy,2010,0
+Ubisoft,Fantasy,2011,3
+Ubisoft,Fantasy,2012,0
+Ubisoft,Fantasy,2013,0
+Ubisoft,Fantasy,2014,0
+Ubisoft,Fantasy,2015,0
+Ubisoft,Fantasy,2016,0
+Ubisoft,Fantasy,2017,0
+Ubisoft,Fantasy,2018,0
+Ubisoft,Fantasy,2019,0
+Ubisoft,Fantasy,2020,0
+Ubisoft,Fighting,1996,0
+Ubisoft,Fighting,1997,0
+Ubisoft,Fighting,1998,0
+Ubisoft,Fighting,1999,0
+Ubisoft,Fighting,2000,0
+Ubisoft,Fighting,2001,0
+Ubisoft,Fighting,2002,0
+Ubisoft,Fighting,2003,0
+Ubisoft,Fighting,2004,0
+Ubisoft,Fighting,2005,0
+Ubisoft,Fighting,2006,0
+Ubisoft,Fighting,2007,0
+Ubisoft,Fighting,2008,0
+Ubisoft,Fighting,2009,0
+Ubisoft,Fighting,2010,1
+Ubisoft,Fighting,2011,1
+Ubisoft,Fighting,2012,0
+Ubisoft,Fighting,2013,0
+Ubisoft,Fighting,2014,0
+Ubisoft,Fighting,2015,0
+Ubisoft,Fighting,2016,0
+Ubisoft,Fighting,2017,0
+Ubisoft,Fighting,2018,0
+Ubisoft,Fighting,2019,0
+Ubisoft,Fighting,2020,0
+Ubisoft,First-Person,1996,0
+Ubisoft,First-Person,1997,0
+Ubisoft,First-Person,1998,0
+Ubisoft,First-Person,1999,0
+Ubisoft,First-Person,2000,0
+Ubisoft,First-Person,2001,0
+Ubisoft,First-Person,2002,1
+Ubisoft,First-Person,2003,1
+Ubisoft,First-Person,2004,1
+Ubisoft,First-Person,2005,0
+Ubisoft,First-Person,2006,0
+Ubisoft,First-Person,2007,0
+Ubisoft,First-Person,2008,0
+Ubisoft,First-Person,2009,0
+Ubisoft,First-Person,2010,1
+Ubisoft,First-Person,2011,2
+Ubisoft,First-Person,2012,0
+Ubisoft,First-Person,2013,0
+Ubisoft,First-Person,2014,0
+Ubisoft,First-Person,2015,0
+Ubisoft,First-Person,2016,0
+Ubisoft,First-Person,2017,0
+Ubisoft,First-Person,2018,0
+Ubisoft,First-Person,2019,0
+Ubisoft,First-Person,2020,0
+Ubisoft,General,1996,0
+Ubisoft,General,1997,0
+Ubisoft,General,1998,0
+Ubisoft,General,1999,0
+Ubisoft,General,2000,0
+Ubisoft,General,2001,1
+Ubisoft,General,2002,1
+Ubisoft,General,2003,0
+Ubisoft,General,2004,0
+Ubisoft,General,2005,1
+Ubisoft,General,2006,0
+Ubisoft,General,2007,2
+Ubisoft,General,2008,1
+Ubisoft,General,2009,0
+Ubisoft,General,2010,1
+Ubisoft,General,2011,9
+Ubisoft,General,2012,2
+Ubisoft,General,2013,2
+Ubisoft,General,2014,1
+Ubisoft,General,2015,1
+Ubisoft,General,2016,0
+Ubisoft,General,2017,0
+Ubisoft,General,2018,1
+Ubisoft,General,2019,0
+Ubisoft,General,2020,0
+Ubisoft,Individual,1996,0
+Ubisoft,Individual,1997,0
+Ubisoft,Individual,1998,0
+Ubisoft,Individual,1999,0
+Ubisoft,Individual,2000,0
+Ubisoft,Individual,2001,0
+Ubisoft,Individual,2002,0
+Ubisoft,Individual,2003,0
+Ubisoft,Individual,2004,0
+Ubisoft,Individual,2005,0
+Ubisoft,Individual,2006,0
+Ubisoft,Individual,2007,2
+Ubisoft,Individual,2008,2
+Ubisoft,Individual,2009,1
+Ubisoft,Individual,2010,0
+Ubisoft,Individual,2011,0
+Ubisoft,Individual,2012,0
+Ubisoft,Individual,2013,0
+Ubisoft,Individual,2014,0
+Ubisoft,Individual,2015,0
+Ubisoft,Individual,2016,0
+Ubisoft,Individual,2017,0
+Ubisoft,Individual,2018,0
+Ubisoft,Individual,2019,0
+Ubisoft,Individual,2020,0
+Ubisoft,Miscellaneous,1996,0
+Ubisoft,Miscellaneous,1997,0
+Ubisoft,Miscellaneous,1998,0
+Ubisoft,Miscellaneous,1999,0
+Ubisoft,Miscellaneous,2000,0
+Ubisoft,Miscellaneous,2001,0
+Ubisoft,Miscellaneous,2002,2
+Ubisoft,Miscellaneous,2003,0
+Ubisoft,Miscellaneous,2004,2
+Ubisoft,Miscellaneous,2005,0
+Ubisoft,Miscellaneous,2006,0
+Ubisoft,Miscellaneous,2007,2
+Ubisoft,Miscellaneous,2008,2
+Ubisoft,Miscellaneous,2009,0
+Ubisoft,Miscellaneous,2010,1
+Ubisoft,Miscellaneous,2011,9
+Ubisoft,Miscellaneous,2012,3
+Ubisoft,Miscellaneous,2013,5
+Ubisoft,Miscellaneous,2014,3
+Ubisoft,Miscellaneous,2015,0
+Ubisoft,Miscellaneous,2016,1
+Ubisoft,Miscellaneous,2017,1
+Ubisoft,Miscellaneous,2018,0
+Ubisoft,Miscellaneous,2019,1
+Ubisoft,Miscellaneous,2020,1
+Ubisoft,Modern,1996,0
+Ubisoft,Modern,1997,0
+Ubisoft,Modern,1998,0
+Ubisoft,Modern,1999,0
+Ubisoft,Modern,2000,0
+Ubisoft,Modern,2001,0
+Ubisoft,Modern,2002,1
+Ubisoft,Modern,2003,1
+Ubisoft,Modern,2004,3
+Ubisoft,Modern,2005,1
+Ubisoft,Modern,2006,1
+Ubisoft,Modern,2007,0
+Ubisoft,Modern,2008,0
+Ubisoft,Modern,2009,0
+Ubisoft,Modern,2010,1
+Ubisoft,Modern,2011,3
+Ubisoft,Modern,2012,0
+Ubisoft,Modern,2013,0
+Ubisoft,Modern,2014,0
+Ubisoft,Modern,2015,0
+Ubisoft,Modern,2016,0
+Ubisoft,Modern,2017,0
+Ubisoft,Modern,2018,0
+Ubisoft,Modern,2019,0
+Ubisoft,Modern,2020,0
+Ubisoft,Platformer,1996,0
+Ubisoft,Platformer,1997,0
+Ubisoft,Platformer,1998,0
+Ubisoft,Platformer,1999,0
+Ubisoft,Platformer,2000,0
+Ubisoft,Platformer,2001,1
+Ubisoft,Platformer,2002,1
+Ubisoft,Platformer,2003,4
+Ubisoft,Platformer,2004,0
+Ubisoft,Platformer,2005,0
+Ubisoft,Platformer,2006,1
+Ubisoft,Platformer,2007,0
+Ubisoft,Platformer,2008,0
+Ubisoft,Platformer,2009,0
+Ubisoft,Platformer,2010,1
+Ubisoft,Platformer,2011,1
+Ubisoft,Platformer,2012,2
+Ubisoft,Platformer,2013,1
+Ubisoft,Platformer,2014,0
+Ubisoft,Platformer,2015,0
+Ubisoft,Platformer,2016,0
+Ubisoft,Platformer,2017,0
+Ubisoft,Platformer,2018,0
+Ubisoft,Platformer,2019,0
+Ubisoft,Platformer,2020,0
+Ubisoft,Racing,1996,0
+Ubisoft,Racing,1997,0
+Ubisoft,Racing,1998,0
+Ubisoft,Racing,1999,0
+Ubisoft,Racing,2000,0
+Ubisoft,Racing,2001,0
+Ubisoft,Racing,2002,4
+Ubisoft,Racing,2003,2
+Ubisoft,Racing,2004,0
+Ubisoft,Racing,2005,0
+Ubisoft,Racing,2006,2
+Ubisoft,Racing,2007,0
+Ubisoft,Racing,2008,0
+Ubisoft,Racing,2009,0
+Ubisoft,Racing,2010,0
+Ubisoft,Racing,2011,1
+Ubisoft,Racing,2012,1
+Ubisoft,Racing,2013,0
+Ubisoft,Racing,2014,0
+Ubisoft,Racing,2015,0
+Ubisoft,Racing,2016,0
+Ubisoft,Racing,2017,0
+Ubisoft,Racing,2018,0
+Ubisoft,Racing,2019,0
+Ubisoft,Racing,2020,0
+Ubisoft,Role-Playing,1996,0
+Ubisoft,Role-Playing,1997,0
+Ubisoft,Role-Playing,1998,0
+Ubisoft,Role-Playing,1999,0
+Ubisoft,Role-Playing,2000,0
+Ubisoft,Role-Playing,2001,1
+Ubisoft,Role-Playing,2002,0
+Ubisoft,Role-Playing,2003,0
+Ubisoft,Role-Playing,2004,0
+Ubisoft,Role-Playing,2005,0
+Ubisoft,Role-Playing,2006,0
+Ubisoft,Role-Playing,2007,0
+Ubisoft,Role-Playing,2008,0
+Ubisoft,Role-Playing,2009,0
+Ubisoft,Role-Playing,2010,0
+Ubisoft,Role-Playing,2011,0
+Ubisoft,Role-Playing,2012,1
+Ubisoft,Role-Playing,2013,0
+Ubisoft,Role-Playing,2014,0
+Ubisoft,Role-Playing,2015,0
+Ubisoft,Role-Playing,2016,0
+Ubisoft,Role-Playing,2017,0
+Ubisoft,Role-Playing,2018,0
+Ubisoft,Role-Playing,2019,0
+Ubisoft,Role-Playing,2020,0
+Ubisoft,Shooter,1996,0
+Ubisoft,Shooter,1997,0
+Ubisoft,Shooter,1998,0
+Ubisoft,Shooter,1999,0
+Ubisoft,Shooter,2000,0
+Ubisoft,Shooter,2001,0
+Ubisoft,Shooter,2002,1
+Ubisoft,Shooter,2003,1
+Ubisoft,Shooter,2004,0
+Ubisoft,Shooter,2005,0
+Ubisoft,Shooter,2006,1
+Ubisoft,Shooter,2007,0
+Ubisoft,Shooter,2008,0
+Ubisoft,Shooter,2009,0
+Ubisoft,Shooter,2010,1
+Ubisoft,Shooter,2011,2
+Ubisoft,Shooter,2012,0
+Ubisoft,Shooter,2013,0
+Ubisoft,Shooter,2014,0
+Ubisoft,Shooter,2015,0
+Ubisoft,Shooter,2016,0
+Ubisoft,Shooter,2017,0
+Ubisoft,Shooter,2018,0
+Ubisoft,Shooter,2019,0
+Ubisoft,Shooter,2020,0
+Ubisoft,Simulation,1996,0
+Ubisoft,Simulation,1997,0
+Ubisoft,Simulation,1998,0
+Ubisoft,Simulation,1999,0
+Ubisoft,Simulation,2000,0
+Ubisoft,Simulation,2001,0
+Ubisoft,Simulation,2002,0
+Ubisoft,Simulation,2003,0
+Ubisoft,Simulation,2004,1
+Ubisoft,Simulation,2005,1
+Ubisoft,Simulation,2006,3
+Ubisoft,Simulation,2007,1
+Ubisoft,Simulation,2008,0
+Ubisoft,Simulation,2009,0
+Ubisoft,Simulation,2010,4
+Ubisoft,Simulation,2011,0
+Ubisoft,Simulation,2012,0
+Ubisoft,Simulation,2013,0
+Ubisoft,Simulation,2014,0
+Ubisoft,Simulation,2015,0
+Ubisoft,Simulation,2016,0
+Ubisoft,Simulation,2017,0
+Ubisoft,Simulation,2018,0
+Ubisoft,Simulation,2019,0
+Ubisoft,Simulation,2020,0
+Ubisoft,Sports,1996,0
+Ubisoft,Sports,1997,0
+Ubisoft,Sports,1998,0
+Ubisoft,Sports,1999,0
+Ubisoft,Sports,2000,0
+Ubisoft,Sports,2001,0
+Ubisoft,Sports,2002,0
+Ubisoft,Sports,2003,0
+Ubisoft,Sports,2004,0
+Ubisoft,Sports,2005,0
+Ubisoft,Sports,2006,0
+Ubisoft,Sports,2007,2
+Ubisoft,Sports,2008,2
+Ubisoft,Sports,2009,1
+Ubisoft,Sports,2010,0
+Ubisoft,Sports,2011,1
+Ubisoft,Sports,2012,1
+Ubisoft,Sports,2013,1
+Ubisoft,Sports,2014,0
+Ubisoft,Sports,2015,0
+Ubisoft,Sports,2016,0
+Ubisoft,Sports,2017,0
+Ubisoft,Sports,2018,0
+Ubisoft,Sports,2019,0
+Ubisoft,Sports,2020,0
+Ubisoft,Third-Person,1996,0
+Ubisoft,Third-Person,1997,0
+Ubisoft,Third-Person,1998,0
+Ubisoft,Third-Person,1999,0
+Ubisoft,Third-Person,2000,0
+Ubisoft,Third-Person,2001,0
+Ubisoft,Third-Person,2002,0
+Ubisoft,Third-Person,2003,0
+Ubisoft,Third-Person,2004,0
+Ubisoft,Third-Person,2005,0
+Ubisoft,Third-Person,2006,1
+Ubisoft,Third-Person,2007,0
+Ubisoft,Third-Person,2008,0
+Ubisoft,Third-Person,2009,0
+Ubisoft,Third-Person,2010,0
+Ubisoft,Third-Person,2011,0
+Ubisoft,Third-Person,2012,0
+Ubisoft,Third-Person,2013,0
+Ubisoft,Third-Person,2014,0
+Ubisoft,Third-Person,2015,0
+Ubisoft,Third-Person,2016,0
+Ubisoft,Third-Person,2017,0
+Ubisoft,Third-Person,2018,0
+Ubisoft,Third-Person,2019,0
+Ubisoft,Third-Person,2020,0
+Ubisoft,Traditional,1996,0
+Ubisoft,Traditional,1997,0
+Ubisoft,Traditional,1998,0
+Ubisoft,Traditional,1999,0
+Ubisoft,Traditional,2000,0
+Ubisoft,Traditional,2001,0
+Ubisoft,Traditional,2002,0
+Ubisoft,Traditional,2003,0
+Ubisoft,Traditional,2004,0
+Ubisoft,Traditional,2005,0
+Ubisoft,Traditional,2006,0
+Ubisoft,Traditional,2007,1
+Ubisoft,Traditional,2008,0
+Ubisoft,Traditional,2009,0
+Ubisoft,Traditional,2010,0
+Ubisoft,Traditional,2011,0
+Ubisoft,Traditional,2012,0
+Ubisoft,Traditional,2013,0
+Ubisoft,Traditional,2014,0
+Ubisoft,Traditional,2015,0
+Ubisoft,Traditional,2016,0
+Ubisoft,Traditional,2017,0
+Ubisoft,Traditional,2018,0
+Ubisoft,Traditional,2019,0
+Ubisoft,Traditional,2020,0
+Ubisoft Montreal,2D,1996,0
+Ubisoft Montreal,2D,1997,0
+Ubisoft Montreal,2D,1998,0
+Ubisoft Montreal,2D,1999,0
+Ubisoft Montreal,2D,2000,0
+Ubisoft Montreal,2D,2001,0
+Ubisoft Montreal,2D,2002,0
+Ubisoft Montreal,2D,2003,0
+Ubisoft Montreal,2D,2004,0
+Ubisoft Montreal,2D,2005,0
+Ubisoft Montreal,2D,2006,0
+Ubisoft Montreal,2D,2007,4
+Ubisoft Montreal,2D,2008,0
+Ubisoft Montreal,2D,2009,0
+Ubisoft Montreal,2D,2010,2
+Ubisoft Montreal,2D,2011,0
+Ubisoft Montreal,2D,2012,0
+Ubisoft Montreal,2D,2013,0
+Ubisoft Montreal,2D,2014,0
+Ubisoft Montreal,2D,2015,0
+Ubisoft Montreal,2D,2016,0
+Ubisoft Montreal,2D,2017,0
+Ubisoft Montreal,2D,2018,0
+Ubisoft Montreal,2D,2019,0
+Ubisoft Montreal,2D,2020,0
+Ubisoft Montreal,3D,1996,0
+Ubisoft Montreal,3D,1997,0
+Ubisoft Montreal,3D,1998,0
+Ubisoft Montreal,3D,1999,0
+Ubisoft Montreal,3D,2000,1
+Ubisoft Montreal,3D,2001,1
+Ubisoft Montreal,3D,2002,1
+Ubisoft Montreal,3D,2003,0
+Ubisoft Montreal,3D,2004,0
+Ubisoft Montreal,3D,2005,0
+Ubisoft Montreal,3D,2006,0
+Ubisoft Montreal,3D,2007,0
+Ubisoft Montreal,3D,2008,1
+Ubisoft Montreal,3D,2009,1
+Ubisoft Montreal,3D,2010,0
+Ubisoft Montreal,3D,2011,0
+Ubisoft Montreal,3D,2012,0
+Ubisoft Montreal,3D,2013,0
+Ubisoft Montreal,3D,2014,0
+Ubisoft Montreal,3D,2015,0
+Ubisoft Montreal,3D,2016,0
+Ubisoft Montreal,3D,2017,0
+Ubisoft Montreal,3D,2018,0
+Ubisoft Montreal,3D,2019,0
+Ubisoft Montreal,3D,2020,0
+Ubisoft Montreal,Action,1996,0
+Ubisoft Montreal,Action,1997,0
+Ubisoft Montreal,Action,1998,0
+Ubisoft Montreal,Action,1999,0
+Ubisoft Montreal,Action,2000,1
+Ubisoft Montreal,Action,2001,2
+Ubisoft Montreal,Action,2002,1
+Ubisoft Montreal,Action,2003,4
+Ubisoft Montreal,Action,2004,1
+Ubisoft Montreal,Action,2005,1
+Ubisoft Montreal,Action,2006,5
+Ubisoft Montreal,Action,2007,9
+Ubisoft Montreal,Action,2008,7
+Ubisoft Montreal,Action,2009,1
+Ubisoft Montreal,Action,2010,2
+Ubisoft Montreal,Action,2011,2
+Ubisoft Montreal,Action,2012,3
+Ubisoft Montreal,Action,2013,3
+Ubisoft Montreal,Action,2014,7
+Ubisoft Montreal,Action,2015,6
+Ubisoft Montreal,Action,2016,3
+Ubisoft Montreal,Action,2017,0
+Ubisoft Montreal,Action,2018,6
+Ubisoft Montreal,Action,2019,3
+Ubisoft Montreal,Action,2020,2
+Ubisoft Montreal,Action Adventure,1996,0
+Ubisoft Montreal,Action Adventure,1997,0
+Ubisoft Montreal,Action Adventure,1998,0
+Ubisoft Montreal,Action Adventure,1999,0
+Ubisoft Montreal,Action Adventure,2000,0
+Ubisoft Montreal,Action Adventure,2001,2
+Ubisoft Montreal,Action Adventure,2002,1
+Ubisoft Montreal,Action Adventure,2003,3
+Ubisoft Montreal,Action Adventure,2004,3
+Ubisoft Montreal,Action Adventure,2005,5
+Ubisoft Montreal,Action Adventure,2006,3
+Ubisoft Montreal,Action Adventure,2007,4
+Ubisoft Montreal,Action Adventure,2008,8
+Ubisoft Montreal,Action Adventure,2009,3
+Ubisoft Montreal,Action Adventure,2010,11
+Ubisoft Montreal,Action Adventure,2011,6
+Ubisoft Montreal,Action Adventure,2012,0
+Ubisoft Montreal,Action Adventure,2013,3
+Ubisoft Montreal,Action Adventure,2014,4
+Ubisoft Montreal,Action Adventure,2015,0
+Ubisoft Montreal,Action Adventure,2016,3
+Ubisoft Montreal,Action Adventure,2017,3
+Ubisoft Montreal,Action Adventure,2018,1
+Ubisoft Montreal,Action Adventure,2019,0
+Ubisoft Montreal,Action Adventure,2020,2
+Ubisoft Montreal,Adventure,1996,0
+Ubisoft Montreal,Adventure,1997,0
+Ubisoft Montreal,Adventure,1998,0
+Ubisoft Montreal,Adventure,1999,0
+Ubisoft Montreal,Adventure,2000,0
+Ubisoft Montreal,Adventure,2001,0
+Ubisoft Montreal,Adventure,2002,0
+Ubisoft Montreal,Adventure,2003,0
+Ubisoft Montreal,Adventure,2004,0
+Ubisoft Montreal,Adventure,2005,1
+Ubisoft Montreal,Adventure,2006,0
+Ubisoft Montreal,Adventure,2007,0
+Ubisoft Montreal,Adventure,2008,1
+Ubisoft Montreal,Adventure,2009,0
+Ubisoft Montreal,Adventure,2010,0
+Ubisoft Montreal,Adventure,2011,0
+Ubisoft Montreal,Adventure,2012,0
+Ubisoft Montreal,Adventure,2013,0
+Ubisoft Montreal,Adventure,2014,0
+Ubisoft Montreal,Adventure,2015,0
+Ubisoft Montreal,Adventure,2016,0
+Ubisoft Montreal,Adventure,2017,0
+Ubisoft Montreal,Adventure,2018,0
+Ubisoft Montreal,Adventure,2019,0
+Ubisoft Montreal,Adventure,2020,0
+Ubisoft Montreal,Arcade,1996,0
+Ubisoft Montreal,Arcade,1997,0
+Ubisoft Montreal,Arcade,1998,0
+Ubisoft Montreal,Arcade,1999,0
+Ubisoft Montreal,Arcade,2000,1
+Ubisoft Montreal,Arcade,2001,0
+Ubisoft Montreal,Arcade,2002,0
+Ubisoft Montreal,Arcade,2003,0
+Ubisoft Montreal,Arcade,2004,0
+Ubisoft Montreal,Arcade,2005,0
+Ubisoft Montreal,Arcade,2006,2
+Ubisoft Montreal,Arcade,2007,0
+Ubisoft Montreal,Arcade,2008,3
+Ubisoft Montreal,Arcade,2009,0
+Ubisoft Montreal,Arcade,2010,0
+Ubisoft Montreal,Arcade,2011,0
+Ubisoft Montreal,Arcade,2012,3
+Ubisoft Montreal,Arcade,2013,3
+Ubisoft Montreal,Arcade,2014,3
+Ubisoft Montreal,Arcade,2015,3
+Ubisoft Montreal,Arcade,2016,3
+Ubisoft Montreal,Arcade,2017,0
+Ubisoft Montreal,Arcade,2018,6
+Ubisoft Montreal,Arcade,2019,3
+Ubisoft Montreal,Arcade,2020,0
+Ubisoft Montreal,Compilation,1996,0
+Ubisoft Montreal,Compilation,1997,0
+Ubisoft Montreal,Compilation,1998,0
+Ubisoft Montreal,Compilation,1999,0
+Ubisoft Montreal,Compilation,2000,0
+Ubisoft Montreal,Compilation,2001,0
+Ubisoft Montreal,Compilation,2002,0
+Ubisoft Montreal,Compilation,2003,0
+Ubisoft Montreal,Compilation,2004,0
+Ubisoft Montreal,Compilation,2005,0
+Ubisoft Montreal,Compilation,2006,0
+Ubisoft Montreal,Compilation,2007,0
+Ubisoft Montreal,Compilation,2008,0
+Ubisoft Montreal,Compilation,2009,0
+Ubisoft Montreal,Compilation,2010,0
+Ubisoft Montreal,Compilation,2011,0
+Ubisoft Montreal,Compilation,2012,0
+Ubisoft Montreal,Compilation,2013,0
+Ubisoft Montreal,Compilation,2014,0
+Ubisoft Montreal,Compilation,2015,0
+Ubisoft Montreal,Compilation,2016,2
+Ubisoft Montreal,Compilation,2017,0
+Ubisoft Montreal,Compilation,2018,0
+Ubisoft Montreal,Compilation,2019,0
+Ubisoft Montreal,Compilation,2020,0
+Ubisoft Montreal,Driving,1996,0
+Ubisoft Montreal,Driving,1997,0
+Ubisoft Montreal,Driving,1998,0
+Ubisoft Montreal,Driving,1999,0
+Ubisoft Montreal,Driving,2000,1
+Ubisoft Montreal,Driving,2001,0
+Ubisoft Montreal,Driving,2002,0
+Ubisoft Montreal,Driving,2003,0
+Ubisoft Montreal,Driving,2004,0
+Ubisoft Montreal,Driving,2005,0
+Ubisoft Montreal,Driving,2006,0
+Ubisoft Montreal,Driving,2007,0
+Ubisoft Montreal,Driving,2008,0
+Ubisoft Montreal,Driving,2009,0
+Ubisoft Montreal,Driving,2010,0
+Ubisoft Montreal,Driving,2011,0
+Ubisoft Montreal,Driving,2012,0
+Ubisoft Montreal,Driving,2013,0
+Ubisoft Montreal,Driving,2014,0
+Ubisoft Montreal,Driving,2015,0
+Ubisoft Montreal,Driving,2016,0
+Ubisoft Montreal,Driving,2017,0
+Ubisoft Montreal,Driving,2018,0
+Ubisoft Montreal,Driving,2019,0
+Ubisoft Montreal,Driving,2020,0
+Ubisoft Montreal,Fantasy,1996,0
+Ubisoft Montreal,Fantasy,1997,0
+Ubisoft Montreal,Fantasy,1998,0
+Ubisoft Montreal,Fantasy,1999,0
+Ubisoft Montreal,Fantasy,2000,0
+Ubisoft Montreal,Fantasy,2001,1
+Ubisoft Montreal,Fantasy,2002,0
+Ubisoft Montreal,Fantasy,2003,1
+Ubisoft Montreal,Fantasy,2004,3
+Ubisoft Montreal,Fantasy,2005,2
+Ubisoft Montreal,Fantasy,2006,0
+Ubisoft Montreal,Fantasy,2007,1
+Ubisoft Montreal,Fantasy,2008,4
+Ubisoft Montreal,Fantasy,2009,1
+Ubisoft Montreal,Fantasy,2010,3
+Ubisoft Montreal,Fantasy,2011,0
+Ubisoft Montreal,Fantasy,2012,0
+Ubisoft Montreal,Fantasy,2013,1
+Ubisoft Montreal,Fantasy,2014,0
+Ubisoft Montreal,Fantasy,2015,0
+Ubisoft Montreal,Fantasy,2016,0
+Ubisoft Montreal,Fantasy,2017,0
+Ubisoft Montreal,Fantasy,2018,0
+Ubisoft Montreal,Fantasy,2019,0
+Ubisoft Montreal,Fantasy,2020,0
+Ubisoft Montreal,First-Person,1996,0
+Ubisoft Montreal,First-Person,1997,0
+Ubisoft Montreal,First-Person,1998,0
+Ubisoft Montreal,First-Person,1999,0
+Ubisoft Montreal,First-Person,2000,0
+Ubisoft Montreal,First-Person,2001,0
+Ubisoft Montreal,First-Person,2002,0
+Ubisoft Montreal,First-Person,2003,1
+Ubisoft Montreal,First-Person,2004,1
+Ubisoft Montreal,First-Person,2005,2
+Ubisoft Montreal,First-Person,2006,5
+Ubisoft Montreal,First-Person,2007,2
+Ubisoft Montreal,First-Person,2008,8
+Ubisoft Montreal,First-Person,2009,0
+Ubisoft Montreal,First-Person,2010,0
+Ubisoft Montreal,First-Person,2011,0
+Ubisoft Montreal,First-Person,2012,3
+Ubisoft Montreal,First-Person,2013,3
+Ubisoft Montreal,First-Person,2014,3
+Ubisoft Montreal,First-Person,2015,6
+Ubisoft Montreal,First-Person,2016,3
+Ubisoft Montreal,First-Person,2017,0
+Ubisoft Montreal,First-Person,2018,6
+Ubisoft Montreal,First-Person,2019,3
+Ubisoft Montreal,First-Person,2020,2
+Ubisoft Montreal,General,1996,0
+Ubisoft Montreal,General,1997,0
+Ubisoft Montreal,General,1998,0
+Ubisoft Montreal,General,1999,0
+Ubisoft Montreal,General,2000,0
+Ubisoft Montreal,General,2001,1
+Ubisoft Montreal,General,2002,0
+Ubisoft Montreal,General,2003,1
+Ubisoft Montreal,General,2004,0
+Ubisoft Montreal,General,2005,1
+Ubisoft Montreal,General,2006,1
+Ubisoft Montreal,General,2007,2
+Ubisoft Montreal,General,2008,6
+Ubisoft Montreal,General,2009,1
+Ubisoft Montreal,General,2010,8
+Ubisoft Montreal,General,2011,2
+Ubisoft Montreal,General,2012,0
+Ubisoft Montreal,General,2013,1
+Ubisoft Montreal,General,2014,9
+Ubisoft Montreal,General,2015,0
+Ubisoft Montreal,General,2016,0
+Ubisoft Montreal,General,2017,3
+Ubisoft Montreal,General,2018,1
+Ubisoft Montreal,General,2019,0
+Ubisoft Montreal,General,2020,0
+Ubisoft Montreal,Individual,1996,0
+Ubisoft Montreal,Individual,1997,0
+Ubisoft Montreal,Individual,1998,0
+Ubisoft Montreal,Individual,1999,0
+Ubisoft Montreal,Individual,2000,0
+Ubisoft Montreal,Individual,2001,0
+Ubisoft Montreal,Individual,2002,0
+Ubisoft Montreal,Individual,2003,0
+Ubisoft Montreal,Individual,2004,0
+Ubisoft Montreal,Individual,2005,0
+Ubisoft Montreal,Individual,2006,0
+Ubisoft Montreal,Individual,2007,2
+Ubisoft Montreal,Individual,2008,2
+Ubisoft Montreal,Individual,2009,0
+Ubisoft Montreal,Individual,2010,2
+Ubisoft Montreal,Individual,2011,0
+Ubisoft Montreal,Individual,2012,0
+Ubisoft Montreal,Individual,2013,0
+Ubisoft Montreal,Individual,2014,0
+Ubisoft Montreal,Individual,2015,0
+Ubisoft Montreal,Individual,2016,0
+Ubisoft Montreal,Individual,2017,0
+Ubisoft Montreal,Individual,2018,0
+Ubisoft Montreal,Individual,2019,0
+Ubisoft Montreal,Individual,2020,0
+Ubisoft Montreal,Miscellaneous,1996,0
+Ubisoft Montreal,Miscellaneous,1997,0
+Ubisoft Montreal,Miscellaneous,1998,0
+Ubisoft Montreal,Miscellaneous,1999,0
+Ubisoft Montreal,Miscellaneous,2000,0
+Ubisoft Montreal,Miscellaneous,2001,0
+Ubisoft Montreal,Miscellaneous,2002,0
+Ubisoft Montreal,Miscellaneous,2003,0
+Ubisoft Montreal,Miscellaneous,2004,0
+Ubisoft Montreal,Miscellaneous,2005,1
+Ubisoft Montreal,Miscellaneous,2006,0
+Ubisoft Montreal,Miscellaneous,2007,0
+Ubisoft Montreal,Miscellaneous,2008,0
+Ubisoft Montreal,Miscellaneous,2009,0
+Ubisoft Montreal,Miscellaneous,2010,1
+Ubisoft Montreal,Miscellaneous,2011,2
+Ubisoft Montreal,Miscellaneous,2012,0
+Ubisoft Montreal,Miscellaneous,2013,0
+Ubisoft Montreal,Miscellaneous,2014,1
+Ubisoft Montreal,Miscellaneous,2015,0
+Ubisoft Montreal,Miscellaneous,2016,2
+Ubisoft Montreal,Miscellaneous,2017,0
+Ubisoft Montreal,Miscellaneous,2018,0
+Ubisoft Montreal,Miscellaneous,2019,0
+Ubisoft Montreal,Miscellaneous,2020,0
+Ubisoft Montreal,Modern,1996,0
+Ubisoft Montreal,Modern,1997,0
+Ubisoft Montreal,Modern,1998,0
+Ubisoft Montreal,Modern,1999,0
+Ubisoft Montreal,Modern,2000,0
+Ubisoft Montreal,Modern,2001,0
+Ubisoft Montreal,Modern,2002,1
+Ubisoft Montreal,Modern,2003,3
+Ubisoft Montreal,Modern,2004,1
+Ubisoft Montreal,Modern,2005,5
+Ubisoft Montreal,Modern,2006,7
+Ubisoft Montreal,Modern,2007,2
+Ubisoft Montreal,Modern,2008,10
+Ubisoft Montreal,Modern,2009,0
+Ubisoft Montreal,Modern,2010,2
+Ubisoft Montreal,Modern,2011,0
+Ubisoft Montreal,Modern,2012,3
+Ubisoft Montreal,Modern,2013,3
+Ubisoft Montreal,Modern,2014,7
+Ubisoft Montreal,Modern,2015,4
+Ubisoft Montreal,Modern,2016,0
+Ubisoft Montreal,Modern,2017,0
+Ubisoft Montreal,Modern,2018,0
+Ubisoft Montreal,Modern,2019,0
+Ubisoft Montreal,Modern,2020,0
+Ubisoft Montreal,Platformer,1996,0
+Ubisoft Montreal,Platformer,1997,0
+Ubisoft Montreal,Platformer,1998,0
+Ubisoft Montreal,Platformer,1999,0
+Ubisoft Montreal,Platformer,2000,1
+Ubisoft Montreal,Platformer,2001,1
+Ubisoft Montreal,Platformer,2002,1
+Ubisoft Montreal,Platformer,2003,0
+Ubisoft Montreal,Platformer,2004,0
+Ubisoft Montreal,Platformer,2005,0
+Ubisoft Montreal,Platformer,2006,0
+Ubisoft Montreal,Platformer,2007,0
+Ubisoft Montreal,Platformer,2008,0
+Ubisoft Montreal,Platformer,2009,1
+Ubisoft Montreal,Platformer,2010,0
+Ubisoft Montreal,Platformer,2011,0
+Ubisoft Montreal,Platformer,2012,0
+Ubisoft Montreal,Platformer,2013,0
+Ubisoft Montreal,Platformer,2014,0
+Ubisoft Montreal,Platformer,2015,0
+Ubisoft Montreal,Platformer,2016,0
+Ubisoft Montreal,Platformer,2017,0
+Ubisoft Montreal,Platformer,2018,0
+Ubisoft Montreal,Platformer,2019,0
+Ubisoft Montreal,Platformer,2020,0
+Ubisoft Montreal,Racing,1996,0
+Ubisoft Montreal,Racing,1997,0
+Ubisoft Montreal,Racing,1998,0
+Ubisoft Montreal,Racing,1999,0
+Ubisoft Montreal,Racing,2000,1
+Ubisoft Montreal,Racing,2001,0
+Ubisoft Montreal,Racing,2002,0
+Ubisoft Montreal,Racing,2003,0
+Ubisoft Montreal,Racing,2004,0
+Ubisoft Montreal,Racing,2005,0
+Ubisoft Montreal,Racing,2006,0
+Ubisoft Montreal,Racing,2007,0
+Ubisoft Montreal,Racing,2008,0
+Ubisoft Montreal,Racing,2009,0
+Ubisoft Montreal,Racing,2010,0
+Ubisoft Montreal,Racing,2011,0
+Ubisoft Montreal,Racing,2012,0
+Ubisoft Montreal,Racing,2013,0
+Ubisoft Montreal,Racing,2014,0
+Ubisoft Montreal,Racing,2015,0
+Ubisoft Montreal,Racing,2016,0
+Ubisoft Montreal,Racing,2017,0
+Ubisoft Montreal,Racing,2018,0
+Ubisoft Montreal,Racing,2019,0
+Ubisoft Montreal,Racing,2020,0
+Ubisoft Montreal,Role-Playing,1996,0
+Ubisoft Montreal,Role-Playing,1997,0
+Ubisoft Montreal,Role-Playing,1998,0
+Ubisoft Montreal,Role-Playing,1999,0
+Ubisoft Montreal,Role-Playing,2000,0
+Ubisoft Montreal,Role-Playing,2001,0
+Ubisoft Montreal,Role-Playing,2002,0
+Ubisoft Montreal,Role-Playing,2003,0
+Ubisoft Montreal,Role-Playing,2004,0
+Ubisoft Montreal,Role-Playing,2005,0
+Ubisoft Montreal,Role-Playing,2006,0
+Ubisoft Montreal,Role-Playing,2007,0
+Ubisoft Montreal,Role-Playing,2008,0
+Ubisoft Montreal,Role-Playing,2009,0
+Ubisoft Montreal,Role-Playing,2010,0
+Ubisoft Montreal,Role-Playing,2011,0
+Ubisoft Montreal,Role-Playing,2012,0
+Ubisoft Montreal,Role-Playing,2013,0
+Ubisoft Montreal,Role-Playing,2014,5
+Ubisoft Montreal,Role-Playing,2015,0
+Ubisoft Montreal,Role-Playing,2016,0
+Ubisoft Montreal,Role-Playing,2017,0
+Ubisoft Montreal,Role-Playing,2018,1
+Ubisoft Montreal,Role-Playing,2019,0
+Ubisoft Montreal,Role-Playing,2020,0
+Ubisoft Montreal,Shooter,1996,0
+Ubisoft Montreal,Shooter,1997,0
+Ubisoft Montreal,Shooter,1998,0
+Ubisoft Montreal,Shooter,1999,0
+Ubisoft Montreal,Shooter,2000,0
+Ubisoft Montreal,Shooter,2001,0
+Ubisoft Montreal,Shooter,2002,0
+Ubisoft Montreal,Shooter,2003,1
+Ubisoft Montreal,Shooter,2004,1
+Ubisoft Montreal,Shooter,2005,1
+Ubisoft Montreal,Shooter,2006,5
+Ubisoft Montreal,Shooter,2007,2
+Ubisoft Montreal,Shooter,2008,7
+Ubisoft Montreal,Shooter,2009,0
+Ubisoft Montreal,Shooter,2010,0
+Ubisoft Montreal,Shooter,2011,0
+Ubisoft Montreal,Shooter,2012,3
+Ubisoft Montreal,Shooter,2013,3
+Ubisoft Montreal,Shooter,2014,3
+Ubisoft Montreal,Shooter,2015,6
+Ubisoft Montreal,Shooter,2016,3
+Ubisoft Montreal,Shooter,2017,0
+Ubisoft Montreal,Shooter,2018,6
+Ubisoft Montreal,Shooter,2019,3
+Ubisoft Montreal,Shooter,2020,2
+Ubisoft Montreal,Sports,1996,0
+Ubisoft Montreal,Sports,1997,0
+Ubisoft Montreal,Sports,1998,0
+Ubisoft Montreal,Sports,1999,0
+Ubisoft Montreal,Sports,2000,0
+Ubisoft Montreal,Sports,2001,0
+Ubisoft Montreal,Sports,2002,0
+Ubisoft Montreal,Sports,2003,0
+Ubisoft Montreal,Sports,2004,0
+Ubisoft Montreal,Sports,2005,0
+Ubisoft Montreal,Sports,2006,0
+Ubisoft Montreal,Sports,2007,2
+Ubisoft Montreal,Sports,2008,2
+Ubisoft Montreal,Sports,2009,0
+Ubisoft Montreal,Sports,2010,3
+Ubisoft Montreal,Sports,2011,0
+Ubisoft Montreal,Sports,2012,0
+Ubisoft Montreal,Sports,2013,0
+Ubisoft Montreal,Sports,2014,0
+Ubisoft Montreal,Sports,2015,0
+Ubisoft Montreal,Sports,2016,0
+Ubisoft Montreal,Sports,2017,0
+Ubisoft Montreal,Sports,2018,0
+Ubisoft Montreal,Sports,2019,0
+Ubisoft Montreal,Sports,2020,0
+Visual Concepts,Action,1996,0
+Visual Concepts,Action,1997,0
+Visual Concepts,Action,1998,0
+Visual Concepts,Action,1999,0
+Visual Concepts,Action,2000,0
+Visual Concepts,Action,2001,2
+Visual Concepts,Action,2002,0
+Visual Concepts,Action,2003,0
+Visual Concepts,Action,2004,0
+Visual Concepts,Action,2005,0
+Visual Concepts,Action,2006,0
+Visual Concepts,Action,2007,2
+Visual Concepts,Action,2008,0
+Visual Concepts,Action,2009,0
+Visual Concepts,Action,2010,0
+Visual Concepts,Action,2011,0
+Visual Concepts,Action,2012,0
+Visual Concepts,Action,2013,0
+Visual Concepts,Action,2014,0
+Visual Concepts,Action,2015,2
+Visual Concepts,Action,2016,0
+Visual Concepts,Action,2017,0
+Visual Concepts,Action,2018,0
+Visual Concepts,Action,2019,0
+Visual Concepts,Action,2020,0
+Visual Concepts,Arcade,1996,0
+Visual Concepts,Arcade,1997,0
+Visual Concepts,Arcade,1998,0
+Visual Concepts,Arcade,1999,0
+Visual Concepts,Arcade,2000,0
+Visual Concepts,Arcade,2001,0
+Visual Concepts,Arcade,2002,0
+Visual Concepts,Arcade,2003,0
+Visual Concepts,Arcade,2004,0
+Visual Concepts,Arcade,2005,0
+Visual Concepts,Arcade,2006,0
+Visual Concepts,Arcade,2007,0
+Visual Concepts,Arcade,2008,0
+Visual Concepts,Arcade,2009,0
+Visual Concepts,Arcade,2010,0
+Visual Concepts,Arcade,2011,0
+Visual Concepts,Arcade,2012,0
+Visual Concepts,Arcade,2013,0
+Visual Concepts,Arcade,2014,0
+Visual Concepts,Arcade,2015,0
+Visual Concepts,Arcade,2016,0
+Visual Concepts,Arcade,2017,1
+Visual Concepts,Arcade,2018,3
+Visual Concepts,Arcade,2019,0
+Visual Concepts,Arcade,2020,2
+Visual Concepts,Basketball,1996,0
+Visual Concepts,Basketball,1997,0
+Visual Concepts,Basketball,1998,0
+Visual Concepts,Basketball,1999,0
+Visual Concepts,Basketball,2000,1
+Visual Concepts,Basketball,2001,1
+Visual Concepts,Basketball,2002,6
+Visual Concepts,Basketball,2003,4
+Visual Concepts,Basketball,2004,4
+Visual Concepts,Basketball,2005,3
+Visual Concepts,Basketball,2006,1
+Visual Concepts,Basketball,2007,5
+Visual Concepts,Basketball,2008,2
+Visual Concepts,Basketball,2009,3
+Visual Concepts,Basketball,2010,2
+Visual Concepts,Basketball,2011,2
+Visual Concepts,Basketball,2012,3
+Visual Concepts,Basketball,2013,4
+Visual Concepts,Basketball,2014,2
+Visual Concepts,Basketball,2015,2
+Visual Concepts,Basketball,2016,2
+Visual Concepts,Basketball,2017,2
+Visual Concepts,Basketball,2018,3
+Visual Concepts,Basketball,2019,3
+Visual Concepts,Basketball,2020,2
+Visual Concepts,Football,1996,0
+Visual Concepts,Football,1997,0
+Visual Concepts,Football,1998,0
+Visual Concepts,Football,1999,0
+Visual Concepts,Football,2000,1
+Visual Concepts,Football,2001,3
+Visual Concepts,Football,2002,3
+Visual Concepts,Football,2003,2
+Visual Concepts,Football,2004,2
+Visual Concepts,Football,2005,0
+Visual Concepts,Football,2006,0
+Visual Concepts,Football,2007,2
+Visual Concepts,Football,2008,0
+Visual Concepts,Football,2009,0
+Visual Concepts,Football,2010,0
+Visual Concepts,Football,2011,0
+Visual Concepts,Football,2012,0
+Visual Concepts,Football,2013,0
+Visual Concepts,Football,2014,0
+Visual Concepts,Football,2015,0
+Visual Concepts,Football,2016,0
+Visual Concepts,Football,2017,0
+Visual Concepts,Football,2018,0
+Visual Concepts,Football,2019,0
+Visual Concepts,Football,2020,0
+Visual Concepts,General,1996,0
+Visual Concepts,General,1997,0
+Visual Concepts,General,1998,0
+Visual Concepts,General,1999,0
+Visual Concepts,General,2000,0
+Visual Concepts,General,2001,2
+Visual Concepts,General,2002,0
+Visual Concepts,General,2003,0
+Visual Concepts,General,2004,0
+Visual Concepts,General,2005,0
+Visual Concepts,General,2006,0
+Visual Concepts,General,2007,2
+Visual Concepts,General,2008,0
+Visual Concepts,General,2009,1
+Visual Concepts,General,2010,0
+Visual Concepts,General,2011,0
+Visual Concepts,General,2012,0
+Visual Concepts,General,2013,0
+Visual Concepts,General,2014,0
+Visual Concepts,General,2015,2
+Visual Concepts,General,2016,0
+Visual Concepts,General,2017,0
+Visual Concepts,General,2018,0
+Visual Concepts,General,2019,0
+Visual Concepts,General,2020,0
+Visual Concepts,Individual,1996,0
+Visual Concepts,Individual,1997,0
+Visual Concepts,Individual,1998,0
+Visual Concepts,Individual,1999,0
+Visual Concepts,Individual,2000,0
+Visual Concepts,Individual,2001,0
+Visual Concepts,Individual,2002,0
+Visual Concepts,Individual,2003,0
+Visual Concepts,Individual,2004,0
+Visual Concepts,Individual,2005,0
+Visual Concepts,Individual,2006,0
+Visual Concepts,Individual,2007,0
+Visual Concepts,Individual,2008,0
+Visual Concepts,Individual,2009,0
+Visual Concepts,Individual,2010,0
+Visual Concepts,Individual,2011,0
+Visual Concepts,Individual,2012,0
+Visual Concepts,Individual,2013,0
+Visual Concepts,Individual,2014,0
+Visual Concepts,Individual,2015,0
+Visual Concepts,Individual,2016,0
+Visual Concepts,Individual,2017,0
+Visual Concepts,Individual,2018,0
+Visual Concepts,Individual,2019,2
+Visual Concepts,Individual,2020,0
+Visual Concepts,Sim,1996,0
+Visual Concepts,Sim,1997,0
+Visual Concepts,Sim,1998,0
+Visual Concepts,Sim,1999,0
+Visual Concepts,Sim,2000,2
+Visual Concepts,Sim,2001,4
+Visual Concepts,Sim,2002,9
+Visual Concepts,Sim,2003,6
+Visual Concepts,Sim,2004,6
+Visual Concepts,Sim,2005,3
+Visual Concepts,Sim,2006,1
+Visual Concepts,Sim,2007,7
+Visual Concepts,Sim,2008,5
+Visual Concepts,Sim,2009,4
+Visual Concepts,Sim,2010,4
+Visual Concepts,Sim,2011,4
+Visual Concepts,Sim,2012,5
+Visual Concepts,Sim,2013,5
+Visual Concepts,Sim,2014,2
+Visual Concepts,Sim,2015,2
+Visual Concepts,Sim,2016,2
+Visual Concepts,Sim,2017,2
+Visual Concepts,Sim,2018,3
+Visual Concepts,Sim,2019,3
+Visual Concepts,Sim,2020,0
+Visual Concepts,Sports,1996,0
+Visual Concepts,Sports,1997,0
+Visual Concepts,Sports,1998,0
+Visual Concepts,Sports,1999,0
+Visual Concepts,Sports,2000,2
+Visual Concepts,Sports,2001,4
+Visual Concepts,Sports,2002,9
+Visual Concepts,Sports,2003,6
+Visual Concepts,Sports,2004,6
+Visual Concepts,Sports,2005,3
+Visual Concepts,Sports,2006,1
+Visual Concepts,Sports,2007,7
+Visual Concepts,Sports,2008,5
+Visual Concepts,Sports,2009,4
+Visual Concepts,Sports,2010,4
+Visual Concepts,Sports,2011,4
+Visual Concepts,Sports,2012,5
+Visual Concepts,Sports,2013,5
+Visual Concepts,Sports,2014,2
+Visual Concepts,Sports,2015,2
+Visual Concepts,Sports,2016,2
+Visual Concepts,Sports,2017,2
+Visual Concepts,Sports,2018,3
+Visual Concepts,Sports,2019,5
+Visual Concepts,Sports,2020,2
+Visual Concepts,Team,1996,0
+Visual Concepts,Team,1997,0
+Visual Concepts,Team,1998,0
+Visual Concepts,Team,1999,0
+Visual Concepts,Team,2000,0
+Visual Concepts,Team,2001,0
+Visual Concepts,Team,2002,0
+Visual Concepts,Team,2003,0
+Visual Concepts,Team,2004,0
+Visual Concepts,Team,2005,1
+Visual Concepts,Team,2006,1
+Visual Concepts,Team,2007,6
+Visual Concepts,Team,2008,5
+Visual Concepts,Team,2009,4
+Visual Concepts,Team,2010,4
+Visual Concepts,Team,2011,4
+Visual Concepts,Team,2012,5
+Visual Concepts,Team,2013,5
+Visual Concepts,Team,2014,2
+Visual Concepts,Team,2015,2
+Visual Concepts,Team,2016,2
+Visual Concepts,Team,2017,2
+Visual Concepts,Team,2018,3
+Visual Concepts,Team,2019,3
+Visual Concepts,Team,2020,2
+Visual Concepts,Traditional,1996,0
+Visual Concepts,Traditional,1997,0
+Visual Concepts,Traditional,1998,0
+Visual Concepts,Traditional,1999,0
+Visual Concepts,Traditional,2000,2
+Visual Concepts,Traditional,2001,4
+Visual Concepts,Traditional,2002,9
+Visual Concepts,Traditional,2003,6
+Visual Concepts,Traditional,2004,6
+Visual Concepts,Traditional,2005,3
+Visual Concepts,Traditional,2006,1
+Visual Concepts,Traditional,2007,7
+Visual Concepts,Traditional,2008,5
+Visual Concepts,Traditional,2009,4
+Visual Concepts,Traditional,2010,4
+Visual Concepts,Traditional,2011,4
+Visual Concepts,Traditional,2012,5
+Visual Concepts,Traditional,2013,5
+Visual Concepts,Traditional,2014,2
+Visual Concepts,Traditional,2015,0
+Visual Concepts,Traditional,2016,0
+Visual Concepts,Traditional,2017,0
+Visual Concepts,Traditional,2018,0
+Visual Concepts,Traditional,2019,0
+Visual Concepts,Traditional,2020,0
+Yuke's,3D,1996,0
+Yuke's,3D,1997,0
+Yuke's,3D,1998,0
+Yuke's,3D,1999,0
+Yuke's,3D,2000,0
+Yuke's,3D,2001,0
+Yuke's,3D,2002,0
+Yuke's,3D,2003,0
+Yuke's,3D,2004,0
+Yuke's,3D,2005,0
+Yuke's,3D,2006,0
+Yuke's,3D,2007,0
+Yuke's,3D,2008,0
+Yuke's,3D,2009,0
+Yuke's,3D,2010,0
+Yuke's,3D,2011,1
+Yuke's,3D,2012,0
+Yuke's,3D,2013,0
+Yuke's,3D,2014,0
+Yuke's,3D,2015,0
+Yuke's,3D,2016,0
+Yuke's,3D,2017,0
+Yuke's,3D,2018,0
+Yuke's,3D,2019,0
+Yuke's,3D,2020,0
+Yuke's,Action,1996,0
+Yuke's,Action,1997,0
+Yuke's,Action,1998,0
+Yuke's,Action,1999,0
+Yuke's,Action,2000,2
+Yuke's,Action,2001,1
+Yuke's,Action,2002,2
+Yuke's,Action,2003,2
+Yuke's,Action,2004,3
+Yuke's,Action,2005,3
+Yuke's,Action,2006,3
+Yuke's,Action,2007,5
+Yuke's,Action,2008,7
+Yuke's,Action,2009,7
+Yuke's,Action,2010,6
+Yuke's,Action,2011,3
+Yuke's,Action,2012,2
+Yuke's,Action,2013,3
+Yuke's,Action,2014,2
+Yuke's,Action,2015,2
+Yuke's,Action,2016,0
+Yuke's,Action,2017,0
+Yuke's,Action,2018,0
+Yuke's,Action,2019,1
+Yuke's,Action,2020,0
+Yuke's,Action Adventure,1996,0
+Yuke's,Action Adventure,1997,0
+Yuke's,Action Adventure,1998,0
+Yuke's,Action Adventure,1999,0
+Yuke's,Action Adventure,2000,0
+Yuke's,Action Adventure,2001,0
+Yuke's,Action Adventure,2002,1
+Yuke's,Action Adventure,2003,0
+Yuke's,Action Adventure,2004,0
+Yuke's,Action Adventure,2005,0
+Yuke's,Action Adventure,2006,0
+Yuke's,Action Adventure,2007,0
+Yuke's,Action Adventure,2008,0
+Yuke's,Action Adventure,2009,0
+Yuke's,Action Adventure,2010,0
+Yuke's,Action Adventure,2011,0
+Yuke's,Action Adventure,2012,0
+Yuke's,Action Adventure,2013,0
+Yuke's,Action Adventure,2014,0
+Yuke's,Action Adventure,2015,0
+Yuke's,Action Adventure,2016,0
+Yuke's,Action Adventure,2017,0
+Yuke's,Action Adventure,2018,0
+Yuke's,Action Adventure,2019,0
+Yuke's,Action Adventure,2020,0
+Yuke's,Arcade,1996,0
+Yuke's,Arcade,1997,0
+Yuke's,Arcade,1998,0
+Yuke's,Arcade,1999,0
+Yuke's,Arcade,2000,0
+Yuke's,Arcade,2001,0
+Yuke's,Arcade,2002,0
+Yuke's,Arcade,2003,0
+Yuke's,Arcade,2004,0
+Yuke's,Arcade,2005,0
+Yuke's,Arcade,2006,0
+Yuke's,Arcade,2007,0
+Yuke's,Arcade,2008,0
+Yuke's,Arcade,2009,0
+Yuke's,Arcade,2010,0
+Yuke's,Arcade,2011,0
+Yuke's,Arcade,2012,0
+Yuke's,Arcade,2013,0
+Yuke's,Arcade,2014,0
+Yuke's,Arcade,2015,0
+Yuke's,Arcade,2016,0
+Yuke's,Arcade,2017,0
+Yuke's,Arcade,2018,0
+Yuke's,Arcade,2019,1
+Yuke's,Arcade,2020,0
+Yuke's,Driving,1996,0
+Yuke's,Driving,1997,0
+Yuke's,Driving,1998,0
+Yuke's,Driving,1999,0
+Yuke's,Driving,2000,0
+Yuke's,Driving,2001,0
+Yuke's,Driving,2002,0
+Yuke's,Driving,2003,0
+Yuke's,Driving,2004,0
+Yuke's,Driving,2005,0
+Yuke's,Driving,2006,1
+Yuke's,Driving,2007,0
+Yuke's,Driving,2008,0
+Yuke's,Driving,2009,0
+Yuke's,Driving,2010,0
+Yuke's,Driving,2011,0
+Yuke's,Driving,2012,0
+Yuke's,Driving,2013,0
+Yuke's,Driving,2014,0
+Yuke's,Driving,2015,0
+Yuke's,Driving,2016,0
+Yuke's,Driving,2017,0
+Yuke's,Driving,2018,0
+Yuke's,Driving,2019,0
+Yuke's,Driving,2020,0
+Yuke's,Fighting,1996,0
+Yuke's,Fighting,1997,0
+Yuke's,Fighting,1998,0
+Yuke's,Fighting,1999,0
+Yuke's,Fighting,2000,2
+Yuke's,Fighting,2001,1
+Yuke's,Fighting,2002,2
+Yuke's,Fighting,2003,2
+Yuke's,Fighting,2004,3
+Yuke's,Fighting,2005,3
+Yuke's,Fighting,2006,3
+Yuke's,Fighting,2007,5
+Yuke's,Fighting,2008,6
+Yuke's,Fighting,2009,7
+Yuke's,Fighting,2010,6
+Yuke's,Fighting,2011,3
+Yuke's,Fighting,2012,2
+Yuke's,Fighting,2013,2
+Yuke's,Fighting,2014,2
+Yuke's,Fighting,2015,0
+Yuke's,Fighting,2016,0
+Yuke's,Fighting,2017,0
+Yuke's,Fighting,2018,0
+Yuke's,Fighting,2019,0
+Yuke's,Fighting,2020,0
+Yuke's,General,1996,0
+Yuke's,General,1997,0
+Yuke's,General,1998,0
+Yuke's,General,1999,0
+Yuke's,General,2000,0
+Yuke's,General,2001,0
+Yuke's,General,2002,0
+Yuke's,General,2003,0
+Yuke's,General,2004,0
+Yuke's,General,2005,0
+Yuke's,General,2006,0
+Yuke's,General,2007,0
+Yuke's,General,2008,1
+Yuke's,General,2009,0
+Yuke's,General,2010,0
+Yuke's,General,2011,0
+Yuke's,General,2012,0
+Yuke's,General,2013,1
+Yuke's,General,2014,0
+Yuke's,General,2015,2
+Yuke's,General,2016,0
+Yuke's,General,2017,0
+Yuke's,General,2018,0
+Yuke's,General,2019,0
+Yuke's,General,2020,0
+Yuke's,Individual,1996,0
+Yuke's,Individual,1997,0
+Yuke's,Individual,1998,0
+Yuke's,Individual,1999,0
+Yuke's,Individual,2000,0
+Yuke's,Individual,2001,0
+Yuke's,Individual,2002,0
+Yuke's,Individual,2003,0
+Yuke's,Individual,2004,0
+Yuke's,Individual,2005,1
+Yuke's,Individual,2006,2
+Yuke's,Individual,2007,4
+Yuke's,Individual,2008,4
+Yuke's,Individual,2009,7
+Yuke's,Individual,2010,6
+Yuke's,Individual,2011,2
+Yuke's,Individual,2012,2
+Yuke's,Individual,2013,2
+Yuke's,Individual,2014,2
+Yuke's,Individual,2015,2
+Yuke's,Individual,2016,2
+Yuke's,Individual,2017,2
+Yuke's,Individual,2018,0
+Yuke's,Individual,2019,0
+Yuke's,Individual,2020,0
+Yuke's,Racing,1996,0
+Yuke's,Racing,1997,0
+Yuke's,Racing,1998,0
+Yuke's,Racing,1999,0
+Yuke's,Racing,2000,0
+Yuke's,Racing,2001,0
+Yuke's,Racing,2002,0
+Yuke's,Racing,2003,0
+Yuke's,Racing,2004,0
+Yuke's,Racing,2005,0
+Yuke's,Racing,2006,1
+Yuke's,Racing,2007,0
+Yuke's,Racing,2008,0
+Yuke's,Racing,2009,0
+Yuke's,Racing,2010,0
+Yuke's,Racing,2011,0
+Yuke's,Racing,2012,0
+Yuke's,Racing,2013,0
+Yuke's,Racing,2014,0
+Yuke's,Racing,2015,0
+Yuke's,Racing,2016,0
+Yuke's,Racing,2017,0
+Yuke's,Racing,2018,0
+Yuke's,Racing,2019,0
+Yuke's,Racing,2020,0
+Yuke's,Shooter,1996,0
+Yuke's,Shooter,1997,0
+Yuke's,Shooter,1998,0
+Yuke's,Shooter,1999,0
+Yuke's,Shooter,2000,0
+Yuke's,Shooter,2001,0
+Yuke's,Shooter,2002,0
+Yuke's,Shooter,2003,0
+Yuke's,Shooter,2004,0
+Yuke's,Shooter,2005,0
+Yuke's,Shooter,2006,0
+Yuke's,Shooter,2007,0
+Yuke's,Shooter,2008,0
+Yuke's,Shooter,2009,0
+Yuke's,Shooter,2010,0
+Yuke's,Shooter,2011,0
+Yuke's,Shooter,2012,0
+Yuke's,Shooter,2013,0
+Yuke's,Shooter,2014,0
+Yuke's,Shooter,2015,0
+Yuke's,Shooter,2016,0
+Yuke's,Shooter,2017,0
+Yuke's,Shooter,2018,0
+Yuke's,Shooter,2019,1
+Yuke's,Shooter,2020,0
+Yuke's,Sports,1996,0
+Yuke's,Sports,1997,0
+Yuke's,Sports,1998,0
+Yuke's,Sports,1999,0
+Yuke's,Sports,2000,0
+Yuke's,Sports,2001,0
+Yuke's,Sports,2002,0
+Yuke's,Sports,2003,0
+Yuke's,Sports,2004,0
+Yuke's,Sports,2005,1
+Yuke's,Sports,2006,2
+Yuke's,Sports,2007,4
+Yuke's,Sports,2008,5
+Yuke's,Sports,2009,7
+Yuke's,Sports,2010,6
+Yuke's,Sports,2011,2
+Yuke's,Sports,2012,2
+Yuke's,Sports,2013,2
+Yuke's,Sports,2014,2
+Yuke's,Sports,2015,2
+Yuke's,Sports,2016,2
+Yuke's,Sports,2017,2
+Yuke's,Sports,2018,0
+Yuke's,Sports,2019,0
+Yuke's,Sports,2020,0
+Yuke's,Team,1996,0
+Yuke's,Team,1997,0
+Yuke's,Team,1998,0
+Yuke's,Team,1999,0
+Yuke's,Team,2000,0
+Yuke's,Team,2001,0
+Yuke's,Team,2002,0
+Yuke's,Team,2003,0
+Yuke's,Team,2004,0
+Yuke's,Team,2005,0
+Yuke's,Team,2006,0
+Yuke's,Team,2007,0
+Yuke's,Team,2008,1
+Yuke's,Team,2009,0
+Yuke's,Team,2010,0
+Yuke's,Team,2011,0
+Yuke's,Team,2012,0
+Yuke's,Team,2013,0
+Yuke's,Team,2014,0
+Yuke's,Team,2015,0
+Yuke's,Team,2016,0
+Yuke's,Team,2017,0
+Yuke's,Team,2018,0
+Yuke's,Team,2019,0
+Yuke's,Team,2020,0
+Yuke's,Third-Person,1996,0
+Yuke's,Third-Person,1997,0
+Yuke's,Third-Person,1998,0
+Yuke's,Third-Person,1999,0
+Yuke's,Third-Person,2000,0
+Yuke's,Third-Person,2001,0
+Yuke's,Third-Person,2002,0
+Yuke's,Third-Person,2003,0
+Yuke's,Third-Person,2004,0
+Yuke's,Third-Person,2005,0
+Yuke's,Third-Person,2006,0
+Yuke's,Third-Person,2007,0
+Yuke's,Third-Person,2008,0
+Yuke's,Third-Person,2009,0
+Yuke's,Third-Person,2010,0
+Yuke's,Third-Person,2011,0
+Yuke's,Third-Person,2012,0
+Yuke's,Third-Person,2013,0
+Yuke's,Third-Person,2014,0
+Yuke's,Third-Person,2015,0
+Yuke's,Third-Person,2016,0
+Yuke's,Third-Person,2017,0
+Yuke's,Third-Person,2018,0
+Yuke's,Third-Person,2019,1
+Yuke's,Third-Person,2020,0
