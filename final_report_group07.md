@@ -13,11 +13,15 @@ This project examines a Metacritic Video Game dataset in order to discover inter
 ### Question 2 + Results
 
 The second research question inquired if there is a specific genre that a developer tends to develop video games of, and to analyze, for this developer, whether or not the most developed genre had changed over the years. The results of the data analysis in [analysis2.ipynb](./notebooks/analysis2.ipynb) gave us an insight of the most popular genres for the chosen developer, Nintendo.
+
 ![nintendo_genre_distribution](./images/nintendo_genre_distribution.png)
+
 ***Figure 2.1 Genre Distribution of Nintendo***
 
 Given the distribution plot of Nintendo's genres in Figure 2.1, it was apparent that their most popular genres were Miscellaneous, Action, and Platformer. Discarding the 2D, Miscellaneous, and General genres due to non-specificity, we analyzed the trend of Nintendo's top 5 genres: Action, Platformer, Action Adventure, Fantasy, and Simulation.
+
 ![nintendo_genre_trend](./images/nintendo_genre_trend.png)
+
 ***Figure 2.2 Trend of the Most Popular Genres for Nintendo from 1995 - 2020***
 
 We noticed that while certain genres certainly had more attention than others as a whole, often the most developed genre in a year could differ from the most developed genre in another year, as seen in Figure 2.2. Nintendo's most popular genre overall, Action, was not always the most developed genre from 1995 to 2020. There were years where the action genre was actually less popular than the other genres, such as Simulation games peaking in 2005. We also noticed that a genre could peak in popularity more than once, at different points in time. Not only did the Action genre peak in 2009, but also in 2019, among other years.
