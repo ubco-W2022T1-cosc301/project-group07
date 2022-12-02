@@ -12,7 +12,7 @@ Using our processed data, i.e: after removing redundant columns that the whole t
 
 ***Figure 0.1 and 0.2 Shape and sample of our dataset***
 
-As you can see above, our dataset is relatively large. It consists of 17944 rows and 6 columns.
+As you can see above, our dataset is relatively large. It consists of 17944 rows and 6 columns. The 5 rows are the sample of our dataset. In general, all of the dataset have the same format of columns.
 
 ![sample_dataset](./images/EDA2.jpg)
 
