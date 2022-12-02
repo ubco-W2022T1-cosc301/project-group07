@@ -33,13 +33,13 @@ The third research question is to analyze the trend of the gaming platform from 
 
 ![general_count_of_platform](./images/count_of_platform.jpg)
 
-*** Figure 3.1 Count of games by Platform***
+***Figure 3.1 Count of games by Platform***
 
 As we can see in this horizontal bar chart, there are a number of gaming platforms used in the gaming industry. From the dataset itself, we can see that there are 22 different platforms with PC being the most count at around 4000 games. This dataset however, does not tell that PC is the most popular amongst all platform. The dataset is simply a representation from 1995 to 2020. As such, 3 platforms: Stadia, XboxSeriesX and PS5 seem to be the least number, but again, not the least popular since those platforms are released in 2019, 2020 and 2020 respectively. We will see the trend better in the line chart below.
 
 ![trend of platform](./images/trend_of_platform.jpg)
 
-*** Figure 3.2 Trend of Gaming Platform by Games***
+***Figure 3.2 Trend of Gaming Platform by Games***
 
 This overlapped line chart gives a better overview of the trend in each platform from 1995 to 2020. For example, we can see that Gamecube is released in 2021, and overtime, it increases in the number of games until it peaked in around 2002 with around 125 games and started falling and failed to stay in the market in around 2007. Similar to many other platforms such as Dreamcast, 3DS, DS, etc.
 
