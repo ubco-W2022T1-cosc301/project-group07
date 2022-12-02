@@ -18,7 +18,7 @@ As you can see above, our dataset is relatively large. It consists of 17944 rows
 
 ***Figure 0.3 Shape and sample of our dataset***
 
-From Figure 0.2, we can see a bit more in depth of how our data is distributed. Every line represent one column of our dataset, for example, **name** is our first column and it has 11762 distinct values. Which means there are 11762 different games used in our dataset. The rest of the columns are **platform**, **r-date** (release date), **developer**, **genre**, **players** and each corresponding values represent distinct values for each column.
+From above, we can see a bit more in depth of how our data is distributed. Every line represent one column of our dataset, for example, **name** is our first column and it has 11762 distinct values. Which means there are 11762 different games used in our dataset. The rest of the columns are **platform**, **r-date** (release date), **developer**, **genre**, **players** and each corresponding values represent distinct values for each column.
 
 ![platform_names](./images/EDA4.jpg)
 
