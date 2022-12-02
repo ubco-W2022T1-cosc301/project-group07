@@ -26,6 +26,18 @@ From above, we can see a bit more in depth of how our data is distributed. Every
 
 This is a specific EDA that we did. It shows 22 distinct platform names that is used in **Analysis3** to answer the research question about the trend of gaming platform. 
 
+![top_developers](./images/EDA5.png)
+
+***Figure 0.5 Top 15 Developers***
+
+Another EDA we did was to find out the top 15 developers used for **Analysis2**, in order narrow our scope and choose a developer to investigate the genre trend of.
+
+![top_genres](./images/EDA6.png)
+
+***Figure 0.6 Top 30 Genres***
+
+Now that we've constrained the developers, we were now looking at the top 30 genres created by them, also used for **Analysis2**. This is to ultimately answer the questions about the most popular genre for the developer and the trend of the developer's top genres changing over the years. Note that not all of these genres will necessarily show up in a particular developer's genre distribution, but only genres from this list could show up in a given developer's genre distribution.
+
 ### Question 1 + Results
 
 
