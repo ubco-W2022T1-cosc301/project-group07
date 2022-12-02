@@ -5,7 +5,26 @@
 This project examines a Metacritic Video Game dataset in order to discover interesting trends in the gaming industry. These trends can involve a variety of different attributes of a game and how they relate to other attributes, such as the platform and the genre of a game. Our group has a common interest in video games, and we were excited to see what we could find out using exploratory data analysis.
 
 ### Exploratory Data Analysis
+Using our processed data, i.e: after removing redundant columns that the whole team will not be using, here are our initial investigation on the dataset. 
 
+![rows and columns](./images/EDA3.jpg)
+![sample_dataset](./images/EDA1.jpg)
+
+***Figure 0.1 and 0.2 Shape and sample of our dataset***
+
+As you can see above, our dataset is relatively large. It consists of 17944 rows and 6 columns.
+
+![sample_dataset](./images/EDA2.jpg)
+
+***Figure 0.3 Shape and sample of our dataset***
+
+From Figure 0.2, we can see a bit more in depth of how our data is distributed. Every line represent one column of our dataset, for example, **name** is our first column and it has 11762 distinct values. Which means there are 11762 different games used in our dataset. The rest of the columns are **platform**, **r-date** (release date), **developer**, **genre**, **players** and each corresponding values represent distinct values for each column.
+
+![platform_names](./images/EDA4.jpg)
+
+***Figure 0.4 Platform Names***
+
+This is a specific EDA that we did. It shows 22 distinct platform names that is used in **Analysis3** to answer the research question about the trend of gaming platform. 
 
 ### Question 1 + Results
 
@@ -29,7 +48,7 @@ We noticed that while certain genres certainly had more attention than others as
 This answers our research question, whether there is a specific genre that a developer tends to develop games of, and whether the most developed genre had changed over the years or not. Nintendo tends to develop Action games (after Miscellaneous), and it's genre trend is not stable: the Action genre is not always the most popular in a given year, and different genres will wax and wane in popularity.
 
 ### Question 3 + Results
-The third research question is to analyze the trend of the gaming platform from 1995 to 2020. With the everchanging nature of technology, video game industries have been changing in terms of the services and subscriptions that they use to develop and offer to the users using the updated tools and technologies in the field. With the rapid growth in the industry, I my research will analyze the shift in the trend of platforms used in the video gaming industry, ranging from the retro-gaming to modernized-gaming consoles overtime from 1995 to 2020.
+The third research question is to analyze the trend of the gaming platform from 1995 to 2020. With the everchanging nature of technology, video game industries have been changing in terms of the services and subscriptions that they use to develop and offer to the users using the updated tools and technologies in the field. With the rapid growth in the industry, I my research will analyze the shift in the trend of platforms used in the video gaming industry, ranging from the retro-gaming to modernized-gaming consoles overtime from 1995 to 2020. To better understand our process of anlysis and the result, [click this link to better understand our process of anlysis and the resultTo better understand our process of anlysis and the result](./notebooks/analysis3.ipynb)
 
 ![general_count_of_platform](./images/count_of_platform.jpg)
 
