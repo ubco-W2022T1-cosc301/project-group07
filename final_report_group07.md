@@ -42,7 +42,19 @@ Now that we've constrained the developers, we were now looking at the top 30 gen
 
 The goal of the first research question was to define the relationship between the genre and the typical number of players each genre allows for. We also explored different areas of this combination including whether or not a certain genre leans towards a certain number of players and if that number is affected by the type of console. All the findings and results can be found in further detail here [analysis1.ipynb](./notebooks/analysis1.ipynb). 
 
+![counts of genres & playeres](./images/counts.jpg)
 
+***Figure 1.1 & 1.2 Counts of Genres & Counts of Players***
+
+These are very simple graphs displaying the number of occurrences per genre and the number of occurrences per player amount respectivly. This gives a quick overview of all the most notable attributes and the most popular by count before diving deeping into the analysis. It also allows some inferences and guesses to be made about popular genre mechanics such as the genre Action Adventure having 1 player story based themes.
+
+![Distribution Between Genre and the Number of Players](./images/distribution_of_players_per_genre.jpg)
+
+***Figure 1.3 Distribution Between Genre and the Number of Players***
+
+This graph shows the distribution between the genre of game and the platforms they are played on. It gives a visual breakdown per genre and we can see that the genre 'Action' has the most number of games in the dataset. Based on the more specific number of players, we are able to find that 1 player is often offered the most including in the action genre. Looking in general, we can answer our research question by concluding that the most popular genre is 'Action' and tends to lean towards the 'No Multiplayer' or 'Singleplayer' options. This makes sense as actions games often feel like movies and have large story elements implemented. 
+
+If we wanted to further explore the relationship between these two attributes, we can begin to look towards types of consoles and their most popular genres which inexplicitly creates possible varibles of time, dates and technological advancment to consinder. Both Question 2 and Question 3 answer these possibilites.
 
 ### Question 2 + Results
 
