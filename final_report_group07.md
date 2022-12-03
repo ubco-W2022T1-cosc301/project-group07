@@ -40,6 +40,9 @@ Now that we've constrained the developers, we were now looking at the top 30 gen
 
 ### Question 1 + Results
 
+The goal of the first research question was to define the relationship between the genre and the typical number of players each genre allows for. We also explored different areas of this combination including whether or not a certain genre leans towards a certain number of players and if that number is affected by the type of console. All the findings and results can be found in further detail here [analysis1.ipynb](./notebooks/analysis1.ipynb). 
+
+
 
 ### Question 2 + Results
 
