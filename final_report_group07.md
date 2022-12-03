@@ -96,4 +96,14 @@ Xbox and Playstation have the very interesting trends amongst all others. As we 
 We can't conclude what happens in the rise and the drops of gaming platforms just by the chart. But we can tell for sure that the gaming industry was and still is very popular. With the advancing of technology, people are more eager to try on new different platforms that might offer better services than the others, such as better gaming experience.
 
 ### Summary
+Our findings were a product of our reserach based on the three questions analyzed above. To achieve the most accurate results, We worked with a dataset that included 10 unique columns and over 10,000 rows of data to best represent the trends and patterns. From this we conclude some of the most important findings from our analysis are the following:
 
+<ul>
+  <li> Action & 1 Player is the most popular combination between genre and the number of players
+  <li> Specifically, Nintendo's top five genres are Action, Platformer, Action Adventure, Fantasy, and Simulation
+  <li> Nintendo developed Action games continuously throughout the years, even when Action was not the most popular genre
+  <li> There are 22 different platforms with PC having the most entries 
+  <li> As expected, the number of games per console increases and decrases as the console's market value rises and falls
+</ul>
+
+As shown in the figures above, we were able to create clean visualizations to diplay the data and demonstrate how we were able to answer our intial inquires. Our work only touches the surface of data analysis with these values but is able to display our procsses and conclusions. 
