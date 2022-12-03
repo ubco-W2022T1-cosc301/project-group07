@@ -106,4 +106,4 @@ Our findings were a product of our reserach based on the three questions analyze
   <li> As expected, the number of games per console increases and decrases as the console's market value rises and falls
 </ul>
 
-As shown in the figures above, we were able to create clean visualizations to diplay the data and demonstrate how we were able to answer our intial inquires. Our work only touches the surface of data analysis with these values but is able to display our procsses and conclusions. 
+As shown in the figures above, we were able to create clean visualizations to diplay the data and demonstrate how we were able to answer our intial inquires. Our work only touches the surface of the possible analysis with this dataset, however these results are able to display our processes and the conclusions we were able to make. 
